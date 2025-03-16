@@ -1,0 +1,70 @@
+<a>
+	<img>sebastian/sebastian_looking_up
+	<txt>When Sebastian looked up at the sky, he saw something strange.
+	<img>sebastian/eclipse1
+	<txt>The Sun had a weird shape.
+	<img>sebastian/sebastian_looking_up
+	<txt>Oh, right! There would be an eclipse on that day!
+	<img>sebastian/eclipse2
+	<txt>Sebastian kept staring at it.
+	<txt>It was beautiful.
+	<img>sebastian/bright_spot
+	<txt>But when he looked away, something was wrong.
+	<txt>He kept seeing a bright spot even when he was looking at the ground.
+	<txt>Sebastian closed his eyes and wished that it was nothing, that it would go away after a while.
+	<txt>Suddenly, the bright spot started to change in shape.
+    <img>sebastian/sebastian_eyes_deal
+	<txt>It morphed into a little witch!
+	<txt>Sebastian heard a voice in his head offering him a deal, and he accepted it.
+	<quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>sebastian/sebastian_cured
+    <txt>Sebastian could now see as well as he ever had!
+    <txt>He would never stare directly at the Sun ever again.
+</a1>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she morphed back into a spot.
+    <img>sebastian/dark_spot
+    <txt>The bright spot became dark.
+    <txt>Then it began to grow.
+    <img>black
+    <txt>Before Sebastian could enjoy his vision for the last time, he was blind.
+</a0>
+
+<a0a>
+    <img>sebastian/sebastian_blind
+    <txt>When you turn blind, your other senses are supposed to sharpen.
+    <txt>In some stories, going blind actually frees the main character from distractions, allowing them to fight like a ninja.
+	<txt>But years had passed since Sebastian had lost his vision and his other senses hadn't heightened at all.
+    <txt>He didn't need to become a ninja, but he wanted at least something more.
+    <txt>Even a slight but noticeable improvement would make him happy.
+    <img>sebastian/sebastian_blind_lariat
+    <txt>Suddenly, Lariat appeared before him.
+    <img>sebastian/sebastian_blind_bump
+    <txt>Being blind, Sebastian bumped into her.
+    <img>sebastian/sebastian_blind_deal
+    <txt>"I guess that was my bad", said Lariat.
+    <txt>"Let's make a deal."
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>sebastian/sebastian_meal
+    <txt>In the following weeks, Sebastian's senses of smell and taste improved dramatically.
+    <txt>His usually mediocre meals were now impossible to swallow.
+    <txt>He was forced to put more care into his cooking.
+    <img>sebastian/sebastian_chef
+    <txt>And thanks to his sharpened senses, he eventually became a world renowned chef.
+</a0a1>
+
+<a0a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>sebastian/sebastian_blind2
+    <txt>In the following years, Sebastian senses didn't improve at all.
+    <txt>In fact, they worsened.
+</a0a0>

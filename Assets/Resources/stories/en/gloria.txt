@@ -1,0 +1,133 @@
+<a>
+    <img>gloria/aztec_temple
+    <txt>Gloria was exploring an ancient Aztec temple.
+    <img>gloria/aztec_tile
+    <txt>As she finished putting her foot down, the floor tile sank.
+    <txt>"Oh, please, don't let it be a trap!", she wished.
+    <img>gloria/gloria_deal_aztec
+    <txt>Then, a witch appeared before her.
+    <txt>Lariat offered her the deal and Gloria accepted it.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>gloria/aztec_tile2
+    <txt>Gloria brought her foot up carefully.
+    <txt>The temple started to shake, rumbling strongly.
+    <img>gloria/aztec_treasure
+    <txt>The wall opened to reveal a secret treasure chamber.
+    <txt>Inside the chamber there was a pile of ancient Aztec gold!
+    <txt>She was going to be a heroine when she brought all that back to the museum.
+</a1>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>gloria/aztec_tile2
+    <txt>Gloria brought her foot up carefully.
+    <txt>She heard a weird noise coming from the walls.
+    <img>gloria/aztec_death
+    <txt>Before she could react, dozens of poisonous darts pierced her.
+    <txt>It was a painful death.
+</a0>
+
+<b>
+    <img>gloria/olmec_temple
+    <txt>Gloria was exploring an ancient Olmec temple.
+    <img>gloria/olmec_tile
+    <txt>As she finished putting her foot down, the floor tile sank.
+    <txt>"Oh, please, don't let it be a trap!", she wished.
+    <img>gloria/gloria_deal_olmec
+    <txt>Then, a witch appeared before her.
+    <txt>Lariat offered her the deal and Gloria accepted it.
+    <quiz>
+</b>
+
+<b1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>gloria/olmec_tile2
+    <txt>Gloria brought her foot up carefully.
+    <txt>The temple started to shake, rumbling strongly.
+    <img>gloria/olmec_treasure
+    <txt>The wall opened to reveal a secret treasure chamber.
+    <txt>Inside the chamber there was an ancient Olmec stone head!
+    <txt>She was going to be a heroine when she brought it back to the museum.
+</b1>
+
+<b0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>gloria/olmec_tile2
+    <txt>Gloria brought her foot up carefully.
+    <txt>She heard a weird noise coming from behind.
+    <img>gloria/olmec_death
+    <txt>A giant boulder was rolling towards her!
+    <img>black
+    <txt>Before she could react, she was crushed to the ground.
+    <txt>It was a quick but very painful death.
+</b0>
+
+<c>
+    <img>gloria/maya_temple
+    <txt>Gloria was exploring an ancient Maya temple.
+    <img>gloria/maya_tile
+    <txt>As she finished putting her foot down, the floor tile sank.
+    <txt>"Oh please, don't let it be a trap!", she wished.
+    <img>gloria/gloria_deal_maya
+    <txt>Then, a witch appeared before her.
+    <txt>Lariat offered her the deal and Gloria accepted it.
+    <quiz>
+</c>
+
+<c1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>gloria/maya_tile2
+    <txt>Gloria brought her foot up carefully.
+    <txt>The temple started to shake, rumbling strongly.
+    <img>gloria/maya_treasure
+    <txt>The wall opened to reveal a secret treasure chamber.
+    <txt>Inside the chamber there was a golden Maya disc!
+    <txt>She was going to be a heroine when she brought it back to the museum.
+</c1>
+
+<c0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>gloria/maya_tile2
+    <txt>Gloria brought her foot up carefully.
+    <txt>She heard a weird noise coming from the floor.
+    <img>gloria/maya_death
+    <txt>Before she could react, the floor opened to reveal a spike pit.
+    <txt>It was a painful death.
+</c0>
+
+<d>
+    <img>gloria/inca_temple
+    <txt>Gloria was exploring an ancient Inca temple.
+    <img>gloria/inca_tile
+    <txt>As she finished putting her foot down, the floor tile sank.
+    <txt>"Oh, please, don't let it be a trap!", she wished.
+    <img>gloria/gloria_deal_inca
+    <txt>Then, a witch appeared before her.
+    <txt>Lariat offered her the deal and Gloria accepted it.
+    <quiz>
+</d>
+
+<d1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>gloria/inca_tile2
+    <txt>Gloria brought her foot up carefully.
+    <txt>The temple started to shake, rumbling strongly.
+    <img>gloria/inca_treasure
+    <txt>The wall opened to reveal a secret treasure chamber.
+    <txt>Inside the chamber there was a golden Inca figurine!
+    <txt>She was going to be a heroine when she brought it back to the museum.
+</d1>
+
+<d0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>gloria/inca_tile2
+    <txt>Gloria brought her foot up carefully.
+    <txt>She heard a weird noise coming from the ceiling.
+    <img>gloria/inca_death
+    <txt>Before she could react, dozens of poisonous snakes landed on her.
+    <txt>It was an agonizing death.
+</d0>

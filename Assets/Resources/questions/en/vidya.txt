@@ -1,0 +1,1727 @@
+<q>Who directed the video game "Shadow of the Colossus"?
+<a1>Fumito Ueda
+<a2>Cliff Bleszinski
+<a3>Hideo Kojima
+<a4>Warren Spector
+
+<q>Who directed the video game "Metal Gear Solid"?
+<a1>Hideo Kojima
+<a2>Cliff Bleszinski
+<a3>Warren Spector
+<a4>Fumito Ueda
+
+<q>What year was declared by Nintendo as "the year of Luigi"?
+<a1>2013
+<a2>1987
+<a3>1992
+<a4>2002
+
+<q>In which video game from "The Legend of Zelda" series does Link travel back in time playing an ocarina?
+<a1>Majora's Mask
+<a2>Ocarina of Time
+<a3>A Link to the Past
+<a4>The Wind Waker
+
+<q>How many playable characters are there in the video game "Super Smash Bros. Melee"?
+<a1>25
+<a2>8
+<a3>12
+<a4>20
+
+<q>What is the name of the fourth installment of the "The Elder Scrolls" video game series?
+<a1>Oblivion
+<a2>Skyrim
+<a3>Morrowind
+<a4>Waterfall
+
+<q>In which video game from "The Legend of Zelda" series does Tingle first appear?
+<a1>Majora's Mask
+<a2>Ocarina of Time
+<a3>Oracle of Ages
+<a4>The Wind Waker
+
+<q>What is the name of the fairy that accompanies Link in "The Legend of Zelda: Ocarina of Time"?
+<a1>Navi
+<a2>Tael
+<a3>Ciela
+<a4>Midna
+
+<q>What is the name of the treasure the main character looks for in the video game "Monkey Island 2: LeChuck's Revenge"?
+<a1>Big Whoop
+<a2>Monkey Island
+<a3>La Esponja Grande
+<a4>Ron Gilbert
+
+<q>What is the name of Shepard's starship in the video game "Mass Effect"?
+<a1>Normandy
+<a2>Serenity
+<a3>Elysium
+<a4>Covenant Seraph
+
+<q>How many bits did the architecture of the video game console Super NES have?
+<a1>16
+<a2>8
+<a3>32
+<a4>64
+
+<q>What is the name of the main character in the video game "Half-Life"?
+<a1>Gordon Freeman
+<a2>Nathan Drake
+<a3>Duke Nukem
+<a4>Manny Calavera
+
+<q>Which of these fruits gives you the least points in the arcade video game "Pac-Man"?
+<a1>Cherries
+<a2>Strawberry
+<a3>Orange
+<a4>Grapes
+
+<q>In which of the following video games is there a character named "Zero"?
+<a1>Nine Hours, Nine Persons, Nine Doors
+<a2>Phoenix Wright: Ace Attorney (Gyakuten Saiban)
+<a3>Danganronpa: Trigger Happy Havoc
+<a4>The Blackwell Legacy
+
+<q>Which of the following video games was not developed by Intelligent Systems?
+<a1>Pikmin
+<a2>Fire Emblem
+<a3>Paper Mario
+<a4>Advance Wars
+
+<q>What is Andy's special power in the video game "Advance Wars"?
+<a1>Hyper Repair
+<a2>Max Force
+<a3>Blizzard
+<a4>Double Time
+
+<q>In what fictional town is the video game "Alan Wake" set?
+<a1>Bright Falls
+<a2>Oakvale
+<a3>Silent Hill
+<a4>San Fierro
+
+<q>Which of the following video games plays in third person view?
+<a1>Alpha Protocol
+<a2>Killzone
+<a3>Bulletstorm
+<a4>Left 4 Dead
+
+<q>Which of the following is not a visual novel?
+<a1>And Yet It Moves
+<a2>Analogue: A Hate Story
+<a3>Little Busters!
+<a4>Katawa Shoujo
+
+<q>Which of the following is not a visual novel?
+<a1>Senran Kagura Burst
+<a2>Hate Plus
+<a3>Steins;Gate
+<a4>Ever 17: The Out of Infinity
+
+<q>What color are pigs in the video game "Angry Birds"?
+<a1>Green
+<a2>Yellow
+<a3>Red
+<a4>Black
+
+<q>Who sells you a house in the video game "Animal Crossing"?
+<a1>Tom Nook
+<a2>Isabelle
+<a3>Don Resetti
+<a4>Blathers
+
+<q>Who of the following is not a prosecutor in the video game series "Ace Attorney" ("Gyakuten Saiban")?
+<a1>Dick Gumshoe
+<a2>Godot
+<a3>Klavier Gavin
+<a4>Franziska von Karma
+
+<q>In which of the following video games do you visit Jerusalem?
+<a1>Assassin's Creed
+<a2>Alpha Protocol
+<a3>Call of Duty 4: Modern Warfare
+<a4>Bayonetta
+
+<q>In which of the following video games is the main character not kidnapped?
+<a1>Undertale
+<a2>Assassin's Creed
+<a3>Nine Hours, Nine Persons, Nine Doors
+<a4>Far Cry 3
+
+<q>What is the name of the main character in the video game "Assassin's Creed Unity"?
+<a1>Arno
+<a2>Ezio
+<a3>Connor
+<a4>Altaïr
+
+<q>What is the name of the main character in the video game "Bayonetta"?
+<a1>Bayonetta
+<a2>Luka
+<a3>Jeanne
+<a4>Umbra
+
+<q>What is the name of the main character in the video game "Beyond Good & Evil"?
+<a1>Jade
+<a2>Jodie
+<a3>Nico
+<a4>Madison
+
+<q>Who of the following is not a character in the video game "Heavy Rain"?
+<a1>Jodie Holmes
+<a2>Ethan Mars
+<a3>Scott Shelby
+<a4>Madison Paige
+
+<q>Who published the video game "Billy Hatcher and the Giant Egg"?
+<a1>Sega
+<a2>Nintendo
+<a3>Capcom
+<a4>Konami
+
+<q>What is the name of the super powers you can use in the video game "BioShock"?
+<a1>Plasmids
+<a2>Whispers
+<a3>Lithiums
+<a4>Hacks
+
+<q>In what fictional city is the video game "BioShock Infinite" set?
+<a1>Columbia
+<a2>Rapture
+<a3>Laputa
+<a4>Fontaine
+
+<q>Which of the following video games has a female main character?
+<a1>The Blackwell Legacy
+<a2>The Stanley Parable
+<a3>The Talos Principle
+<a4>The Witcher
+
+<q>In which of the following video games do you control two characters simultaneously?
+<a1>Brothers - A Tale of Two Sons
+<a2>Long Live The Queen
+<a3>Heavy Rain
+<a4>Broken Age
+
+<q>In which of the following video games can't you rewind time?
+<a1>Broken Age
+<a2>Braid
+<a3>Prince of Persia: The Sands of Time
+<a4>Life is Strange
+
+<q>Who is the main character in the video game "Broken Sword: The Shadow of the Templars"?
+<a1>George Stobbart
+<a2>Guybrush Threepwood
+<a3>Bernard Bernoulli
+<a4>Boston Low
+
+<q>In what "Broken Sword" game is a Maya stone central to the plot?
+<a1>The Smoking Mirror
+<a2>The Shadow of the Templars
+<a3>The Sleeping Dragon
+<a4>The Serpent's Curse
+
+<q>Which of the following video games was not directed by Tim Schafer?
+<a1>Maniac Mansion
+<a2>Brütal Legend
+<a3>Broken Age
+<a4>Psychonauts
+
+<q>What colors are the two main character dragons in the video game "Bubble Bobble"?
+<a1>Green and blue
+<a2>Red and yellow
+<a3>Black and white
+<a4>Orange and purple
+
+<q>In what "Call of Duty" game is there a mission titled "No Russian"?
+<a1>Modern Warfare 2
+<a2>Black Ops III
+<a3>Ghosts
+<a4>World at War
+
+<q>In which of the following video games must you avoid dying in your sleep?
+<a1>Catherine
+<a2>Five Nights at Freddy's
+<a3>Silent Hill
+<a4>Dead Space
+
+<q>In which of the following video games can you fly if you shoot a machine gun at the ground?
+<a1>Cave Story
+<a2>Call of Duty: Advanced Warfare
+<a3>Antichamber
+<a4>BioShock Infinite
+
+<q>In which of the following video games can't you shoot arrows?
+<a1>Uncharted: Drake's Fortune
+<a2>Chivalry: Medieval Warfare
+<a3>Crysis 3
+<a4>Diablo II
+
+<q>In which of these video games there isn't a character named Jack?
+<a1>Final Fantasy VII
+<a2>Borderlands 2
+<a3>Metal Gear Solid 2: Sons of Liberty
+<a4>BioShock
+
+<q>What is the name of the main character in the video game "Chrono Trigger"?
+<a1>Crono
+<a2>Triger
+<a3>Zack
+<a4>Hero
+
+<q>Who gives Cloud the Buster Sword in the video game "Crisis Core: Final Fantasy VII"?
+<a1>Zack
+<a2>Angeal
+<a3>Sephiroth
+<a4>Genesis
+
+<q>Which of these video games was not published by Electronic Arts?
+<a1>Watch Dogs
+<a2>Titanfall
+<a3>Spore
+<a4>Crysis
+
+<q>Which of the following is not a playable character in the video game "Day of the Tentacle"?
+<a1>Fred
+<a2>Bernard
+<a3>Hoagie
+<a4>Laverne
+
+<q>In which of these video games is there a starship named "USG Ishimura"?
+<a1>Dead Space
+<a2>Mass Effect
+<a3>Metroid Prime
+<a4>Deus Ex
+
+<q>In the creation of which of these video games was Warren Spector not involved?
+<a1>Fallout
+<a2>Deus Ex
+<a3>Epic Mickey
+<a4>System Shock
+
+<q>How many pikmin can you control simultaneously in the video game "Pikmin"?
+<a1>100
+<a2>10
+<a3>25
+<a4>50
+
+<q>In what year was the video game console Wii released?
+<a1>2006
+<a2>2010
+<a3>2002
+<a4>2013
+
+<q>In which of these video games does the main character work for the "UNATCO"?
+<a1>Deus Ex
+<a2>Gears of War
+<a3>Call of Duty: Advanced Warfare
+<a4>Assassin's Creed
+
+<q>What is the name of the main character in the video game "Deus Ex: Human Revolution"?
+<a1>Adam
+<a2>Faridah
+<a3>Denton
+<a4>John
+
+<q>Which of these is not a class of character you can select in the video game "Diablo II"?
+<a1>Monk
+<a2>Amazon
+<a3>Necromancer
+<a4>Barbarian
+
+<q>Which of these animals can't you ride in the video game "Donkey Kong Country"?
+<a1>Elephant
+<a2>Rhinoceros
+<a3>Swordfish
+<a4>Ostrich
+
+<q>The plot of which of these video games begins with a meteorite crash?
+<a1>EarthBound (Mother 2)
+<a2>Mass Effect
+<a3>Eternal Sonata (Trusty Bell)
+<a4>Final Fantasy VII
+
+<q>What is the first name of the video game character Professor Layton?
+<a1>Hershel
+<a2>Luke
+<a3>Logic
+<a4>Clark
+
+<q>In what video game does the main character seek revenge for his stolen butt?
+<a1>Electronic Super Joy
+<a2>Digital: A Love Story
+<a3>FEZ
+<a4>WarioWare: Touched!
+
+<q>Which of these video games has a playable female main character?
+<a1>Eternal Darkness: Sanity's Requiem
+<a2>Gabriel Knight: Sins of the Fathers
+<a3>Grand Theft Auto V
+<a4>Kingdom Hearts
+
+<q>Which of these video games takes place inside Chopin's dream?
+<a1>Eternal Sonata (Trusty Bell)
+<a2>Braid
+<a3>Alan Wake
+<a4>Another World
+
+<q>In which video game would you find the village of Oakvale?
+<a1>Fable
+<a2>Final Fantasy
+<a3>EarthBound (Mother 2)
+<a4>Golden Sun
+
+<q>To what was the video game "Fahrenheit" renamed in North America?
+<a1>Indigo Prophecy
+<a2>Omikron: The Nomad Soul
+<a3>Heavy Rain
+<a4>Celsius
+
+<q>In which of these video games does the main character wear a red hat?
+<a1>Fez
+<a2>Grim Fandango
+<a3>Ico
+<a4>Okami
+
+<q>In what console did the video game "Final Fantasy Crystal Chronicles" first appear?
+<a1>Nintendo GameCube
+<a2>PlayStation 2
+<a3>Game Boy Advance
+<a4>Nintendo DS
+
+<q>The main characters of what Final Fantasy video game are "Light Warriors"?
+<a1>Final Fantasy
+<a2>Final Fantasy II
+<a3>Final Fantasy III
+<a4>Final Fantasy IV
+
+<q>In what Final Fantasy video game do the main characters live in a floating continent?
+<a1>Final Fantasy III
+<a2>Final Fantasy
+<a3>Final Fantasy II
+<a4>Final Fantasy IV
+
+<q>What is the name of the main character in the video game "Final Fantasy IV"?
+<a1>Cecil
+<a2>Bartz
+<a3>Terra
+<a4>Vaan
+
+<q>In which of these video games is there an opera?
+<a1>Final Fantasy VI
+<a2>Eternal Sonata (Trusty Bell)
+<a3>Elite Beat Agents
+<a4>Flower
+
+<q>Who is the main villain in the video game "Final Fantasy VI"?
+<a1>Kefka
+<a2>Gilgamesh
+<a3>Sephiroth
+<a4>Dr. Hollander
+
+<q>Which of the following does not describe a playable character in the video game "Final Fantasy VII"?
+<a1>Dark elf
+<a2>Talking cat
+<a3>Flower merchant
+<a4>Young ninja
+
+<q>Who is Squall's rival in the video game "Final Fantasy VIII"?
+<a1>Seifer
+<a2>Zell
+<a3>Quistis
+<a4>Laguna
+
+<q>Which of these video games begins with the kidnapping of a princess?
+<a1>Final Fantasy IX
+<a2>Golden Sun
+<a3>Dragon Age: Origins
+<a4>Shenmue II
+
+<q>How does the story in the video game "Final Fantasy X" begin?
+<a1>A monster attacks a city
+<a2>A meteorite crashes
+<a3>A princess is kidnapped
+<a4>The main character wakes with amnesia
+
+<q>What are Balthier and Fran in the video game "Final Fantasy XII"?
+<a1>Pirates
+<a2>Summoners
+<a3>Soldiers
+<a4>Merchants
+
+<q>Who is Snow's fiancée in the video game "Final Fantasy XIII"?
+<a1>Serah
+<a2>Vanille
+<a3>Lightning
+<a4>Fang
+
+<q>Which of the following is not a pokémon?
+<a1>Palmon
+<a2>Hitmonlee
+<a3>Monferno
+<a4>Metapod
+
+<q>Which of these is not a main character in the "Fire Emblem" saga?
+<a1>Mustadio
+<a2>Eirika
+<a3>Hector
+<a4>Chrom
+
+<q>In what video game is there a dragon called Grima?
+<a1>Fire Emblem Awakening
+<a2>Spyro the Dragon
+<a3>Dark Souls II
+<a4>Drakengard 3
+
+<q>In which of these video games would you find the kingdom of Crimea?
+<a1>Fire Emblem: Path of Radiance
+<a2>The Legend of Zelda: Tri Force Heroes
+<a3>Kingdom Hearts II
+<a4>The Elder Scrolls V: Skyrim
+
+<q>What is the job of the main character in the video game "Five Nights at Freddy's"?
+<a1>Security guard
+<a2>Journalist
+<a3>Writer
+<a4>Policeman
+
+<q>In which of these video games are you pursued by a rebel fleet?
+<a1>FTL: Faster Than Light
+<a2>Kerbal Space Program
+<a3>Elite: Dangerous
+<a4>Mass Effect
+
+<q>Which of these games is set in New Orleans?
+<a1>Gabriel Knight: Sins of the Fathers
+<a2>Broken Sword II: The Smoking Mirror
+<a3>The Longest Journey
+<a4>Grim Fandango
+
+<q>What is a Lancer?
+<a1>A weapon in "Gears of War"
+<a2>A pokémon
+<a3>A vehicle in "Mass Effect"
+<a4>A robot in "Metal Gear Solid"
+
+<q>In what platform was the video game "Ghost Trick: Phantom Detective" originally launched?
+<a1>Nintendo DS
+<a2>Game Boy Advance
+<a3>iOS
+<a4>PlayStation 2
+
+<q>What nickname does Kratos earn after being cursed in the video game "God of War"?
+<a1>Ghost of Sparta
+<a2>God of War
+<a3>Kinslayer
+<a4>Blades of Chaos
+
+<q>Which of these is not a main character in the video game "Grand Theft Auto V"?
+<a1>Carl
+<a2>Michael
+<a3>Trevor
+<a4>Franklin
+
+<q>What color do the Ballas wear in the video game "Grand Theft Auto: San Andreas"?
+<a1>Purple
+<a2>Green
+<a3>Blue
+<a4>Yellow
+
+<q>What is Manny's job in the video game "Grim Fandango"?
+<a1>Travel agent
+<a2>Detective
+<a3>Politician
+<a4>Security guard
+
+<q>What is the name of the research facility in which the video game "Half-Life" takes place?
+<a1>Black Mesa
+<a2>Aperture Science
+<a3>City 17
+<a4>Valve
+
+<q>In which of these video games can you use a gravity gun?
+<a1>Half-Life 2
+<a2>BioShock
+<a3>Grand Theft Auto IV
+<a4>Halo 3
+
+<q>What is the name of the kidnapped kid you try to rescue in the video game "Heavy Rain"?
+<a1>Shaun
+<a2>Jason
+<a3>Ethan
+<a4>Scott
+
+<q>In what video game do you try to find the Origami Killer?
+<a1>Heavy Rain
+<a2>L.A. Noire
+<a3>Murdered: Soul Suspect
+<a4>Hotel Dusk: Room 215
+
+<q>In what video game do you try to rescue princess Yorda?
+<a1>Ico
+<a2>Guacamelee!
+<a3>Tales of Xillia
+<a4>Final Fantasy XIV
+
+<q>Which of these video games doesn't take place inside a castle?
+<a1>Deadly Premonition (Red Seeds Profile)
+<a2>Ico
+<a3>Super Mario 64
+<a4>Castlevania: Symphony of the Night
+
+<q>What are most living creatures made of in the 2012 video game "Journey"?
+<a1>Cloth
+<a2>Rock
+<a3>Sand
+<a4>Wood
+
+<q>What is the name of the goddess of light in the video game "Kid Icarus"?
+<a1>Palutena
+<a2>Viridi
+<a3>Amaterasu
+<a4>Farore
+
+<q>In which of these video games would you find the King of All Cosmos?
+<a1>Katamari Damacy
+<a2>Osmos
+<a3>Antichamber
+<a4>The Beginner's Guide
+
+<q>In what video game do you work to rebuild the stars of the sky?
+<a1>Katamari Damacy
+<a2>Magicka
+<a3>Limbo
+<a4>Proteus
+
+<q>Which of these is not a character in the video game series "Touhou Project"?
+<a1>Lelouch Lamperouge
+<a2>Flandre Scarlet
+<a3>Alice Margatroid
+<a4>Kirisame Marisa
+
+<q>Which of these video game characters is male?
+<a1>Sora from "Kingdom Hearts"
+<a2>Zelda from "The Legend of Zelda"
+<a3>Samus from "Metroid"
+<a4>Chell from "Portal"
+
+<q>How many expansions did the video game "The Sims" have?
+<a1>7
+<a2>5
+<a3>3
+<a4>9
+
+<q>In which of these video games are you told that there will be cake at the end?
+<a1>Portal
+<a2>Five Nights at Freddy's
+<a3>Magical Diary
+<a4>Recettear: An Item Shop's Tale
+
+<q>Which of these video games could be described as "soccer with cars"?
+<a1>Rocket League
+<a2>Nidhogg
+<a3>Divekick
+<a4>BaraBariBall
+
+<q>In which of these video game franchises do you pilot planes?
+<a1>Ace Combat
+<a2>Shenmue
+<a3>System Shock
+<a4>Time Crisis
+
+<q>Which of these developers does not appear in the documentary film "Indie Game: The Movie"?
+<a1>Rami Ismail
+<a2>Jonathan Blow
+<a3>Phil Fish
+<a4>Edmund McMillen
+
+<q>Which of these visual novels tells the story of characters with disabilities?
+<a1>Katawa Shoujo
+<a2>Clannad
+<a3>Little Busters!
+<a4>The Song of Saya (Saya no Uta)
+
+<q>For what video game console was the video game "Kid Icarus: Uprising" originally released?
+<a1>Nintendo 3DS
+<a2>NES
+<a3>PlayStation 2
+<a4>PSP
+
+<q>What is a Keyblade?
+<a1>A weapon in the video game "Kingdom Hearts"
+<a2>A pokémon
+<a3>An ancient artifact in the movie "Blade"
+<a4>A futuristic item in the animated series "Futurama"
+
+<q>What pokémon is listed in the Pokédex entry number 1?
+<a1>Bulbasaur
+<a2>Pikachu
+<a3>Charizard
+<a4>Metapod
+
+<q>What number does Pikachu have in the Pokédex?
+<a1>25
+<a2>1
+<a3>10
+<a4>7
+
+<q>For what video game console was the first Kirby video game released?
+<a1>Game Boy
+<a2>NES
+<a3>Nintendo DS
+<a4>Super NES
+
+<q>Who is the main character of the video game "L.A. Noire"?
+<a1>Cole Phelps
+<a2>Ryu Hayabusa
+<a3>Marcus Fenix
+<a4>Leon Kennedy
+
+<q>Which of these is not a character from the "Resident Evil" video game series?
+<a1>Scott Shelby
+<a2>Albert Wesker
+<a3>Jill Valentine
+<a4>Chris Redfield
+
+<q>Which of these video games is in black and white?
+<a1>Limbo
+<a2>To the Moon
+<a3>Bastion
+<a4>Celeste
+
+<q>In which of these video games do you use magical tunes to progress?
+<a1>Loom
+<a2>Magicka
+<a3>Machinarium
+<a4>Grim Fandango
+
+<q>What is special about the main character in the video game "Lost Odyssey"?
+<a1>He's immortal
+<a2>He can see the future
+<a3>He can rewind time
+<a4>He's a robot
+
+<q>What does Luigi use to get rid of ghosts in the video game "Luigi's Mansion"?
+<a1>A vacuum cleaner
+<a2>A magic mushroom
+<a3>Holy water
+<a4>A magic shoe
+
+<q>What was the first video game in which you could play as both Mario and Sonic?
+<a1>Mario & Sonic at the Olympic Games
+<a2>Super Smash Bros. Brawl
+<a3>Sonic & All-Stars Racing Transformed
+<a4>Mario Party 8
+
+<q>What item pursues and hits the player in first place in the Mario Kart video games?
+<a1>Spiny shell
+<a2>Bob-omb
+<a3>Bullet Bill
+<a4>Piranha Plant
+
+<q>How many Mario Party video games were released for the Nintendo 64?
+<a1>3
+<a2>4
+<a3>2
+<a4>1
+
+<q>In what video game series does Sir Daniel Fortesque star?
+<a1>MediEvil
+<a2>Crusader Kings
+<a3>Age of Empires
+<a4>Stronghold
+
+<q>Which of these is not a playable character in the video game "PlayStation All-Stars Battle Royale"?
+<a1>Solid Snake
+<a2>Fat Princess
+<a3>Parappa
+<a4>Dante
+
+<q>In which of these video games there's an island called Shadow Moses?
+<a1>Metal Gear Solid
+<a2>Mass Effect
+<a3>Metroid Fusion
+<a4>Monaco
+
+<q>Who tortures Solid Snake in the video game "Metal Gear Solid"?
+<a1>Revolver Ocelot
+<a2>Gray Fox
+<a3>Liquid Snake
+<a4>Psycho Mantis
+
+<q>What is the subtitle of the video game "Metal Gear Solid 4"?
+<a1>Guns of the Patriots
+<a2>Snake Eater
+<a3>Sons of Liberty
+<a4>Peace Walker
+
+<q>What is the subtitle of the video game "Metal Gear Solid 3"?
+<a1>Snake Eater
+<a2>Sons of Liberty
+<a3>Guns of the Patriots
+<a4>Peace Walker
+
+<q>Who is the main character in the video game "Metal Gear Solid 2: Sons of Liberty"?
+<a1>Raiden
+<a2>Solid Snake
+<a3>Gray Fox
+<a4>Big Boss
+
+<q>Who is Samus' archenemy in the video game series "Metroid"?
+<a1>Ridley
+<a2>Metroid
+<a3>Kraid
+<a4>Mother Brain
+
+<q>Who were the adoptive parents of Samus in the video game series "Metroid"?
+<a1>The Chozo
+<a2>The Metroid
+<a3>Space Pirates
+<a4>Father and Mother Brain
+
+<q>Which of these is not a playable character in the Nintendo 64 video game "Super Smash Bros."?
+<a1>Zelda
+<a2>Luigi
+<a3>Jigglypuff
+<a4>Captain Falcon
+
+<q>Which of these video games is played in first person?
+<a1>Mirror's Edge
+<a2>Gears of War
+<a3>Resident Evil 4
+<a4>Splatoon
+
+<q>What weapon wields the main character in the video game "No More Heroes"?
+<a1>Beam katana
+<a2>Traffic sign
+<a3>Frying pan
+<a4>Fork
+
+<q>Who is Odin's daughter in the video game "Odin Sphere"?
+<a1>Gwendolyn
+<a2>Mercedes
+<a3>Alice
+<a4>Velvet
+
+<q>Who is the first partner Mario finds in the video game "Paper Mario"?
+<a1>Goombario
+<a2>Kooper
+<a3>Bombette
+<a4>Parakarry
+
+<q>In what fictional country is the video game "Papers, Please" set?
+<a1>Arstotzka
+<a2>Vana'diel
+<a3>Hyrule
+<a4>Tamriel
+
+<q>What is the name of the fictional world in which the video game "Final Fantasy X" is set?
+<a1>Spira
+<a2>Ivalice
+<a3>Vana'diel
+<a4>Gaia
+
+<q>Who is the video game character PaRappa in love with?
+<a1>Sunny Funny
+<a2>Katy Kat
+<a3>PJ Berri
+<a4>Jet Baby
+
+<q>Which of these video game characters is a rapper dog?
+<a1>PaRappa
+<a2>Dribble
+<a3>Dogfella
+<a4>K.K. Slider
+
+<q>In the development of which of these video games was Peter Molyneux not involved?
+<a1>Max Payne
+<a2>Populous
+<a3>Fable
+<a4>Theme Park
+
+<q>What company built the research facility in which the video game "Portal" is set?
+<a1>Aperture Science
+<a2>Black Mesa
+<a3>GeneSec
+<a4>Umbrella Corporation
+
+<q>What is the Umbrella Corporation?
+<a1>A pharmaceutical company in the video game series "Resident Evil"
+<a2>A drug organization in the television series "Breaking Bad"
+<a3>A criminal organization in the anime "Psycho-Pass"
+<a4>A space travel company in the movie "Alien"
+
+<q>Who helps the main character escape at the beginning of the video game "Portal 2"?
+<a1>Wheatley
+<a2>GLaDOS
+<a3>Caroline
+<a4>Cave Johnson
+
+<q>Which of these video games takes place during a summer camp?
+<a1>Psychonauts
+<a2>Snatcher
+<a3>The Plan
+<a4>The Wolf Among Us
+
+<q>Who created the video game character Rayman?
+<a1>Michel Ancel
+<a2>Hideo Kojima
+<a3>Will Wright
+<a4>Shigeru Miyamoto
+
+<q>Who created the video game character Super Mario?
+<a1>Shigeru Miyamoto
+<a2>Hideo Kojima
+<a3>Will Wright
+<a4>Michel Ancel
+
+<q>What video game stars character John Marston?
+<a1>Red Dead Redemption
+<a2>Fallout 3
+<a3>Just Cause 3
+<a4>Red Steel
+
+<q>What language do the villagers in the video game "Resident Evil 4" speak?
+<a1>Spanish
+<a2>English
+<a3>Russian
+<a4>French
+
+<q>What is the mission of the main character in the video game "Resident Evil 4"?
+<a1>To rescue the U.S. President's daughter
+<a2>To stop a zombie infection
+<a3>To defeat the leader of a terrorist group
+<a4>To find a biochemical weapon
+
+<q>What is the "Resident Evil" saga called in Japan?
+<a1>Biohazard
+<a2>Mother
+<a3>Spec Ops
+<a4>Shin Megami Tensei
+
+<q>What installment of the video game series "Resident Evil" is set in Africa?
+<a1>Resident Evil 5
+<a2>Resident Evil 4
+<a3>Resident Evil 3
+<a4>Resident Evil 2
+
+<q>From what video game series is Albert Wesker a villain?
+<a1>Resident Evil
+<a2>Metal Gear Solid
+<a3>Fire Emblem
+<a4>Deus Ex
+
+<q>In which of these video games can't you ride a horse?
+<a1>Fallout 3
+<a2>Shadow of the Colossus
+<a3>The Legend of Zelda: Majora's Mask
+<a4>Red Dead Redemption
+
+<q>How many colossi do you have to defeat in the video game "Shadow of the Colossus"?
+<a1>16
+<a2>12
+<a3>7
+<a4>4
+
+<q>What kind of animal do you control in the video game "Shelter"?
+<a1>Badger
+<a2>Dog
+<a3>Coyote
+<a4>Crab
+
+<q>Who is the main character's assistant in the video game "Phoenix Wright: Ace Attorney"  ("Gyakuten Saiban")?
+<a1>Maya Fey
+<a2>Miles Edgeworth
+<a3>Dick Gumshoe
+<a4>Apollo Justice
+
+<q>In what japanese city is the video game "Shenmue" set?
+<a1>Yokosuka
+<a2>Nagoya
+<a3>Kobe
+<a4>Sapporo
+
+<q>What artifact does Lan Di take from the main character's dojo in the video game "Shenmue"?
+<a1>A mirror
+<a2>The dojo's license
+<a3>A belt
+<a4>A suit
+
+<q>In which of these video games is there a character named Chie Satonaka?
+<a1>Shin Megami Tensei: Persona 4
+<a2>Valkyrie Profile
+<a3>Final Fantasy XV
+<a4>Tales Of Vesperia
+
+<q>How do the characters of the video game "Shin Megami Tensei: Persona 4" enter to the alternate world?
+<a1>Through a TV screen
+<a2>Singing a spell
+<a3>Shooting themselves
+<a4>Talking to a mirror
+
+<q>In which of these video games is there a tower named Tartarus?
+<a1>Shin Megami Tensei: Persona 3
+<a2>The Legend of Zelda: The Wind Waker
+<a3>Tales of Destiny 2
+<a4>Final Fantasy XII
+
+<q>To which of these movies is most similar the universe of the video game "Snatcher"?
+<a1>Blade Runner
+<a2>Pulp Fiction
+<a3>Soylent Green
+<a4>Mad Max
+
+<q>The main character of which of these video games is called Gillian Seed?
+<a1>Snatcher
+<a2>L.A. Noire
+<a3>Murdered: Soul Suspect
+<a4>Hotel Dusk: Room 215
+
+<q>In which of these video games can you play as Wreck-It Ralph?
+<a1>Sonic & All-Stars Racing Transformed
+<a2>Super Smash Bros. for Wii U
+<a3>PlayStation All-Stars Battle Royale
+<a4>Kingdom Hearts Birth by Sleep
+
+<q>What animal chases Sonic in Emerald Coast in the video game "Sonic Adventure"?
+<a1>A killer whale
+<a2>An elephant
+<a3>A crocodile
+<a4>A human
+
+<q>Which of these is not a playable character in the main mode of the video game "Sonic Adventure 2"?
+<a1>Amy
+<a2>Eggman
+<a3>Rouge
+<a4>Knuckles
+
+<q>In what video game does Sonic transform during night-time?
+<a1>Sonic Unleashed
+<a2>Sonic Generations
+<a3>Sonic Battle
+<a4>Sonic Chronicles: The Dark Brotherhood
+
+<q>Who accompanies Sonic on his adventure in the video game "Sonic Unleashed"?
+<a1>Chip
+<a2>Chao
+<a3>Tails
+<a4>Amy
+
+<q>Which of these is not a team in the video game "Sonic Heroes"?
+<a1>Team Emerald
+<a2>Team Rose
+<a3>Team Sonic
+<a4>Team Chaotix
+
+<q>How many members do teams have in the video game "Sonic Heroes"?
+<a1>3
+<a2>2
+<a3>4
+<a4>5
+
+<q>Where is the video game "Spec Ops: The Line" set?
+<a1>Dubai
+<a2>Afghanistan
+<a3>Russia
+<a4>China
+
+<q>What is an Arwing?
+<a1>A spaceship in the Star Fox video game series
+<a2>A pokémon
+<a3>An enemy in the Super Mario Bros. video game series
+<a4>A species of bird in the Final Fantasy video game series
+
+<q>What is a Goomba?
+<a1>An enemy in the Super Mario Bros. video game series
+<a2>A pokémon
+<a3>An ancient bird in the Metroid video game series
+<a4>A spaceship in the Star Fox video game series
+
+<q>What is a Lakitu?
+<a1>An enemy in the Super Mario Bros. video game series
+<a2>A pokémon
+<a3>An ancient bird in the Metroid video game series
+<a4>A spaceship in the Star Fox video game series
+
+<q>What is a Misdreavus?
+<a1>A pokémon
+<a2>An enemy in the Super Mario Bros. video game series
+<a3>A species of bird in the Final Fantasy video game series
+<a4>A spaceship in the Star Fox video game series
+
+<q>What is a Kyogre?
+<a1>A pokémon
+<a2>A kind of zombie in "The Walking Dead"
+<a3>An ancient artifact in "Tomb Raider"
+<a4>A kind of character in "World of Warcraft"
+
+<q>Which of these is not a race or species in the video game "World of Warcraft"?
+<a1>Argonian
+<a2>Pandaren
+<a3>Blood Elf
+<a4>Human
+
+<q>Which of these is not a race or species in the video game "World of Warcraft"?
+<a1>Asari
+<a2>Gnome
+<a3>Night Elf
+<a4>Tauren
+
+<q>Which of these is not a race or species in the video game "World of Warcraft"?
+<a1>Kokiri
+<a2>Worgen
+<a3>Undead
+<a4>Troll
+
+<q>Which of these is not a race or species in the video game "The Legend of Zelda: Ocarina of Time"?
+<a1>Chocobo
+<a2>Hylian
+<a3>Zora
+<a4>Gerudo
+
+<q>Which of these is not a race or species in the video game "The Legend of Zelda: Majora's Mask"?
+<a1>Goomba
+<a2>Deku
+<a3>Goron
+<a4>Human
+
+<q>Which of these is not a race or species in the Mass Effect universe?
+<a1>Breton
+<a2>Asari
+<a3>Krogan
+<a4>Salarian
+
+<q>What is a Chocobo?
+<a1>A species of bird in the Final Fantasy video game series
+<a2>An enemy in the Super Mario Bros. video game series
+<a3>A spaceship in the Star Fox video game series
+<a4>A pokémon
+
+<q>Which of these characters is not present in the video game "Street Fighter II: The World Warrior"?
+<a1>Akuma
+<a2>E. Honda
+<a3>Blanka
+<a4>Dhalsim
+
+<q>How many Power Stars are there in the video game "Super Mario 64"?
+<a1>120
+<a2>100
+<a3>75
+<a4>50
+
+<q>What is the first course in the video game "Super Mario 64"?
+<a1>Bob-omb Battlefield
+<a2>Whomp's Fortress
+<a3>Snowman's Land
+<a4>Rainbow Ride
+
+<q>What video game from the Super Mario series is presented as a stage play?
+<a1>Super Mario Bros. 3
+<a2>Super Mario World
+<a3>Super Mario Sunshine
+<a4>Super Mario Bros. Deluxe
+
+<q>Which of these Nintendo franchises does not have a pinball video game?
+<a1>The Legend of Zelda
+<a2>Super Mario
+<a3>Pokémon
+<a4>Metroid
+
+<q>In what video game did the character Yoshi first appear?
+<a1>Super Mario World
+<a2>Super Mario Bros. 3
+<a3>Mario Party
+<a4>Super Mario Land
+
+<q>Who is Meat Boy's girlfriend in the video game "Super Meat Boy"?
+<a1>Bandage Girl
+<a2>Salad Girl
+<a3>Princess Lettuce
+<a4>Princess Bubblegum
+
+<q>Who is the main character in the video game "Tales of Phantasia"?
+<a1>Cress Albane
+<a2>Luke fon Fabre
+<a3>Sorey
+<a4>Jude Mathis
+
+<q>Which of these video games revolves around the "Seventh Fonon"?
+<a1>Tales of the Abyss
+<a2>The Longest Journey
+<a3>The Misadventures of P.B. Winterbottom
+<a4>The Talos Principle
+
+<q>How many swords does the main character in the video game "Tales of Symphonia" use?
+<a1>2
+<a2>1
+<a3>3
+<a4>4
+
+<q>How many swords does the main character in the video game "Final Fantasy VII" use?
+<a1>1
+<a2>2
+<a3>3
+<a4>4
+
+<q>How many trials must be completed to become a pirate in the video game "The Secret of Monkey Island"?
+<a1>3
+<a2>1
+<a3>2
+<a4>4
+
+<q>Who is Guybrush's nemesis in the video game series "Monkey Island"?
+<a1>LeChuck
+<a2>Carmen Sandiego
+<a3>Sephiroth
+<a4>Ramon Salazar
+
+<q>In which of these video games are the main characters transported to an alien planet?
+<a1>The Dig
+<a2>BioShock
+<a3>Portal
+<a4>Beyond Good & Evil
+
+<q>Which of these video games is set in the province of Cyrodiil?
+<a1>The Elder Scrolls IV: Oblivion
+<a2>The Last Of Us
+<a3>Borderlands 2
+<a4>Zone of the Enders: The 2nd Runner
+
+<q>Where does the video game "The Elder Scrolls IV: Oblivion" start?
+<a1>In a prison cell
+<a2>In an inn
+<a3>In a forest
+<a4>In a temple
+
+<q>In which of these video games are there dragons?
+<a1>The Elder Scrolls V: Skyrim
+<a2>Tales from the Borderlands
+<a3>Zone of the Enders
+<a4>XIII
+
+<q>What causes the infection in the video game "The Last Of Us"?
+<a1>A fungus
+<a2>The water
+<a3>Radiation
+<a4>Cockroaches
+
+<q>How many days do you have to save the world in the video game "The Legend of Zelda: Majora's Mask"?
+<a1>3
+<a2>7
+<a3>12
+<a4>30
+
+<q>Who steals the Majora's Mask in the video game "The Legend of Zelda: Majora's Mask"?
+<a1>Skull Kid
+<a2>Ganondorf
+<a3>Zelda
+<a4>Navi
+
+<q>What piece of the Triforce does Zelda have in the video game "The Legend of Zelda: Ocarina of Time"?
+<a1>The Triforce of Wisdom
+<a2>The Triforce of Courage
+<a3>The Triforce of Power
+<a4>The Triforce of Magic
+
+<q>What species is Shepard in the video game "Mass Effect"?
+<a1>Human
+<a2>Krogan
+<a3>Rachni
+<a4>Geth
+
+<q>What does the main character in the video game "The Legend of Zelda: The Wind Waker" use to control the wind?
+<a1>A baton
+<a2>An ocarina
+<a3>A trumpet
+<a4>A sword
+
+<q>In which of these video games does the main character live in a floating island?
+<a1>The Legend of Zelda: Skyward Sword
+<a2>The Longest Journey
+<a3>The Secret of Monkey Island
+<a4>The World Ends With You (Subarashiki Kono Sekai)
+
+<q>Into what animal can the main character of the video game "The Legend of Zelda: Twilight Princess" morph?
+<a1>Wolf
+<a2>Rabbit
+<a3>Pig
+<a4>Badger
+
+<q>In which of these video games does April Ryan star?
+<a1>The Longest Journey
+<a2>The Blackwell Legacy
+<a3>The Unfinished Swan
+<a4>The Yawhg
+
+<q>What does Elohim forbid you to do in the video game "The Talos Principle"?
+<a1>To climb a tower
+<a2>To eat an apple
+<a3>To rob gold
+<a4>To jump
+
+<q>In what kind of place does Telltale's video game "The Walking Dead" begin?
+<a1>In a car
+<a2>In a plane
+<a3>In a hospital
+<a4>In a hotel
+
+<q>What comic book series is the video game "The Wolf Among Us" based on?
+<a1>Fables
+<a2>The Walking Dead
+<a3>I Hate Fairyland
+<a4>Monstress
+
+<q>What is Thomas in the video game "Thomas Was Alone"?
+<a1>A red rectangle
+<a2>A blue ball
+<a3>A disembodied voice
+<a4>It is never revealed
+
+<q>What treasure does Nathan hunt for in the video game "Uncharted: Drake's Fortune"?
+<a1>El Dorado
+<a2>Lincoln's gold
+<a3>The lost Fabergé eggs
+<a4>The Nazi gold
+
+<q>Where is the main character at the start of the video game "Uncharted 2: Among Thieves"?
+<a1>Clinging to a train hanging from a cliff
+<a2>Chained inside a sinking ship
+<a3>Standing on the wing of a falling plane
+<a4>Lost in the middle of a desert
+
+<q>In which of these video games is there a character called Alicia Melchiott?
+<a1>Valkyria Chronicles
+<a2>Trauma Center
+<a3>Xenoblade Chronicles
+<a4>Uncharted: Drake's Fortune
+
+<q>What is the name of the sword the main character of the video game "Xenoblade Chronicles" wields?
+<a1>Monado
+<a2>Master Sword
+<a3>Buster Sword
+<a4>Keyblade
+
+<q>What are the mecha piloted by the main characters in the video game "Zone of the Enders" called?
+<a1>Orbital Frame
+<a2>Ender
+<a3>Gundam
+<a4>Knightmare Frame
+
+<q>What is the main character's special ability in the video game "Danganronpa: Trigger Happy Havoc" said to be?
+<a1>Luck
+<a2>Friendship
+<a3>Intuition
+<a4>Beauty
+
+<q>In which of these videogames is there a corporation called Hyperion?
+<a1>Borderlands
+<a2>Halo 4
+<a3>Assassin's Creed IV: Black Flag
+<a4>Deus Ex: Human Revolution
+
+<q>In what video game console was the video game "Until Dawn" first released?
+<a1>PlayStation 4
+<a2>Xbox One
+<a3>Wii U
+<a4>Xbox 360
+
+<q>What pokémon is number 150 in the Pokédex?
+<a1>Mewtwo
+<a2>Moltres
+<a3>Snorlax
+<a4>Omastar
+
+<q>Which of these appears on the logo of the video game "Final Fantasy V"?
+<a1>A dragon
+<a2>Two swords
+<a3>A tree
+<a4>A meteorite
+
+<q>Which of these appears on the logo of the video game "Final Fantasy VII"?
+<a1>A meteorite
+<a2>A tree
+<a3>Two swords
+<a4>A dragon
+
+<q>Who appears on the logo of the video game "Final Fantasy X"?
+<a1>Yuna
+<a2>Tidus
+<a3>Auron
+<a4>Sin
+
+<q>In which of these video games do space marines fight aliens?
+<a1>Natural Selection 2
+<a2>Starwhal
+<a3>Team Fortress
+<a4>Distance
+
+<q>Which of these is not a character class in the video game "Team Fortress 2"?
+<a1>Tank
+<a2>Heavy
+<a3>Pyro
+<a4>Demoman
+
+<q>Which of these characters doesn't have a campaign in the video game "Age of Empires II: The Age of Kings"?
+<a1>Julius Caesar
+<a2>Joan of Arc
+<a3>Saladin
+<a4>William Wallace
+
+<q>In which of these video games can you date birds?
+<a1>Hatoful Boyfriend
+<a2>Katawa Shoujo
+<a3>Clannad
+<a4>Emily is Away
+
+<q>Which of these is not a character from the "The King of Fighters" video game series?
+<a1>T. Hawk
+<a2>Terry Bogard
+<a3>Iori Yagami
+<a4>Kyo Kusanagi
+
+<q>Which of these is not a character from the "Street Fighter" video game series?
+<a1>Taokaka
+<a2>C. Viper
+<a3>Cammy
+<a4>R. Mika
+
+<q>Which of these is not a character from the "BlazBlue" video game series?
+<a1>May
+<a2>Ragna the Bloodedge
+<a3>Jin Kisaragi
+<a4>Rachel Alucard
+
+<q>Who is Sonic the Hedgehog's nemesis?
+<a1>Eggman
+<a2>Amy Rose
+<a3>Knuckles
+<a4>Tails
+
+<q>The main villain of which of these video games has a mustache?
+<a1>Sonic the Hedgehog
+<a2>Super Mario Bros.
+<a3>Final Fantasy VII
+<a4>Kingdom Hearts
+
+<q>In which of these video games do you need to paint the terrain to win?
+<a1>Splatoon
+<a2>Team Fortress 2
+<a3>Dying Light
+<a4>Bloodborne
+
+<q>What is the name of the witch in the video game "Majotori"?
+<a1>Lariat
+<a2>Beatrice
+<a3>Estella
+<a4>Rosalina
+
+<q>What was the first video game from the "Tales of" series?
+<a1>Tales of Phantasia
+<a2>Tales of Destiny
+<a3>Tales of Eternia
+<a4>Tales of Symphonia
+
+<q>Who's the first character you find in the video game "Undertale"?
+<a1>Flowey
+<a2>Papyrus
+<a3>Toriel
+<a4>Mettaton
+
+<q>Where is the video game "The Witness" set?
+<a1>On an island
+<a2>In a train
+<a3>In an office building
+<a4>In a mansion
+
+<q>In which of these video games do you fight the Helghast?
+<a1>Killzone
+<a2>Call of Duty: Ghosts
+<a3>Zeno Clash
+<a4>Metro 2033
+
+<q>Which of these sports is not included in the video game "Wii Sports"?
+<a1>Archery
+<a2>Golf
+<a3>Boxing
+<a4>Baseball
+
+<q>What is the name of the main character in the video game "Thief"?
+<a1>Garret
+<a2>Fisher
+<a3>Snake
+<a4>Dante
+
+<q>In which country is the video game "Papo & Yo" set?
+<a1>Brazil
+<a2>Spain
+<a3>Mexico
+<a4>India
+
+<q>In which of these video games do the skeletons Sans and Papyrus appear?
+<a1>Undertale
+<a2>Portal
+<a3>Oddworld: Abe's Oddysee
+<a4>Tom Clancy's The Division
+
+<q>What color was Pac-Man in its original arcade video game?
+<a1>Yellow
+<a2>White
+<a3>Black
+<a4>Pink
+
+<q>In which of these video games the world is not procedurally generated?
+<a1>Demon's Souls
+<a2>No Man's Sky
+<a3>Dwarf Fortress
+<a4>Minecraft
+
+<q>Which of these is not an eligible team in the video game "Pokémon Go"?
+<a1>Team Friendship
+<a2>Team Mystic
+<a3>Team Valor
+<a4>Team Instinct
+
+<q>Which of these is not a playable character in the video game "Overwatch"?
+<a1>Phoebe
+<a2>McCree
+<a3>Reaper
+<a4>Bastion
+
+<q>What is the name of the main character in the video game "Mighty No. 9"?
+<a1>Beck
+<a2>Proto Man
+<a3>Sniper Joe
+<a4>Tango
+
+<q>The main character of which of these video games is a hacker?
+<a1>Watch Dogs
+<a2>Mighty No. 9
+<a3>Superhot
+<a4>Hyper Light Drifter
+
+<q>What is Tails' true name in the Sonic the Hedgehog video game series?
+<a1>Miles
+<a2>Charlie
+<a3>Chip
+<a4>Perci
+
+<q>What is the main character called in the Hitman video game series?
+<a1>Agent 47
+<a2>Gray Fox
+<a3>Black Star
+<a4>Corvo Attano
+
+<q>What can you build with a stick and two wooden planks in the video game "Minecraft"?
+<a1>A sword
+<a2>A pickaxes
+<a3>A shovel
+<a4>Three fences
+
+<q>Which of these is not a starter pokémon in the video game "Pokémon Pearl"?
+<a1>Mudkip
+<a2>Turtwig
+<a3>Chimchar
+<a4>Piplup
+
+<q>What video game from the Call of Duty series first included a playable dog?
+<a1>Call of Duty: Ghosts
+<a2>Call of Duty: Advanced Warfare
+<a3>Call of Duty: Strike Team
+<a4>Call of Duty: Black Ops
+
+<q>What video game from the The Legend of Zelda series first included a button to jump?
+<a1>Zelda II: The Adventure of Link
+<a2>The Legend of Zelda: Breath of the Wild
+<a3>The Legend of Zelda: Link's Awakening
+<a4>The Legend of Zelda: Ocarina of Time
+
+<q>In which of these video games can't you sail a boat?
+<a1>Shadow of the Colossus
+<a2>The Witcher 3: Wild Hunt
+<a3>The Legend of Zelda: The Wind Waker
+<a4>Grand Theft Auto V
+
+<q>How does the main character get a jetpack in the video game "Jetpack Joyride"?
+<a1>He steals it
+<a2>He builds it
+<a3>He buys it
+<a4>He gets it as a present
+
+<q>In which of these video games is there a witch?
+<a1>Banjo-Kazooie
+<a2>Donkey Kong 64
+<a3>Beyond Good & Evil
+<a4>Super Mario 64
+
+<q>What color is the main character in the video game "Spyro the Dragon"?
+<a1>Purple
+<a2>Green
+<a3>Black
+<a4>Red
+
+<q>What artifact does the main character look for in the first video game from the Tomb Raider series?
+<a1>The Scion
+<a2>The Triforce
+<a3>The Mjolnir
+<a4>The Holy Grail
+
+<q>Which of these is not one of the champions in the video game "League of Legends"?
+<a1>Gang-il
+<a2>Ahri
+<a3>Jinx
+<a4>Teemo
+
+<q>How many score points does one coin give you in the video game "Super Mario Bros."?
+<a1>200
+<a2>100
+<a3>10
+<a4>50
+
+<q>What happens when you collect 100 rings in the video game from 1991 "Sonic the Hedgehog"?
+<a1>You get an extra life
+<a2>Sonic transforms into Super Sonic
+<a3>Sonic’s speed doubles
+<a4>Nothing happens
+
+<q>In which of these video games can you cook?
+<a1>The Legend of Zelda: Breath of the Wild
+<a2>Mass Effect: Andromeda
+<a3>Yooka-Laylee
+<a4>Inside
+
+<q>In which of these video games can you drive a car?
+<a1>Final Fantasy XV
+<a2>Horizon Zero Dawn
+<a3>Nier: Automata
+<a4>Gravity Rush 2
+
+<q>What animal is the main character in the video game "Night in the Woods"?
+<a1>Cat
+<a2>Badger
+<a3>Deer
+<a4>Owl
+
+<q>The main character of which of these video games wears glasses?
+<a1>Persona 5
+<a2>Nier: Automata
+<a3>The Last Guardian
+<a4>Mirror's Edge Catalyst
+
+<q>What is Banjo in the video game "Banjo-Kazooie"?
+<a1>A bear
+<a2>A bird
+<a3>A dog
+<a4>A human
+
+<q>In what country was the videogame "Majotori" developed?
+<a1>Spain
+<a2>United States
+<a3>Japan
+<a4>Finland
+
+<q>The concept of which of these video games was inspired by the movie "Battle Royale"?
+<a1>PlayerUnknown's Battlegrounds
+<a2>Destiny
+<a3>Fire Emblem Warriors
+<a4>Prey
+
+<q>With whom do the main characters make a deal in the video game "Cuphead"?
+<a1>With the Devil
+<a2>With a witch
+<a3>With a fairy
+<a4>With a skeleton
+
+<q>What video game from the "Assassin’s Creed" series is set in Egypt?
+<a1>Assassin's Creed Origins
+<a2>Assassin's Creed Unity
+<a3>Assassin's Creed III
+<a4>Assassin's Creed: Revelations
+
+<q>What color is the main character's hair in the video game "Nier: Automata"?
+<a1>White
+<a2>Red
+<a3>Green
+<a4>Pink
+
+<q>In which of these video games can you build walls?
+<a1>Fortnite
+<a2>PlayerUnknown's Battlegrounds
+<a3>Kingdom Come: Deliverance
+<a4>Splatoon 2
+
+<q>What is the name of Kratos' son in the 2018 video game "God of War"?
+<a1>Atreus
+<a2>Boi
+<a3>Apollo
+<a4>Nike
+
+<q>In which of these video games is there a character named "Solaire of Astora"?
+<a1>Dark Souls
+<a2>God of War
+<a3>Monster Hunter: World
+<a4>Octopath Traveler
+
+<q>Where are you at the start of a match in the video game "Fortnite Battle Royale"?
+<a1>On a bus
+<a2>On a plane
+<a3>On a submarine
+<a4>On a room
+
+<q>What is the name of the main character in the video game "Deltarune"?
+<a1>Kris
+<a2>Susie
+<a3>Ralsei
+<a4>Toriel
+
+<q>What is the name of the main character in the video game "Red Dead Redemption 2"?
+<a1>Arthur
+<a2>Abigail
+<a3>Annabelle
+<a4>Davey
+
+<q>What is the name of the main character in the video game "Sekiro: Shadows Die Twice"?
+<a1>Sekiro
+<a2>Akuma
+<a3>Genichiro
+<a4>Astoria
+
+<q>In which of these video games does the main character carry a baby with him?
+<a1>Death Stranding
+<a2>Baba Is You
+<a3>Etherborn
+<a4>Luigi's Mansion 3
+
+<q>Which of these is not a naval video game?
+<a1>Fate/Grand Order
+<a2>Shipped
+<a3>Kantai Collection
+<a4>Azur Lane
+
+<q>Who is the main villain in the video game "Castlevania: Symphony of the Night"?
+<a1>Dracula
+<a2>Alucard
+<a3>Death
+<a4>Medusa
+
+<q>What was the first virtual reality game of the “Half-Life” series?
+<a1>Half-Life: Alyx
+<a2>Half-Life 2: Episode One
+<a3>Half-Life 2: Episode Two
+<a4>Half-Life 2: Deathmatch
+
+<q>Which of these actions can’t you do in the video game “Fall Guys: Ultimate Knockout”?
+<a1>Punch
+<a2>Jump
+<a3>Grab
+<a4>Dive
+
+<q>Which of these video games is about outer space exploration?
+<a1>Outer Wilds
+<a2>Cyberpunk 2077
+<a3>Animal Crossing: New Horizons
+<a4>Death Stranding
+
+<q>What is the original color of the main character in the video game “Flappy Bird”?
+<a1>Yellow
+<a2>Red
+<a3>Blue
+<a4>Green

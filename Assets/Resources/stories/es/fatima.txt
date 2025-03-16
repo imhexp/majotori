@@ -1,0 +1,98 @@
+<a>
+    <img>fatima/fatima_playing
+    <txt>Fatima estaba camino de convertirse en una estrella de rock.
+    <txt>Tras años de duro trabajo y perseverancia, había conseguido una base de fans creciente.
+    <txt>Justo cuando todo parecía ir bien por una vez, una tragedia anunció su llegada.
+    <img>fatima/fatima_mirror
+    <txt>Su pelo se estaba volviendo fino y débil, y estaba empezando a caerse.
+    <txt>Ella sabía que su imagen era la mayor parte de su atractivo; solo con su música no llegaría a ninguna parte.
+    <txt>Necesitaba su melena para triunfar. Ojalá su pelo fuese más fuerte.
+    <img>fatima/fatima_mirror_deal
+    <txt>Entonces, una bruja con una bella melena apareció en el espejo.
+    <txt>La bruja le ofreció un trato a Fatima y ella lo aceptó.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>fatima/fatima_mane
+    <txt>A la mañana siguiente, Fatima ya podía sentirlo.
+    <txt>Su pelo estaba denso y fuerte, y la llenó de energía.
+    <img>fatima/fatima_playing_mane
+    <txt>Sus próximos conciertos fueron un éxito absoluto. ¡La gente la adoraba!
+    <txt>¡Ahora nada podría interponerse en su camino hacia convertirse en una súper estrella!
+</a1>
+
+<a1a>
+    <img>fatima/fatima_success
+    <txt>Fatima había alcanzado la cima, se había vuelto rica y famosa, y se había retirado antes de desgastarse.
+    <img>fatima/fatima_excess
+    <txt>Pero con el éxito vino una vida de excesos.
+    <txt>Una vida que la arruinó.
+    <txt>Intentó superarlo y arreglar su vida, pero acabó volviendo a caer.
+    <txt>Su marido se divorció de ella y se fue, llevándose a su hija.
+    <img>fatima/fatima_jaded
+    <txt>Necesitaba cambiar y reconstruir su vida.
+    <txt>Necesitaba ayuda.
+    <img>fatima/fatima_jaded_deal
+    <txt>Y Lariat se la ofreció.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>fatima/fatima_park
+    <txt>El gusto de Fatima por las fiestas y el exceso desapareció de repente.
+    <txt>Lo dejó todo atrás y empezó a reconstruir su vida.
+    <img>fatima/fatima_family
+    <txt>Un par de meses después, consiguió volver con su marido y su hija.
+    <txt>Fatima y su familia vivieron felices juntos.
+</a1a1>
+
+<a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>fatima/fatima_jaded2
+    <txt>Si la bruja no iba a ayudarla, entonces lo haría ella sola.
+    <txt>Iría a una última fiesta salvaje y luego se despediría de ellas para siempre.
+    <img>fatima/fatima_excess
+    <txt>Pero la fiesta fue demasiado salvaje.
+    <txt>Murió por sobredosis.
+</a1a0>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>fatima/fatima_bad_mane
+    <txt>Fatima siguió perdiendo su pelo, y con él su energía y confianza.
+    <img>fatima/fatima_playing_failure
+    <txt>Su siguiente concierto fue un deprimente fracaso.
+    <txt>Tras eso, Fatima dejó de cantar.
+</a0>
+
+<a0a>
+    <img>fatima/fatima_family_bald
+    <txt>Fatima se había casado y adoptado a una niña pequeña.
+    <txt>Vivieron juntos y felices durante algunos años, pero luego llegaron las malas noticias.
+    <img>fatima/fatima_ill
+    <txt>Fatima tenía una enfermedad mortal.
+    <txt>No estaba claro cuántos años le quedaban.
+    <txt>Pero sí estaba bastante claro que no llegaría a ver a su hija ir a la universidad.
+    <img>fatima/fatima_ill_deal
+    <txt>Fatima deseaba tan fuerte poder estar ahí cuando eso ocurriese que apareció Lariat.
+    <txt>Lariat le ofreció el trato y Fatima lo aceptó.
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>fatima/fatima_smartphone
+    <txt>Unos días después, Fatima recibió un email de la escuela de su hija.
+    <txt>¡Resultó que era superdotada!
+    <txt>Les ofrecieron ponerla en un programa especial que le permitiría avanzar hasta la universidad en dos años.
+    <txt>No era lo que Fatima había imaginado, pero era mejor que nada.
+</a0a1>
+
+<a0a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>fatima/fatima_ill
+    <txt>Fatima solo llegó a ver a su hija ir al instituto.
+</a0a0>

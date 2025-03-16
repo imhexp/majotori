@@ -1,0 +1,437 @@
+<a>
+    <img>bcde/carl_bench
+    <txt>It was the final game of the national high school baseball championship.
+    <txt>As the ace of the team, Carl was expected to lead the way to victory.
+    <txt>The pressure was unbearable.
+    <txt>"Everything is going to be alright", he repeated to himself.
+    <txt>But it was more of a wish than actual conviction.
+    <img>bcde/carl_bench_deal
+    <txt>Suddenly, he realized a little witch was beside him.
+    <txt>Lariat offered him the deal and Carl accepted it.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>bcde/carl_in_mound
+    <txt>The game began and Carl's hands stopped shaking.
+    <txt>He had never been so focused before.
+    <img>bcde/carl_pitching
+    <txt>He pitched as well as he ever had. No batter was able to even touch the ball.
+    <txt>It was a smashing victory.
+</a1>
+
+<a1a>
+    <img>bcde/daisy
+    <txt>Daisy was in love with Carl, the ace of the baseball team.
+    <txt>Ever since she had discovered he didn't have a girlfriend, she had tried to confess.
+    <txt>But she didn't have the courage to tell him.
+    <txt>Prom was coming, so Daisy decided that was her chance.
+    <txt>She asked him to meet her in front of his locker. She was determined.
+    <txt>Or so she had thought.
+    <img>bcde/daisy_hiding
+    <txt>But the moment she saw him waiting, she panicked. She was paralyzed.
+    <txt>She closed her eyes and wished she had the courage to do it; to ask him to go with her to prom.
+    <img>bcde/daisy_hiding_deal
+    <txt>When Daisy opened her eyes again, there was a witch looking at her.
+    <txt>Lariat offered her the deal and Daisy accepted it.
+    <quiz>
+</a1a>
+
+<a1a1>
+	<txt>"Congratulations", said Lariat, and then she vanished.
+	<img>bcde/lockers
+	<txt>Filled with courage, Daisy walked straight to Carl.
+	<txt>"Go to prom with me!", she demanded.
+	<txt>"Yes ma'am!", he answered.
+	<img>bcde/lockers2
+	<txt>A burst of embarrassment ran through Daisy's body.
+	<txt>"I didn't expect to be asked so abruptly!", said Carl, laughing.
+	<txt>Daisy was so relieved!
+</a1a1>
+
+<a1a1a>
+    <img>bcde/carl_picks_daisy
+    <txt>Carl came to pick Daisy up at her house.
+    <txt>Prom night was finally here!
+    <img>bcde/prom_daisy_carl
+    <txt>It was a magical night.
+    <txt>They talked and laughed and danced.
+    <txt>For a moment it appeared as if they were going to kiss.
+    <txt>But Daisy panicked once more and didn't allow it to happen.
+    <txt>Nervous, she excused herself and went to the restroom to calm down.
+    <img>bcde/daisy_bathroom
+    <txt>It was happening again. Her lack of courage was going to ruin everything.
+    <img>bcde/daisy_bathroom_deal
+    <txt>"Do you need help?", said Lariat, appearing from the toilet.
+    <txt>Lariat offered her the deal and Daisy accepted it.
+    <quiz>
+</a1a1a>
+
+<a1a1a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>bcde/prom_daisy_carl_dance
+    <txt>Daisy returned just in time for a slow ballad.
+    <txt>They danced close together.
+    <txt>When the song was near its end and the moment asked for it, she didn't hesitate.
+    <txt>They kissed.
+</a1a1a1>
+
+<a1a1a1a>
+    <img>bcde/carl_worry
+    <txt>That prom night two weeks ago turned out to be more magical than Carl had expected.
+    <txt>Daisy had told him that there was something weird going on in her body.
+    <txt>She suspected that she may be pregnant, and she was happy about it.
+    <txt>But Carl wasn't. He did not want to become a father. Not yet, at least.
+    <txt>Daisy was going to take a pregnancy test today.
+    <txt>Carl would soon receive her phone call with the results.
+    <img>bcde/carl_worry_deal
+    <txt>"It seems like you have a wish", said Lariat, appearing out of nowhere.
+    <txt>"Let's play!"
+    <quiz>
+</a1a1a1a>
+
+<a1a1a1a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>bcde/carl_phone
+    <txt>Carl's phone rang. It was Daisy.
+    <img>bcde/carl_phone_happy
+    <txt>It turned out she wasn't pregnant!
+    <txt>Carl promised to be more careful from there on.
+</a1a1a1a1>
+
+<a1a1a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>bcde/carl_phone
+    <txt>Carl's phone rang. It was Daisy.
+    <img>bcde/carl_phone_sad
+    <txt>It turned out she was pregnant, and really happy about it.
+    <txt>Carl had to take responsibility now. His young dreams were ruined.
+    <txt>Later on, he would discover that he had also caught an infection.
+</a1a1a1a0>
+
+<a1a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>bcde/prom_daisy_carl_dance
+    <txt>Daisy returned just in time for a slow ballad.
+    <txt>They danced close together.
+    <txt>When the song was near its end and the moment asked for it, she panicked again.
+    <txt>But it was the perfect moment for a kiss! She had to do it!
+    <txt>Daisy forced herself to do it!
+    <txt>She forced herself so bad it was more of a bite than a kiss.
+    <img>bcde/prom_daisy_carl_disgusted
+    <txt>Carl pushed her away, annoyed and in pain.
+    <txt>Daisy had ruined the night.
+</a1a1a0>
+
+<a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>bcde/daisy_noticed
+    <txt>Before she could think of what she should do now, Carl noticed her.
+    <txt>There was no escape.
+    <img>bcde/lockers_worry
+    <txt>"There you are. Did you want to tell me something?", asked Carl.
+    <txt>Daisy knew she couldn't do it. She couldn't bring herself to tell him.
+    <txt>"Could I... borrow your math book?", she asked instead.
+    <txt>Her chance was lost, along with her hope.
+</a1a0>
+
+<a1a0a>
+    <img>bcde/manga_club
+	<txt>Elsa was the founder and only member of the manga club.
+	<txt>Apparently manga wasn't popular among the students in her high school, so she didn't have many friends.
+	<txt>One day she started reading a romance manga about high school girls.
+	<txt>The main character of the story was the least popular girl in school.
+	<txt>But surprisingly, the hottest girl in school asked her on a date!
+	<txt>Then she remembered that prom was coming up.
+	<txt>She closed her eyes and fantasized about being the main character of that manga.
+	<txt>She wished for a hot girl to ask her to go to prom with her.
+	<img>bcde/manga_club_lariat
+	<txt>When she opened her eyes again, there was a beautiful witch by the door.
+	<txt>"Are you from the magic club? Do you want to go to prom with me?", Elsa asked.
+	<txt>"I want to offer you a deal", replied Lariat.
+	<txt>The deal was explained and Elsa agreed to it.
+	<quiz>
+</a1a0a>
+
+<a1a0a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+	<img>bcde/manga_club_daisy
+	<txt>Suddenly, a hot girl entered the room.
+    <txt>"Is this the manga club? Are you Elsa?", Daisy asked.
+    <txt>"I'm trying to get over a boy, so I thought I would go to prom with a girl instead."
+    <txt>"Do you want to go with me?"
+</a1a0a1>
+
+<a1a0a1a>
+    <img>bcde/elsa_dress
+    <txt>Elsa put on her best dress and prepared to go to prom.
+    <txt>It was still hard to believe that a hot girl had invited her.
+    <txt>She was so lucky!
+    <txt>But maybe she hadn't given it enough thought.
+    <txt>What would happen now? They probably had nothing in common.
+    <txt>Was it going to be an awkward night?
+    <txt>Would Daisy hate her and regret going with her?
+    <txt>"I hope she likes me", Elsa thought.
+    <img>bcde/elsa_dress_deal
+    <txt>"I don't think that's likely", said Lariat, appearing out of nowhere.
+    <txt>"Do you wanna play?"
+    <quiz>
+</a1a0a1a>
+
+<a1a0a1a1>
+	<txt>"Congratulations", said Lariat, and then she vanished.
+    <img>bcde/prom_elsa_daisy
+    <txt>The magical night began.
+    <txt>Elsa felt confident and spoke to Daisy as if they were friends.
+    <txt>That made Daisy feel comfortable.
+    <txt>They talked and laughed all night long.
+    <img>bcde/prom_elsa_daisy_dance
+    <txt>The last dance was a slow ballad.
+    <txt>They were dancing close together and Daisy appeared to be enjoying it.
+    <txt>"Will I ruin everything if I kiss her now?", Elsa thought.
+    <txt>But she went for it anyway.
+    <img>bcde/prom_elsa_daisy_smile
+    <txt>At first Daisy didn't know how to react, but after a moment, she smiled.
+</a1a0a1a1>
+
+<a1a0a1a0>
+	<txt>"Sorry", said Lariat, and then she vanished.
+    <img>bcde/prom_elsa_daisy
+    <txt>The magical night began.
+    <txt>Elsa was embarrassed to talk to her, but Daisy tried to bring up conversation topics.
+    <txt>She asked her questions and tried to make her laugh.
+    <txt>She even introduced Elsa to her friends!
+    <txt>"She definitely likes me", Elsa thought.
+    <img>bcde/prom_elsa_daisy_dance
+    <txt>The last dance was a slow ballad.
+    <txt>"I will kiss her when the song ends", Elsa planned.
+    <txt>And so she did.
+    <img>bcde/prom_elsa_daisy_disgusted
+    <txt>Surprised and disgusted, Daisy pushed her away.
+    <txt>"What are you doing?!", she angrily asked.
+    <txt>"We were having a good time and you ruined it!"
+    <txt>Daisy went away and Elsa was lonely again.
+</a1a0a1a0>
+
+<a1a0a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>bcde/manga_club
+    <txt>No one else came to visit her that day.
+    <txt>Nor the next day, nor the next week.
+    <txt>She didn't go to prom.
+</a1a0a0>
+
+<a1b>
+    <img>bcde/barbara
+    <txt>Prom was coming and no one had invited Barbara yet.
+    <txt>As captain of the cheerleaders, she deserved the best date.
+    <img>bcde/lockers
+    <txt>That, of course, was Carl, the ace of the baseball team.
+    <txt>She had been cheering when he became a hero on the championship finals.
+    <txt>But when she found him by the lockers, he was talking to another girl!
+    <txt>Was he going to ask her to the prom?!
+    <txt>"Don't ask her! Ask me!", wished Barbara, closing her eyes.
+    <img>bcde/barbara_deal
+    <txt>When she opened them again, there was Lariat.
+	<txt>Lariat offered her the deal and Barbara accepted it.
+	<quiz>
+</a1b>
+
+<a1b1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+	<img>bcde/barbara_carl_date
+    <txt>Barbara then realized Carl was standing right in front of her.
+    <txt>"Thank you for cheering for our team!", he said.
+	<txt>"You must already have someone to go to prom with, right?", he asked.
+	<txt>"I actually don't", answered Barbara.
+	<txt>"Would you like to go with me, then?"
+	<txt>And of course she would.
+</a1b1>
+
+<a1b1a>
+    <img>bcde/carl_picks_barbara
+    <txt>Carl had come to pick Barbara up at her house.
+    <txt>Prom night was finally here!
+    <txt>It was Barbara's chance to win the best boy in school over.
+    <img>bcde/prom_barbara_carl
+    <txt>It was a magical night.
+    <txt>They talked and laughed and danced, and most people kept looking at them in awe.
+    <txt>"We are the perfect couple", thought Barbara.
+    <txt>But were they?
+    <img>bcde/prom_barbara_worry
+    <txt>Barbara suddenly remembered that there was an official perfect couple: the prom king and queen.
+    <txt>She wished really hard for them to be crowned.
+    <txt>She was making a wish, so where was that wish granting witch?
+    <txt>Maybe it was too crowded there.
+    <img>bcde/barbara_bathroom_deal
+    <txt>Barbara excused herself and went to the restroom, only to find Lariat already waiting for her there.
+    <txt>She was now little for some reason, but there was no time to waste minding such details.
+    <quiz>
+</a1b1a>
+
+<a1b1a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>bcde/theatre
+    <txt>Barbara came back just in time for the crowning ceremony.
+    <img>bcde/coronation_barbara_carl
+    <txt>She was crowned queen and Carl was crowned king!
+    <img>bcde/coronation_barbara_carl_kiss
+    <txt>When she thought it couldn't be any more perfect, Carl gave her a passionate kiss in front of everyone!
+</a1b1a1>
+
+<a1b1a1a>
+    <img>bcde/carl_worry
+    <txt>That prom night two weeks ago turned out to be more magical than Carl expected.
+    <txt>Barbara had told him that there was something weird going on in her body.
+    <txt>She suspected that she may be pregnant, and she was happy about it.
+    <txt>But Carl wasn't. He didn't want to become a father. Not yet, at least.
+    <txt>Barbara was going to take a pregnancy test today.
+    <txt>Carl would soon receive her phone call with the results.
+    <img>bcde/carl_worry_deal
+    <txt>"Seems like you have a wish", said Lariat, appearing out of nowhere.
+    <txt>"Let's play!"
+    <quiz>
+</a1b1a1a>
+
+<a1b1a1a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>bcde/carl_phone
+    <txt>Carl's phone rang. It was Barbara.
+    <img>bcde/carl_phone_happy
+    <txt>It turned out she wasn't pregnant!
+    <txt>Carl promised to be more careful from there on.
+</a1b1a1a1>
+
+<a1b1a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>bcde/carl_phone
+    <txt>Carl's phone rang. It was Barbara.
+    <img>bcde/carl_phone_sad
+    <txt>It turned out she was pregnant, and really happy about it.
+    <txt>Carl had to take responsibility now. His young dreams were ruined.
+    <txt>Later on, he would discover that he had also caught an infection.
+</a1b1a1a0>
+
+<a1b1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>bcde/theatre
+    <txt>Barbara came back just in time for the crowning ceremony.
+    <txt>She thought neither of them was going to be crowned, but she was wrong.
+    <img>bcde/coronation_daisy_carl
+    <txt>Carl was crowned king, but another girl was crowned queen!
+    <txt>Suddenly, the crowd began to shout demanding that they kissed.
+    <txt>He wouldn't do that to her, would he?
+    <img>bcde/coronation_daisy_carl_badkiss
+    <txt>Apparently he would.
+</a1b1a0>
+
+<a1b0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>bcde/lockers2
+    <txt>When Barbara looked again, Carl was smiling and the girl was blushing.
+    <txt>It was obvious that she was now his date.
+    <txt>Who would Barbara go with now?
+</a1b0>
+
+<a1b0a>
+    <img>bcde/manga_club
+	<txt>Elsa was the founder and only member of the manga club.
+	<txt>Apparently manga wasn't popular among the students in her high school, so she didn't have many friends.
+	<txt>One day she started reading a romance manga about high school girls.
+	<txt>The main character of the story was the least popular girl in school.
+	<txt>But surprisingly, the hottest girl in school asked her on a date!
+	<txt>Then she remembered that prom was coming up.
+	<txt>She closed her eyes and fantasized about being the main character of that manga.
+	<txt>She wished for a hot girl to ask her to go to prom with her.
+	<img>bcde/manga_club_lariat
+	<txt>When she opened her eyes again, there was a beautiful witch by the door.
+	<txt>"Are you from the magic club? Do you want to go to prom with me?" Elsa asked.
+	<txt>"I want to offer you a deal", replied Lariat.
+	<txt>The deal was explained and Elsa agreed to it.
+	<quiz>
+</a1b0a>
+
+<a1b0a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+	<img>bcde/manga_club_barbara
+	<txt>Suddenly, a hot girl entered the room.
+    <txt>Elsa recognized her. It was Barbara, the captain of the cheerleaders.
+	<txt>"Is this the manga club?", Barbara asked.
+	<txt>"Please, tell me you don't have a date to go to prom with."
+	<txt>"I waited too long and now everyone is already taken."
+	<txt>"You are my only choice."
+</a1b0a1>
+
+<a1b0a1a>
+    <img>bcde/elsa_dress
+    <txt>Elsa put on her best dress and prepared to go to prom.
+    <txt>It was still hard to believe that the captain of the cheerleaders had invited her.
+    <txt>She was so lucky!
+    <txt>But maybe she hadn't give it enough thought.
+    <txt>What would happen now? They probably had nothing in common.
+    <txt>Was it going to be an awkward night?
+    <txt>Would Barbara hate her and regret going with her?
+    <txt>"I hope she likes me", thought Elsa.
+    <img>bcde/elsa_dress_deal
+    <txt>"I don't think that's likely", said Lariat, appearing out of nowhere.
+    <txt>"Do you wanna play?"
+    <quiz>
+</a1b0a1a>
+
+<a1b0a1a1>
+	<txt>"Congratulations", said Lariat, and then she vanished.
+    <img>bcde/prom_elsa_barbara
+    <txt>The magical night began.
+    <txt>Elsa felt confident and spoke to Barbara as if they were friends.
+    <txt>That made Barbara feel comfortable.
+    <txt>They talked and laughed all night long.
+    <img>bcde/prom_elsa_barbara_dance
+    <txt>The last dance was a slow ballad.
+    <txt>They were dancing close together and Barbara appeared to be enjoying it.
+    <txt>"Will I ruin everything if I kiss her now?", Elsa thought.
+    <txt>But she went for it anyway.
+    <img>bcde/prom_elsa_barbara_smile
+    <txt>At first Barbara didn't know how to react, but after a moment, she smiled.
+</a1b0a1a1>
+
+<a1b0a1a0>
+	<txt>"Sorry", said Lariat, and then she vanished.
+    <img>bcde/prom_elsa_barbara
+    <txt>The magical night began.
+    <txt>Elsa was embarrassed to talk to her, but Barbara tried to bring up conversation topics.
+    <txt>She asked her questions and tried to make her laugh.
+    <txt>She even introduced Elsa to her friends!
+    <txt>"She definitely likes me", thought Elsa.
+    <img>bcde/prom_elsa_barbara_dance
+    <txt>The last dance was a slow ballad.
+    <txt>"I will kiss her when the song ends", Elsa planned.
+    <txt>And so she did.
+    <img>bcde/prom_elsa_barbara_disgusted
+    <txt>Surprised and disgusted, Barbara pushed her away.
+    <txt>"What do you think you're doing?!", she asked angrily.
+    <txt>"I thought you liked me", Elsa explained.
+    <txt>"Are you stupid?", replied Barbara.
+    <txt>"I was only pretending we get along so everyone thinks I had a proper prom date."
+    <txt>"This was a bad idea."
+    <txt>Elsa had never felt worse in her life.
+</a1b0a1a0>
+
+<a1b0a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>bcde/manga_club
+    <txt>No one else came to visit her that day.
+    <txt>Nor the next day, nor the next week.
+    <txt>She didn't go to prom.
+</a1b0a0>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>bcde/carl_in_mound_sad
+    <txt>The game began.
+    <txt>Carl was so nervous his hands were shaking.
+    <txt>Trying to concentrate and relax as much as possible, he made the first pitch.
+    <img>bcde/carl_pitching
+    <txt>The rival batter hit it clean. It was a home run.
+    <txt>The morale of the team collapsed. The game was already lost.
+</a0>

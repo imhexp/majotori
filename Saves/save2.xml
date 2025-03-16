@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ava />
+  <bcde />
+  <fatima />
+  <gloria />
+  <hector_ingrid />
+  <juliet_romeo />
+  <kony />
+  <lariat />
+  <mariano />
+  <nikola />
+  <oliver />
+  <paca />
+  <queralt />
+  <sebastian />
+  <tsubasa />
+  <umberto_viviana />
+  <woolie_xiang />
+  <yvette_zelotes />
+  <wins>0</wins>
+  <fails>0</fails>
+  <deaths />
+  <oliver_harmed />
+  <kony_harmed />
+  <youCredits>false</youCredits>
+  <finished_once>false</finished_once>
+</SaveData>

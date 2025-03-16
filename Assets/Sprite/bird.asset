@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: bird
+  m_Rect:
+    serializedVersion: 2
+    x: 228
+    y: 1337
+    width: 217
+    height: 98
+  m_Offset: {x: 0, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1080
+  m_Pivot: {x: 0.5, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    2fbd23a0de1c1094483646a18afbf740: 21300000
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: 8a2e5a369fd7fac459d7a8c1fdb3f94c, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 24
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 10
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 090008000700030007000800060007000300040006000300010004000300050004000100030000000100020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 10
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 200
+      _typelessdata: 87bfcd3d6af8db3c000000000000000000000000dedd5d3d3fe913bd00000000000000000000000087bfcd3d8988883c0000000000000000000000007940b2bc48d6393d000000000000000000000000943e693d48d639bd0000000000000000000000007b096d3dabaa2abd000000000000000000000000721c47bd48d639bd0000000000000000000000001bfeb6bd0d7f1bbd00000000000000000000000087bfcdbd48d6393d00000000000000000000000087bfcdbd610b363b000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 228
+      y: 1337
+      width: 217
+      height: 98
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 228, y: 1337}
+    settingsRaw: 65
+    uvTransform: {x: 1080, y: 336.5, z: 1080, w: 1386}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape:
+  - - {x: 0.05138889, y: -0.042592593}
+    - {x: 0.05324074, y: -0.04074074}
+    - {x: 0.05324074, y: -0.038888887}
+    - {x: 0.043055553, y: -0.032407407}
+    - {x: 0.013425926, y: -0.02037037}
+    - {x: 0.008796296, y: -0.015740741}
+    - {x: 0.015277778, y: -0.010185185}
+    - {x: 0.02824074, y: -0.0027777776}
+    - {x: 0.06342593, y: 0.0074074073}
+    - {x: 0.09583333, y: 0.019444443}
+    - {x: 0.10046296, y: 0.02222222}
+    - {x: 0.09953704, y: 0.025}
+    - {x: 0.080092594, y: 0.027777778}
+    - {x: 0.060648147, y: 0.028703703}
+    - {x: 0.0013888888, y: 0.03425926}
+    - {x: -0.018981481, y: 0.03611111}
+    - {x: -0.030092591, y: 0.04537037}
+    - {x: -0.068055555, y: 0.04537037}
+    - {x: -0.08935185, y: 0.043518517}
+    - {x: -0.091203704, y: 0.041666664}
+    - {x: -0.090277776, y: 0.038888887}
+    - {x: -0.080092594, y: 0.03425926}
+    - {x: -0.092129625, y: 0.031481482}
+    - {x: -0.10046296, y: 0.027777778}
+    - {x: -0.10046296, y: 0.023148147}
+    - {x: -0.081018515, y: 0.0074074073}
+    - {x: -0.080092594, y: -0.0074074073}
+    - {x: -0.07638889, y: -0.021296296}
+    - {x: -0.06342593, y: -0.028703703}
+    - {x: -0.037499998, y: -0.042592593}
+    - {x: -0.031018518, y: -0.04537037}
+    - {x: 0.0050925924, y: -0.04537037}
+    - {x: 0.019907407, y: -0.04444444}

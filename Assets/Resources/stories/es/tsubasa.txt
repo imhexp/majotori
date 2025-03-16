@@ -1,0 +1,27 @@
+<a>
+    <img>tsubasa/tsubasa_rooftop_close
+    <txt>Si pudiese hacer que se cumpliese un deseo en aquel momento, Tsubasa querría un par de alas.
+    <img>tsubasa/tsubasa_rooftop_general
+    <txt>Un par de alas blancas en su espalda con las que poder volar como un pájaro.
+    <img>tsubasa/tsubasa_rooftop_jump
+    <txt>Sin más tristeza.
+    <img>tsubasa/tsubasa_lariat
+    <txt>"¡Whoa, espera un momento!", dijo Lariat, agarrando la mano de Tsubasa.
+    <txt>"Hagamos un trato."
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>tsubasa/tsubasa_wings
+    <txt>Tsubasa desplegó las alas y voló.
+    <img>tsubasa/tsubasa_fly
+    <txt>Hacia un cielo libre e inmenso.
+    <txt>Sin más tristeza.
+</a1>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>tsubasa/tsubasa_rooftop
+    <txt>...
+</a0>

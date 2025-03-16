@@ -1,0 +1,133 @@
+<a>
+    <img>gloria/aztec_temple
+    <txt>Gloria estaba explorando un antiguo templo azteca.
+    <img>gloria/aztec_tile
+    <txt>Al apoyar el pie en uno de sus pasos, la baldosa se hundió.
+    <txt>"¡Oh, por favor, que no sea una trampa!", deseó.
+    <img>gloria/gloria_deal_aztec
+    <txt>Entonces, apareció una bruja ante ella.
+    <txt>Lariat le ofreció el trato y Gloria lo aceptó.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>gloria/aztec_tile2
+    <txt>Gloria levantó el pie con cuidado.
+    <txt>El templo empezó a temblar con un fuerte ruido.
+    <img>gloria/aztec_treasure
+    <txt>La pared se abrió revelando una sala del tesoro secreta.
+    <txt>¡Dentro de la sala había un montón de antiguo oro azteca!
+    <txt>Gloria iba a ser una heroína cuando llevase todo eso de vuelta al museo.
+</a1>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>gloria/aztec_tile2
+    <txt>Gloria levantó el pie con cuidado.
+    <txt>Escuchó un extraño ruido que venía de las paredes.
+    <img>gloria/aztec_death
+    <txt>Antes de que pudiese reaccionar, se le clavaron decenas de dardos venenosos.
+    <txt>Fue una muerte dolorosa.
+</a0>
+
+<b>
+    <img>gloria/olmec_temple
+    <txt>Gloria estaba explorando un antiguo templo olmeca.
+    <img>gloria/olmec_tile
+    <txt>Al apoyar el pie en uno de sus pasos, la baldosa se hundió.
+    <txt>"¡Oh, por favor, que no sea una trampa!", deseó.
+    <img>gloria/gloria_deal_olmec
+    <txt>Entonces, apareció una bruja ante ella.
+    <txt>Lariat le ofreció el trato y Gloria lo aceptó.
+    <quiz>
+</b>
+
+<b1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>gloria/olmec_tile2
+    <txt>Gloria levantó el pie con cuidado.
+    <txt>El templo empezó a temblar con un fuerte ruido.
+    <img>gloria/olmec_treasure
+    <txt>La pared se abrió revelando una sala del tesoro secreta.
+    <txt>¡Dentro de la sala había una antigua cabeza de piedra olmeca!
+    <txt>Gloria iba a ser una heroína cuando la llevase de vuelta al museo.
+</b1>
+
+<b0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>gloria/olmec_tile2
+    <txt>Gloria levantó el pie con cuidado.
+    <txt>Escuchó un extraño ruido que venía desde atrás.
+    <img>gloria/olmec_death
+    <txt>¡Una roca gigante estaba rodando hacia ella!
+    <img>black
+    <txt>Antes de que pudiera reaccionar fue aplastada contra el suelo.
+    <txt>Fue una muerte rápida pero muy dolorosa.
+</b0>
+
+<c>
+    <img>gloria/maya_temple
+    <txt>Gloria estaba explorando un antiguo templo maya.
+    <img>gloria/maya_tile
+    <txt>Al apoyar el pie en uno de sus pasos, la baldosa se hundió.
+    <txt>"¡Oh, por favor, que no sea una trampa!", deseó.
+    <img>gloria/gloria_deal_maya
+    <txt>Entonces, apareció una bruja ante ella.
+    <txt>Lariat le ofreció el trato y Gloria lo aceptó.
+    <quiz>
+</c>
+
+<c1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>gloria/maya_tile2
+    <txt>Gloria levantó el pie con cuidado.
+    <txt>El templo empezó a temblar con un fuerte ruido.
+    <img>gloria/maya_treasure
+    <txt>La pared se abrió revelando una sala del tesoro secreta.
+    <txt>¡Dentro de la habitación había un disco maya dorado!
+    <txt>Gloria iba a ser una heroína cuando lo llevase de vuelta al museo.
+</c1>
+
+<c0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>gloria/maya_tile2
+    <txt>Gloria levantó el pie con cuidado.
+    <txt>Escuchó un ruido extraño que venía del suelo.
+    <img>gloria/maya_death
+    <txt>Antes de que pudiese reaccionar, el suelo se abrió, revelando un foso de pinchos.
+    <txt>Fue una muerte dolorosa.
+</c0>
+
+<d>
+    <img>gloria/inca_temple
+    <txt>Gloria estaba explorando un antiguo templo inca.
+    <img>gloria/inca_tile
+    <txt>Al apoyar el pie en uno de sus pasos, la baldosa se hundió.
+    <txt>"¡Oh, por favor, que no sea una trampa!", deseó.
+    <img>gloria/gloria_deal_inca
+    <txt>Entonces, apareció una bruja ante ella.
+    <txt>Lariat le ofreció el trato y Gloria lo aceptó.
+    <quiz>
+</d>
+
+<d1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>gloria/inca_tile2
+    <txt>Gloria levantó el pie con cuidado.
+    <txt>El templo empezó a temblar con un fuerte ruido.
+    <img>gloria/inca_treasure
+    <txt>La pared se abrió revelando una sala del tesoro secreta.
+    <txt>¡Dentro de la sala había una estatuilla inca dorada!
+    <txt>Gloria iba a ser una heroína cuando la llevase de vuelta al museo.
+</d1>
+
+<d0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>gloria/inca_tile2
+    <txt>Gloria levantó el pie con cuidado.
+    <txt>Escuchó un ruido extraño que venía del techo.
+    <img>gloria/inca_death
+    <txt>Antes de que pudiese reaccionar, decenas de serpientes venenosas cayeron sobre ella.
+    <txt>Fue una muerte agonizante.
+</d0>

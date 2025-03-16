@@ -1,0 +1,401 @@
+<q>In which of the United States is the animated series "South Park" set?
+<a1>Colorado
+<a2>Montana
+<a3>Idaho
+<a4>North Carolina
+
+<q>Which of these is a fictional musical instrument in the animated series "Futurama"?
+<a1>Holophonor
+<a2>Spheroboom
+<a3>Machina Magnifica
+<a4>Diamondillium
+
+<q>Where does Steven have his gem in the animated series "Steven Universe"?
+<a1>On his belly
+<a2>On the palm of his hand
+<a3>On his forehead
+<a4>On his chest
+
+<q>Which of these is not a character from the animated series "Adventure Time"?
+<a1>Blaze the Cat
+<a2>Finn the Human
+<a3>Ice King
+<a4>Princess Bubblegum
+
+<q>Where was Bender built in the animated series "Futurama"?
+<a1>Mexico
+<a2>Japan
+<a3>China
+<a4>USA
+
+<q>What is the name of Gargamel's cat in the animated series "The Smurfs"?
+<a1>Azrael
+<a2>Ramiel
+<a3>Lucifer
+<a4>Wiggles
+
+<q>Where does the main character in the animated series "SpongeBob SquarePants" live?
+<a1>In a pineapple under the sea
+<a2>In a house made of cloud
+<a3>In a black box on the street
+<a4>Inside a dinosaur skeleton
+
+<q>On what street do the main characters in the animated series "The Simpsons" live?
+<a1>Evergreen Terrace
+<a2>Fake Street
+<a3>Fast-Food Boulevard
+<a4>8th Avenue
+
+<q>How old is Bart in the animated series "The Simpsons"?
+<a1>10
+<a2>8
+<a3>6
+<a4>12
+
+<q>Which character is known for trying to kill Bart in the animated series "The Simpsons"?
+<a1>Sideshow Bob
+<a2>Edna Krabappel
+<a3>Waylon Smithers
+<a4>Barney Gumble
+
+<q>Who is Springfield's mayor in the animated series "The Simpsons"?
+<a1>Joe Quimby
+<a2>Seymour Skinner
+<a3>Clancy Wiggum
+<a4>Kent Brockman
+
+<q>What is Shelbyville?
+<a1>A rival town in the animated series "The Simpsons"
+<a2>A ninja village in the anime "Naruto"
+<a3>The town where the movie "The Godfather" is set
+<a4>The main characters' destination in the video game "Final Fantasy XIII"
+
+<q>What species is Finn in the animated series "Adventure Time"?
+<a1>Human
+<a2>Dog
+<a3>Vampire
+<a4>Lemon
+
+<q>What are the main characters' names in the animated series "Regular Show"?
+<a1>Mordecai and Rigby
+<a2>Finn and Jake
+<a3>Clarence and Jeff
+<a4>Robin and Raven
+
+<q>In which of the following animated series is the main character a cat?
+<a1>The Amazing World of Gumball
+<a2>Regular Show
+<a3>Adventure Time
+<a4>Samurai Jack
+
+<q>Which of these animated series has a character voiced by Vocaloid software?
+<a1>Bee and PuppyCat
+<a2>Steven Universe
+<a3>Futurama
+<a4>Gravity Falls
+
+<q>What year is the animated series "Futurama" set in?
+<a1>3000
+<a2>2000
+<a3>4000
+<a4>6000
+
+<q>What was Fry's job before traveling to the future in the animated series "Futurama"?
+<a1>Pizza delivery boy
+<a2>Supermarket clerk
+<a3>Computer programmer
+<a4>Laboratory assistant
+
+<q>What company do the main characters in the animated series "Futurama" work for?
+<a1>Planet Express
+<a2>MomCorp
+<a3>Future Stock
+<a4>Elzar's Fine Cuisine
+
+<q>What animal does Mabel adopt in the animated series "Gravity Falls"?
+<a1>A pig
+<a2>A chicken
+<a3>A duck
+<a4>A sheep
+
+<q>In which of these animated series do the main characters fight against Doctor Drakken?
+<a1>Kim Possible
+<a2>Rick and Morty
+<a3>Samurai Jack
+<a4>Teen Titans Go!
+
+<q>What is Rick and Morty's relationship in the animated series "Rick and Morty"?
+<a1>Rick is Morty's grandfather
+<a2>Morty is Rick's teacher
+<a3>They are neighbors
+<a4>They are classmates
+
+<q>Which of these is not a main character in the animated series "South Park"?
+<a1>Fred Jones
+<a2>Stan Marsh
+<a3>Eric Cartman
+<a4>Kyle Broflovski
+
+<q>What can the Avatar do in the animated series "Avatar: The Last Airbender"?
+<a1>Bend the four elements
+<a2>Summon a dragon
+<a3>Stop time
+<a4>See the future
+
+<q>What is the animated series "Wakfu" based on?
+<a1>A video game
+<a2>A series of novels
+<a3>A comic book
+<a4>A movie
+
+<q>Which animated series is "The Legend of Korra" a sequel to?
+<a1>Avatar: The Last Airbender
+<a2>Dofus
+<a3>Samurai Jack
+<a4>Dragon Hunters
+
+<q>In which of these animated series is there a platypus named Perry?
+<a1>Phineas and Ferb
+<a2>The Powerpuff Girls 
+<a3>The Amazing World of Gumball
+<a4>SpongeBob SquarePants
+
+<q>Which of these is not one of the main characters in the animated series "The Powerpuff Girls"?
+<a1>Blaze
+<a2>Bubbles
+<a3>Blossom 
+<a4>Buttercup
+
+<q>What color are the main character's eyes in the animated series "SpongeBob SquarePants"?
+<a1>Blue
+<a2>Brown
+<a3>Green
+<a4>Yellow
+
+<q>Who is the main character in the animated series "The Critic"?
+<a1>Jay Sherman
+<a2>Troy McClure
+<a3>Adam West
+<a4>Hank Rutherford Hill
+
+<q>Who created the animated series "Family Guy"?
+<a1>Seth MacFarlane
+<a2>Matt Groening
+<a3>Joseph Barbera
+<a4>Alex Hirsch
+
+<q>In what state is the animated series "Family Guy" set?
+<a1>Rhode Island
+<a2>Springfield
+<a3>Langley Falls
+<a4>Bikini Bottom
+
+<q>What is Stan's occupation in the animated series "American Dad!"?
+<a1>CIA Agent
+<a2>Mayor
+<a3>Nuclear safety inspector
+<a4>Mailman
+
+<q>Which of these animated series features the Warner siblings as stars?
+<a1>Animaniacs
+<a2>Tiny Toon Adventures
+<a3>Justice League
+<a4>Baby Looney Tunes
+
+<q>What are the main characters in the animated series "Pinky and the Brain"?
+<a1>Mice
+<a2>Ravens
+<a3>Humans
+<a4>Weasels
+
+<q>What are the main characters in the animated series "The Rocky and Bullwinkle Show"?
+<a1>A flying squirrel and a moose
+<a2>A cow and a chicken
+<a3>A cat and a dog
+<a4>A skunk and a hamster
+
+<q>What does Wirt wear on his head in the animated series "Over the Garden Wall"?
+<a1>A red hat
+<a2>A cooking pot
+<a3>A porcelain cat
+<a4>A pumpkin
+
+<q>Which of these is not one of the main characters in the animated series "My Little Pony: Friendship Is Magic"?
+<a1>Cinnamon Bun
+<a2>Twilight Sparkle
+<a3>Applejack
+<a4>Pinkie Pie
+
+<q>Where is the animated series "My Little Pony: Friendship Is Magic" set?
+<a1>Equestria
+<a2>Peaceville
+<a3>Miracle City
+<a4>Townsville
+
+<q>In which of these animated series do the main characters travel from one planet to another?
+<a1>Wander Over Yonder
+<a2>My Little Pony: Friendship Is Magic
+<a3>The Amazing World of Gumball
+<a4>Gravity Falls
+
+<q>What is Marceline in the animated series "Adventure Time"?
+<a1>A vampire
+<a2>A human
+<a3>An elephant
+<a4>An angel
+
+<q>What is the name of Peppa's brother in the animated series "Peppa Pig"?
+<a1>George
+<a2>Richard
+<a3>Porky
+<a4>Candy
+
+<q>What color is Marge's hair in the animated series "The Simpsons"?
+<a1>Blue
+<a2>Yellow
+<a3>Red
+<a4>Purple
+
+<q>What color is Leela's hair in the animated series "Futurama"?
+<a1>Purple
+<a2>Black
+<a3>Red
+<a4>Green
+
+<q>What color is Mabel's hair in the animated series "Gravity Falls"?
+<a1>Brown
+<a2>Black
+<a3>Yellow
+<a4>Pink
+
+<q>Which character from the animated series "Teenage Mutant Ninja Turtles" wears a red bandana?
+<a1>Raphael
+<a2>Leonardo
+<a3>Michelangelo
+<a4>Donatello
+
+<q>In which of these animated series is there a character called Metabee?
+<a1>Medabots
+<a2>Yu-Gi-Oh!
+<a3>Teenage Mutant Ninja Turtles
+<a4>DuckTales
+
+<q>Which of these is not one of the main characters from the animated series "Totally Spies!"?
+<a1>Pearl
+<a2>Sam
+<a3>Alex
+<a4>Clover
+
+<q>To whom is Peter Griffin married in the animated series "Family Guy"?
+<a1>Lois
+<a2>Megan
+<a3>Marge
+<a4>Francine
+
+<q>To whom is Stan Smith married in the animated series "American Dad!"?
+<a1>Francine
+<a2>Marge
+<a3>Lois
+<a4>Megan
+
+<q>What color is Finn's hair in the animated series "Adventure Time"?
+<a1>Yellow
+<a2>Brown
+<a3>Pink
+<a4>Black
+
+<q>What species is Princess Carolyn in the animated series "BoJack Horseman"?
+<a1>Cat
+<a2>Horse
+<a3>Dog
+<a4>Goose
+
+<q>What species is Gumball's father in the animated series "The Amazing World of Gumball"?
+<a1>Rabbit
+<a2>Goldfish
+<a3>Cat
+<a4>Moose
+
+<q>Who is the leader of the Titans in the animated series "Teen Titans Go!"?
+<a1>Robin
+<a2>Aqualad
+<a3>Speedy
+<a4>Terra
+
+<q>Which weapon does Sticks use in the animated series "Sonic Boom"?
+<a1>Boomerang
+<a2>Hammer
+<a3>Spear
+<a4>Slingshot
+
+<q>How many tails does Tails have in the animated series "Sonic Boom"?
+<a1>2
+<a2>1
+<a3>3
+<a4>4
+
+<q>What species is Jerry in the animated series "Tom and Jerry"?
+<a1>Mouse
+<a2>Cat
+<a3>Dog
+<a4>Chicken
+
+<q>Which of these is not one of the main characters in the animated series "Scooby-Doo, Where Are You!"?
+<a1>Vincent
+<a2>Shaggy
+<a3>Fred
+<a4>Velma
+
+<q>Which of these is not one of the main characters in the animated series "Recess"?
+<a1>Georgina
+<a2>Ashley
+<a3>Vince
+<a4>T. J.
+
+<q>To whom is Wilma married in the animated series "The Flintstones"?
+<a1>Fred
+<a2>Pebbles
+<a3>Barney
+<a4>Joe
+
+<q>Which of these is not the name of one of the chipmunks in the animated series "Alvin and the Chipmunks"?
+<a1>Charlie
+<a2>Alvin
+<a3>Simon
+<a4>Theodore
+
+<q>What is the main character's occupation in the animated series "Archer"?
+<a1>Spy
+<a2>Actor
+<a3>Writer
+<a4>Archer
+
+<q>Who marries Selma first in the animated series "The Simpsons"?
+<a1>Sideshow Bob
+<a2>Troy McClure
+<a3>Lionel Hutz
+<a4>Apu Nahasapeemapetilon
+
+<q>What is the name of Pingu’s sister in the animated series "Pingu"?
+<a1>Pinga
+<a2>Snowbee
+<a3>Melody
+<a4>Oreo
+
+<q>What color is the arrow tattooed on Aang’s body in the animated series "Avatar: The Last Airbender"?
+<a1>Blue
+<a2>Red
+<a3>Green
+<a4>Yellow
+
+<q>What is Rick's catch phrase in the animated series "Rick and Morty"?
+<a1>Wubba Lubba Dub Dub
+<a2>I love it when a plan comes together
+<a3>¡Ay, caramba!
+<a4>Bazinga
+
+<q>Which of these is not the name of one of the main characters in the animated series "South Park"?
+<a1>Todd
+<a2>Stan
+<a3>Kyle
+<a4>Eric

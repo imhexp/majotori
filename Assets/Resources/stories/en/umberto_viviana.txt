@@ -1,0 +1,101 @@
+<a>
+    <img>umberto_viviana/umberto
+    <txt>Umberto was an old man with an old plane.
+    <txt>This was going to be their last flight together; their farewell flight.
+    <txt>But maybe in a different way than Umberto had intended.
+    <img>umberto_viviana/plane_engine
+    <txt>When he was at the highest point, the engine started to malfunction and smoke.
+    <txt>If the engine didn't hold together until the landing, he was going to crash!
+    <img>umberto_viviana/umberto_deal
+    <txt>Suddenly, a co-pilot appeared.
+    <txt>"Hi, I'm Lariat the witch", she said.
+    <txt>"There's no time to explain; just play with me."
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>umberto_viviana/plane_engine_good
+    <txt>Miraculously, the engine started to work normally once again.
+    <img>umberto_viviana/plane_land
+    <txt>He was able to land the plane without much problem, but his heart felt like it was about to explode.
+    <txt>What a farewell flight!
+</a1>
+
+<a1a>
+    <img>umberto_viviana/cabin
+    <txt>Viviana's grandfather was going to retire to his cabin in the mountains.
+    <txt>He had offered her a generous pay if she cleaned the place up.
+    <img>umberto_viviana/viviana_mess
+    <txt>She happily accepted, but the job turned out to be more daunting than she had expected.
+    <txt>It was too much for her to do alone! She didn't even know where to begin!
+    <txt>She wished she had someone there to help her organize.
+    <img>umberto_viviana/viviana_mess_deal
+    <txt>Then, from between the mess a witch leaned out.
+    <txt>The witch offered Viviana a deal and she accepted it.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Congratulations", said Lariat, and then she got to work.
+    <img>umberto_viviana/viviana_cleaning
+    <txt>With her help, cleaning the cabin was much easier, and even fun.
+    <txt>At the end of the day everything was sparkling.
+    <img>umberto_viviana/viviana_umberto
+    <txt>Her grandfather was so pleased, he paid her extra!
+</a1a1>
+
+<a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>umberto_viviana/viviana_mess
+    <txt>Viviana felt so overwhelmed by the mess that she lost her will.
+    <txt>She abandoned the job and went back home.
+</a1a0>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>umberto_viviana/plane_crash
+    <txt>The engine exploded and the plane plummeted down, engulfed in flames.
+    <txt>Umberto didn't survive.
+</a0>
+
+<a0a>
+    <img>umberto_viviana/cabin_night
+    <txt>Viviana's grandfather had died in a tragic plane accident a few weeks ago.
+    <txt>In his will, he stated that she would inherit his cabin in the mountains if she spent a night alone in it.
+    <txt>What an odd condition.
+    <img>umberto_viviana/viviana_mess_night
+    <txt>The place was dirty and gloomy, but that wasn't going to stop her.
+    <img>umberto_viviana/viviana_noises
+    <txt>Everything was going well until strange noises started coming from the second floor.
+    <txt>"It's just the wind", she muttered to herself.
+    <img>umberto_viviana/viviana_mess_deal_night
+    <txt>"Is it?", asked Lariat, appearing out of nowhere.
+    <txt>A witch! The cabin was haunted after all!
+    <txt>"Relax. I'm here to help you", said Lariat.
+    <txt>"Play with me and I'll make the scary noises go away."
+    <txt>Viviana didn't feel like disobeying a witch.
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>umberto_viviana/viviana_noises2
+    <txt>And with her, all the scary noises.
+    <txt>It was just the wind, after all!
+    <img>umberto_viviana/cabin
+    <txt>Dawn arrived without any more setbacks.
+    <txt>The cabin was now legally hers!
+</a0a1>
+
+<a0a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>umberto_viviana/viviana_noises2
+    <txt>The noises intensified.
+    <txt>It couldn't be just the wind! There was someone locked upstairs, knocking on a door!
+    <img>umberto_viviana/viviana_flee
+    <txt>Viviana was so afraid she ran away right in the middle of the night.
+    <img>umberto_viviana/viviana_cliff
+    <txt>Unable to see where she was going, she fell off a cliff.
+    <txt>The rescue team never found her body.
+</a0a0>

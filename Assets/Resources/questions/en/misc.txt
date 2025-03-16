@@ -1,0 +1,1409 @@
+<q>What does the acronym "USB" stand for?
+<a1>Universal Serial Bus
+<a2>User Shared Bytes
+<a3>Unilateral Software Broadcast
+<a4>Unac Serial Binary
+
+<q>Who among these was born in the suburbs of London?
+<a1>Hello Kitty
+<a2>Chopin
+<a3>Mozart
+<a4>Beethoven
+
+<q>How many feet is a yard?
+<a1>3
+<a2>6
+<a3>12
+<a4>22
+
+<q>Which of these planets is bigger?
+<a1>Jupiter
+<a2>Saturn
+<a3>Neptune
+<a4>Earth
+
+<q>Who is the father of Zeus in Greek mythology?
+<a1>Cronus
+<a2>Perseus
+<a3>Heracles
+<a4>Hercules
+
+<q>Who gives Harry Potter a Nimbus 2000 broom?
+<a1>McGonagall
+<a2>Dumbledore
+<a3>Black
+<a4>Lupin
+
+<q>Which of these is not a character from Marvel Comics?
+<a1>Batman
+<a2>Spider-Man
+<a3>Captain America
+<a4>Iron Man
+
+<q>What ocean is between America and Africa?
+<a1>Atlantic
+<a2>Pacific
+<a3>Indian
+<a4>Southern
+
+<q>Who composed "The Nutcracker"?
+<a1>Tchaikovsky
+<a2>Brahms
+<a3>Beethoven
+<a4>Mendelssohn
+
+<q>What instrument does the concertmaster of a standard orchestra play?
+<a1>Violin
+<a2>Piano
+<a3>Harp
+<a4>Cello
+
+<q>What organ secretes insulin?
+<a1>Pancreas
+<a2>Liver
+<a3>Kidney
+<a4>Skin
+
+<q>Who composed the "Ride of the Valkyries"?
+<a1>Wagner
+<a2>Chopin
+<a3>Tchaikovsky
+<a4>Mozart
+
+<q>What did Alfred Nobel invent?
+<a1>Dynamite
+<a2>Penicillin
+<a3>Light bulb
+<a4>Aspirin
+
+<q>Where did Frédéric Chopin die?
+<a1>Paris
+<a2>Majorca
+<a3>Leipzig
+<a4>Varsovia
+
+<q>What is the capital of Canada?
+<a1>Ottawa
+<a2>Toronto
+<a3>Montreal
+<a4>Quebec
+
+<q>Which of these animals gives birth in the water?
+<a1>Hippo
+<a2>Seal
+<a3>Penguin
+<a4>Sea lion
+
+<q>Which of these vegetables contains the most water?
+<a1>Cucumber
+<a2>Potato
+<a3>Banana
+<a4>Aubergine
+
+<q>What is the first element of the periodic table?
+<a1>Hydrogen
+<a2>Oxygen
+<a3>Helium
+<a4>Carbon
+
+<q>In what city is the play "Romeo and Juliet" set?
+<a1>Verona
+<a2>Tuscany
+<a3>Sicily
+<a4>Aosta Valley
+
+<q>Who was the first president of the United States?
+<a1>George Washington
+<a2>Thomas Jefferson
+<a3>Abraham Lincoln
+<a4>Theodore Roosevelt
+
+<q>What alcoholic drink is the first to be mentioned in The Bible?
+<a1>Wine
+<a2>Beer
+<a3>Rum
+<a4>Mead
+
+<q>How many chimneys did the Titanic have?
+<a1>4
+<a2>1
+<a3>8
+<a4>12
+
+<q>What letter is used to represent the speed of light?
+<a1>c
+<a2>e
+<a3>v
+<a4>l
+
+<q>What does the gallon measure?
+<a1>Volume
+<a2>Weight
+<a3>Distance
+<a4>Density
+
+<q>Which of the following countries is the largest?
+<a1>Russia
+<a2>Canada
+<a3>China
+<a4>India
+
+<q>How many hearts does an octopus have?
+<a1>3
+<a2>1
+<a3>5
+<a4>0
+
+<q>Who of the following was not a member of "The Beatles"?
+<a1>Elton John
+<a2>George Harrison
+<a3>Ringo Starr
+<a4>Paul McCartney
+
+<q>Who was the first man to step on the Moon?
+<a1>Neil Armstrong
+<a2>Michael Collins
+<a3>Alan Shepard
+<a4>Buzz Lightyear
+
+<q>What is the name of the nemesis of Sherlock Holmes?
+<a1>Moriarty
+<a2>Watson
+<a3>Lestrade
+<a4>Hopkins
+
+<q>Who wrote the Sherlock Holmes novels?
+<a1>Arthur Conan Doyle
+<a2>Edgar Allan Poe
+<a3>William Shakespeare
+<a4>Oscar Wilde
+
+<q>What organ produces bile?
+<a1>Liver
+<a2>Pancreas
+<a3>Kidney
+<a4>Stomach
+
+<q>How many stars are there in the Solar System?
+<a1>1
+<a2>17
+<a3>302
+<a4>Too many to count
+
+<q>What instrument does Sherlock Holmes play?
+<a1>Violin
+<a2>Piano
+<a3>Flute
+<a4>Harp
+
+<q>Who is the author of the novel "Alice's Adventures in Wonderland"?
+<a1>Lewis Carroll
+<a2>Ken Follett
+<a3>Arthur Conan Doyle
+<a4>George Orwell
+
+<q>In what city is Hollywood located?
+<a1>Los Angeles
+<a2>Philadelphia
+<a3>Miami
+<a4>San Francisco
+
+<q>What form of digital media uses the ".flac" file extension?
+<a1>Audio
+<a2>Video
+<a3>Image
+<a4>Text
+
+<q>What form of digital media uses the ".aac" file extension?
+<a1>Audio
+<a2>Video
+<a3>Image
+<a4>Text
+
+<q>What form of digital media uses the ".svg" file extension?
+<a1>Image
+<a2>Audio
+<a3>Video
+<a4>Text
+
+<q>What form of digital media uses the ".bmp" file extension?
+<a1>Image
+<a2>Audio
+<a3>Video
+<a4>Text
+
+<q>What form of digital media uses the ".rtf" file extension?
+<a1>Text
+<a2>Audio
+<a3>Video
+<a4>Image
+
+<q>"Texas hold 'em" is a variation of what card game?
+<a1>Poker
+<a2>Solitaire
+<a3>Blackjack
+<a4>Bridge
+
+<q>What colour represents the category for history in the classic edition of the board game Trivial Pursuit?
+<a1>Yellow
+<a2>Blue
+<a3>Pink
+<a4>Brown
+
+<q>What is the largest ocean on Earth?
+<a1>Pacific
+<a2>Arctic
+<a3>Indian
+<a4>Atlantic
+
+<q>What river carved the Grand Canyon in Arizona?
+<a1>Colorado
+<a2>Columbia
+<a3>Missouri
+<a4>Mississippi
+
+<q>What unit measures work?
+<a1>Joule
+<a2>Ampere
+<a3>Hertz
+<a4>Watt
+
+<q>What architectural style is the Notre Dame Cathedral?
+<a1>Gothic
+<a2>Baroque
+<a3>Rococo
+<a4>Romanesque
+
+<q>Who shot Mr. Burns in the classic two-part episode of "The Simpsons"?
+<a1>Maggie
+<a2>Smithers
+<a3>Homer
+<a4>Bart
+
+<q>Who created "The Simpsons"?
+<a1>Matt Groening
+<a2>Dan Castellaneta
+<a3>James L. Brooks
+<a4>Seth MacFarlane
+
+<q>Where was the famous battle depicted in the film "300" fought?
+<a1>Thermopylae
+<a2>Sparta
+<a3>Macedonia
+<a4>Arcadia
+
+<q>Which of these is not an Olympic sport?
+<a1>Chess
+<a2>Rugby
+<a3>Weightlifting
+<a4>Golf
+
+<q>What is an Omastar?
+<a1>A pokémon
+<a2>A spaceship in "Star Wars"
+<a3>A book in "Gravity Falls"
+<a4>An alien race in "Doctor Who"
+
+<q>What mathematical theorem relates the sides of a right triangle?
+<a1>Pythagorean theorem
+<a2>Fermat's little theorem
+<a3>L'Hôpital's rule
+<a4>Fundamental theorem of Lebesgue integral calculus
+
+<q>In what state of the United States is Silicon Valley located?
+<a1>California
+<a2>Florida
+<a3>North Carolina
+<a4>New York
+
+<q>Which of these metals is magnetic at room temperature?
+<a1>Nickel
+<a2>Aluminium
+<a3>Copper
+<a4>Brass
+
+<q>In which of these board games do you collect victory points?
+<a1>Puerto Rico
+<a2>Risk
+<a3>Stratego
+<a4>Cartagena
+
+<q>What lake is commonly referred to as a sea?
+<a1>Caspian Sea
+<a2>Baltic Sea
+<a3>Black Sea
+<a4>Caribbean Sea
+
+<q>What pseudonym used the secret informant from the Watergate scandal?
+<a1>Deep Throat
+<a2>Philanthropy
+<a3>Gray Fox
+<a4>Zero
+
+<q>Which president of the United States resigned after the Watergate scandal?
+<a1>Richard Nixon
+<a2>Bill Clinton
+<a3>Jimmy Carter
+<a4>Ronald Reagan
+
+<q>What is the name of Superman's superdog?
+<a1>Krypto
+<a2>Jor-El
+<a3>Super Goodboy
+<a4>Sinbad
+
+<q>What is a Kakuna?
+<a1>A pokémon
+<a2>A ninja rank in the anime "Naruto"
+<a3>A spaceship in "Star Wars"
+<a4>A giant robot in the movie "Pacific Rim"
+
+<q>What is a TIE Fighter?
+<a1>A spaceship in "Star Wars"
+<a2>An alien race in "Doctor Who"
+<a3>A type of pokémon
+<a4>A giant robot in the movie "Pacific Rim"
+
+<q>What was the name of the aircraft that dropped the first atomic bomb?
+<a1>Enola Gay
+<a2>Potemkin
+<a3>Yamato
+<a4>Hindenburg
+
+<q>What of the following is not an insect?
+<a1>Spider
+<a2>Butterfly
+<a3>Bee
+<a4>Cricket
+
+<q>What is the secret identity of Batman?
+<a1>Bruce Wayne
+<a2>Clark Kent
+<a3>Steve Rogers
+<a4>Tony Stark
+
+<q>Who transforms into the Hulk?
+<a1>Bruce Banner
+<a2>Clark Kent
+<a3>Steve Rogers
+<a4>Tony Stark
+
+<q>Who is Captain America?
+<a1>Steve Rogers
+<a2>Clark Kent
+<a3>Bruce Banner
+<a4>Tony Stark
+
+<q>What is the secret identity of Superman?
+<a1>Clark Kent
+<a2>Steve Rogers
+<a3>Bruce Banner
+<a4>Tony Stark
+
+<q>Which of these states from the United States is farther east?
+<a1>New York
+<a2>Ohio
+<a3>Missouri
+<a4>Texas
+
+<q>Which of these states from the United States is farther east?
+<a1>Florida
+<a2>Indiana
+<a3>New Mexico
+<a4>California
+
+<q>Which of these states from the United States is farther west?
+<a1>California
+<a2>Arizona
+<a3>Kentucky
+<a4>Nebraska
+
+<q>Which of these states from the United States is farther north?
+<a1>South Dakota
+<a2>North Carolina
+<a3>Iowa
+<a4>Oklahoma
+
+<q>Which of these states from the United States is farther south?
+<a1>Texas
+<a2>Missouri
+<a3>Virginia
+<a4>North Dakota
+
+<q>Which of these European countries is farther east?
+<a1>Finland
+<a2>France
+<a3>Austria
+<a4>Sweden
+
+<q>Which of these European countries is farther west?
+<a1>Spain
+<a2>Italy
+<a3>Greece
+<a4>Germany
+
+<q>Which of these European countries is farther west?
+<a1>Germany
+<a2>Poland
+<a3>Latvia
+<a4>Bulgaria
+
+<q>Which of these European countries is farther north?
+<a1>Estonia
+<a2>Slovakia
+<a3>Switzerland
+<a4>Slovenia
+
+<q>Which of these European countries is farther south?
+<a1>France
+<a2>Sweden
+<a3>Latvia
+<a4>United Kingdom
+
+<q>What color comes out if you mix red and green light?
+<a1>Yellow
+<a2>Magenta
+<a3>Cyan
+<a4>White
+
+<q>What color comes out if you mix red and blue light?
+<a1>Magenta
+<a2>Green
+<a3>Black
+<a4>Cyan
+
+<q>What color comes out if you mix blue and green light?
+<a1>Cyan
+<a2>Yellow
+<a3>Magenta
+<a4>Orange
+
+<q>What color comes out if you mix red, green and blue light?
+<a1>White
+<a2>Black
+<a3>Orange
+<a4>Magenta
+
+<q>To what musical does the song "Aquarius" belong?
+<a1>Hair
+<a2>The Sound of Music
+<a3>Grease
+<a4>Mamma Mia!
+
+<q>The creation of what companies shows the movie "Pirates of Silicon Valley"?
+<a1>Microsoft and Apple
+<a2>Google and Facebook
+<a3>IBM and Intel
+<a4>AMD and nVidia
+
+<q>What is the title of the first volume of the Scott Pilgrim's comic series?
+<a1>Scott Pilgrim's Precious Little Life
+<a2>Scott Pilgrim vs. the World
+<a3>Scott Pilgrim & the Infinite Sadness 
+<a4>Scott Pilgrim Gets It Together
+
+<q>What actor was elected Governor of California in 2003?
+<a1>Arnold Schwarzenegger
+<a2>Clint Eastwood
+<a3>Will Smith
+<a4>Kurt Russell
+
+<q>In which of these video games do you visit Disney's worlds?
+<a1>Kingdom Hearts
+<a2>Final Fantasy
+<a3>World of Warcraft
+<a4>Golden Sun
+
+<q>What color are the "g" characters in the Google logo?
+<a1>Blue
+<a2>Red
+<a3>Yellow
+<a4>Green
+
+<q>What color is Donkey Kong's tie?
+<a1>Red
+<a2>Yellow
+<a3>Brown
+<a4>Pink
+
+<q>What is the name of Super Mario's brother?
+<a1>Luigi
+<a2>Wario
+<a3>Giuseppe
+<a4>Antonio
+
+<q>Which of these painters severed his own ear?
+<a1>Vincent van Gogh
+<a2>Pablo Picasso
+<a3>Andy Warhol
+<a4>Caravaggio
+
+<q>Who fights humanity in the TV show "Battlestar Galactica"?
+<a1>The Cylon
+<a2>The Time Lords
+<a3>The Intergalactic Empire
+<a4>The Borg
+
+<q>In which of these televisions series is there a character called Gaius Baltar?
+<a1>Battlestar Galactica
+<a2>Mad Men
+<a3>Dexter
+<a4>Firefly
+
+<q>Who is the main character in the TV show "Breaking Bad"?
+<a1>Walter White
+<a2>Frank Underwood
+<a3>Omar Little
+<a4>Jack Bauer
+
+<q>What is a TARDIS?
+<a1>A time machine in the TV show "Doctor Who"
+<a2>A weapon in the video game "Gears of War"
+<a3>A spaceship in the Star Wars movies
+<a4>A kind of robot in the animated series "Futurama"
+
+<q>Who plays Sherlock Holmes in the TV show "Sherlock"?
+<a1>Benedict Cumberbatch
+<a2>Michael Cera
+<a3>Jesse Eisenberg
+<a4>Justin Timberlake
+
+<q>Who is the main character in the TV show "24"?
+<a1>Jack Bauer
+<a2>Walter White
+<a3>John McClane
+<a4>Harry Callahan
+
+<q>Where is the TV show "Dexter" set?
+<a1>Miami
+<a2>New York City
+<a3>Las Vegas
+<a4>Los Angeles
+
+<q>In which of these TV shows is there a character called Malcolm Reynolds?
+<a1>Firefly
+<a2>Mad Men
+<a3>Breaking Bad
+<a4>Game of Thrones
+
+<q>Who is the king of Westeros at the beginning of the TV show "Game of Thrones"?
+<a1>Robert Baratheon
+<a2>Jaime Lannister
+<a3>Petyr Baelish
+<a4>Ned Stark
+
+<q>What character in the TV show "Game of Thrones" is a dwarf?
+<a1>Tyrion
+<a2>Varys
+<a3>Sansa
+<a4>Hodor
+
+<q>In what city is the Iron Throne in the TV show "Game of Thrones" located?
+<a1>King's Landing
+<a2>Old Valyria
+<a3>Astapor
+<a4>Lannisport
+
+<q>In what fictional hospital is the TV show "House M.D." set?
+<a1>Princeton-Plainsboro Teaching Hospital
+<a2>Northwestern Memorial Hospital
+<a3>Health-Stanford Hospital
+<a4>Bayshore Community Hospital
+
+<q>How many seasons did the TV show "Lost" have?
+<a1>6
+<a2>5
+<a3>4
+<a4>3
+
+<q>Which of the characters in the TV show "Lost" is a doctor?
+<a1>Jack Shephard
+<a2>Kate Austen
+<a3>John Locke
+<a4>Sayid Jarrah
+
+<q>In which of these TV shows is the Dharma Initiative mentioned?
+<a1>Lost
+<a2>House M.D.
+<a3>Battlestar Galactica
+<a4>Heroes
+
+<q>Where do the main characters in the TV show "Mad Men" work?
+<a1>In an advertising agency
+<a2>In a police station
+<a3>In a fire brigade
+<a4>In a film production company
+
+<q>Who is the main character in the TV show "Prison Break"?
+<a1>Michael Scofield
+<a2>Lincoln Burrows
+<a3>Walter White
+<a4>Jack Shephard
+
+<q>Why does the main character in the TV show "Prison Break" go to jail?
+<a1>To rescue his brother
+<a2>To avenge his father
+<a3>To see his girlfriend
+<a4>To hide from the mafia
+
+<q>What business does the starring family in the TV show "Six Feet Under" run?
+<a1>A funeral home
+<a2>A pizza parlor
+<a3>A car wash
+<a4>A flower shop
+
+<q>What does Ahab want revenge for in the book "Moby-Dick; or, The Whale"?
+<a1>His leg
+<a2>His ship
+<a3>His father
+<a4>His son
+
+<q>Who wrote the Harry Potter novels?
+<a1>J.K. Rowling
+<a2>Susanna Clarke
+<a3>Margaret Atwood
+<a4>Suzanne Collins
+
+<q>What does a Geiger counter measures?
+<a1>Radioactivity
+<a2>Seismic activity
+<a3>Humidity
+<a4>Ultraviolet light
+
+<q>What does the Richter scale measure?
+<a1>Earthquakes
+<a2>Tornadoes
+<a3>Explosions
+<a4>Radioactivity
+
+<q>What kind is the leaf in Canada's flag?
+<a1>Maple
+<a2>Oak
+<a3>Yew
+<a4>Giant Sequoia
+
+<q>For which of these fields is there no Nobel Prize?
+<a1>Philosophy
+<a2>Literature
+<a3>Chemistry
+<a4>Physics
+
+<q>Where were the 2000 Summer Olympic Games celebrated?
+<a1>Sydney
+<a2>Beijing
+<a3>Seoul
+<a4>Barcelona
+
+<q>How many red stripes are there on the flag of the United States of America?
+<a1>7
+<a2>10
+<a3>13
+<a4>18
+
+<q>How many stars are there on the flag of the United States of America?
+<a1>50
+<a2>42
+<a3>37
+<a4>29
+
+<q>The flag of which of these countries does not have vertical stripes?
+<a1>Germany
+<a2>Italy
+<a3>Ireland
+<a4>France
+
+<q>Which of these is not the color of a strip in the flag of France?
+<a1>Yellow
+<a2>Red
+<a3>Blue
+<a4>White
+
+<q>Who is the main character in love with in the novel "The Ingenious Gentleman Don Quixote of La Mancha"?
+<a1>Dulcinea
+<a2>Antonia
+<a3>Maritornes
+<a4>Teresa
+
+<q>How many bits are there in a byte?
+<a1>8
+<a2>6
+<a3>4
+<a4>2
+
+<q>Which of these is not a noble gas?
+<a1>Nitrogen
+<a2>Helium
+<a3>Neon
+<a4>Krypton
+
+<q>What element is contained by all acids?
+<a1>Hydrogen
+<a2>Carbon
+<a3>Sulfur
+<a4>Calcium
+
+<q>What is the primary component of common salt?
+<a1>Sodium chloride
+<a2>Potassium iodide
+<a3>Lithium fluoride
+<a4>Magnesium sulfide
+
+<q>How many players does a baseball team have on the field when it's defending?
+<a1>9
+<a2>5
+<a3>7
+<a4>11
+
+<q>How many players does a basketball team have on the court?
+<a1>5
+<a2>7
+<a3>9
+<a4>11
+
+<q>How many players does a soccer team have on the field?
+<a1>11
+<a2>5
+<a3>7
+<a4>9
+
+<q>How many players does an American football team have on the field?
+<a1>11
+<a2>5
+<a3>7
+<a4>9
+
+<q>How many players does a volleyball team have on the court?
+<a1>6
+<a2>4
+<a3>8
+<a4>10
+
+<q>What is measured in pascals?
+<a1>Pressure
+<a2>Conductivity
+<a3>Frequency
+<a4>Work
+
+<q>What does the acronym "RAM" mean when referring to computer components?
+<a1>Random Access Memory
+<a2>Raw Algorithm Module
+<a3>Real Analog Mode
+<a4>Right Application Microchip
+
+<q>What form of digital media uses the ".mov" file extension?
+<a1>Video
+<a2>Audio
+<a3>Image
+<a4>Text
+
+<q>What form of digital media uses the ".png" file extension?
+<a1>Image
+<a2>Audio
+<a3>Video
+<a4>Text
+
+<q>What form of digital media uses the ".wmv" file extension?
+<a1>Video
+<a2>Audio
+<a3>Image
+<a4>Text
+
+<q>What form of digital media uses the ".wav" file extension?
+<a1>Audio
+<a2>Video
+<a3>Image
+<a4>Text
+
+<q>What is the imaginary line that divides the Earth into two hemispheres called?
+<a1>Equator
+<a2>Rotation axis
+<a3>Meridian
+<a4>Latitude
+
+<q>What is the largest state in the United States?
+<a1>Alaska
+<a2>New Mexico
+<a3>Oregon
+<a4>Washington
+
+<q>Which of these is not the color of a ring in the Olympic flag?
+<a1>Brown
+<a2>Black
+<a3>Green
+<a4>Yellow
+
+<q>Which of these herbs is one of the main ingredients in pesto sauce?
+<a1>Basil
+<a2>Oregano
+<a3>Parsley
+<a4>Thyme
+
+<q>How many legs do butterflies have?
+<a1>6
+<a2>4
+<a3>8
+<a4>10
+
+<q>To what part of a boat does the nautical term "starboard" refer to?
+<a1>The right
+<a2>The left
+<a3>The front
+<a4>The back
+
+<q>What planet in the Solar System is nearest to the Sun?
+<a1>Mercury
+<a2>Venus
+<a3>Mars
+<a4>Neptune
+
+<q>What is the longest bone in the human body?
+<a1>Femur
+<a2>Humerus
+<a3>Radius
+<a4>Tibia
+
+<q>What is the sum of the three angles of a triangle?
+<a1>180º
+<a2>90º
+<a3>360º
+<a4>270º
+
+<q>Who wrote the James Bond novels?
+<a1>Ian Fleming
+<a2>Arthur Conan Doyle
+<a3>Stephen King
+<a4>Agatha Christie
+
+<q>At what temperature in Celsius degrees does water boil?
+<a1>100
+<a2>0
+<a3>50
+<a4>220
+
+<q>What philosopher wrote the "Allegory of the Cave"?
+<a1>Plato
+<a2>Descartes
+<a3>Socrates
+<a4>Kant
+
+<q>In what year did Elvis Presley die?
+<a1>1977
+<a2>1954
+<a3>1939
+<a4>1921
+
+<q>How many minutes long is a round in boxing?
+<a1>3
+<a2>5
+<a3>7
+<a4>10
+
+<q>What pieces move only diagonally in chess?
+<a1>Bishops
+<a2>Knights
+<a3>Rooks
+<a4>Pawns
+
+<q>What is the symbol for Cancer in the zodiac?
+<a1>A crab
+<a2>A ram
+<a3>A centaur archer
+<a4>A pair of twins
+
+<q>In what city is the Notre Dame Cathedral located?
+<a1>Paris
+<a2>London
+<a3>Prague
+<a4>Florence
+
+<q>What color is in the external part of the arc of a rainbow?
+<a1>Red
+<a2>Blue
+<a3>Violet
+<a4>Green
+
+<q>Through which of these cities flows the Thames river?
+<a1>London
+<a2>Paris
+<a3>Madrid
+<a4>Rome
+
+<q>What's a falchion?
+<a1>A kind of sword
+<a2>A kind of bird
+<a3>A kind of wine
+<a4>A kind of rock
+
+<q>What is the capital of Poland?
+<a1>Warsaw
+<a2>Sofia
+<a3>Prague
+<a4>Vienna
+
+<q>What is the capital of Portugal?
+<a1>Lisbon
+<a2>Moscow
+<a3>Dublin
+<a4>Sofia
+
+<q>What is fermented to make sake?
+<a1>Rice
+<a2>Grapes
+<a3>Barley
+<a4>Seaweed
+
+<q>What was the name of the first computer to defeat a chess reigning world champion?
+<a1>Deep Blue
+<a2>Kasparov
+<a3>Houdini 4
+<a4>Barbarossa C3
+
+<q>What mythological animal is reborn from its ashes?
+<a1>Phoenix
+<a2>Dragon
+<a3>Griffin
+<a4>Manticore
+
+<q>What's the first digit in the number pi?
+<a1>3
+<a2>2
+<a3>1
+<a4>0
+
+<q>How many operas did Beethoven compose?
+<a1>1
+<a2>10
+<a3>100
+<a4>1000
+
+<q>What legume is used to make tofu?
+<a1>Soybean
+<a2>Lentil
+<a3>Alfalfa
+<a4>Chickpea
+
+<q>What kind of eagle is the national bird of the United States?
+<a1>Bald eagle
+<a2>Golden eagle
+<a3>Harpy eagle
+<a4>Crowned eagle
+
+<q>What is the delay in the transmission of information on a network called?
+<a1>Latency
+<a2>Algorithm
+<a3>Concatenation
+<a4>Recursion
+
+<q>What does the Mohs scale measure on minerals?
+<a1>Hardness
+<a2>Magnetism
+<a3>Reflectivity
+<a4>Luster
+
+<q>What does the ohm measure?
+<a1>Electrical resistance
+<a2>Charge
+<a3>Electromotive force
+<a4>Intensity
+
+<q>What is the Japanese art of flower arrangement called?
+<a1>Ikebana
+<a2>Hanabi
+<a3>Haiku
+<a4>Kendo
+
+<q>What does the HTTP error code 404 mean?
+<a1>Not found
+<a2>Loop detected
+<a3>Internal server error
+<a4>Too many requests
+
+<q>What superpower does Susan Storm have in the comic series "Fantastic Four"?
+<a1>Invisibility
+<a2>Elasticity
+<a3>Flying
+<a4>Healing
+
+<q>What is Superman's Kryptonian name?
+<a1>Kal-El
+<a2>Clark
+<a3>Bizarro
+<a4>Lex Luthor
+
+<q>Where did the character Scott Pilgrim first appear?
+<a1>In a comic
+<a2>In a novel
+<a3>In a movie
+<a4>In a video game
+
+<q>What are diamonds made of?
+<a1>Carbon
+<a2>Glass
+<a3>Amber
+<a4>Zircon
+
+<q>What canal connects the Atlantic Ocean to the Pacific Ocean?
+<a1>Panama Canal
+<a2>Baltic Canal
+<a3>Suez Canal
+<a4>White Sea Canal
+
+<q>In what year was the first generation iPhone released?
+<a1>2007
+<a2>2004
+<a3>2001
+<a4>2010
+
+<q>What is the name of the goddess of victory in Greek mythology?
+<a1>Nike
+<a2>Adidas
+<a3>Reebok
+<a4>Puma
+
+<q>Where is the St. Peter's Basilica located?
+<a1>Vatican City
+<a2>Athens
+<a3>Madrid
+<a4>Berlin
+
+<q>Who is the author of the "The Lord of the Rings" novels?
+<a1>J. R. R. Tolkien
+<a2>George R. R. Martin
+<a3>J. K. Rowling
+<a4>Neil Gaiman
+
+<q>What ocean surrounds Sri Lanka?
+<a1>Indian
+<a2>Pacific
+<a3>Atlantic
+<a4>Arctic
+
+<q>Who is the author of the tale "The Emperor's New Clothes"?
+<a1>Hans Christian Andersen
+<a2>Wilhelm Grimm
+<a3>Neil Gaiman
+<a4>Ernest Hemingway
+
+<q>Who organised the expedition that circumnavigated the Earth for the first time?
+<a1>Ferdinand Magellan
+<a2>Marco Polo
+<a3>Archimedes
+<a4>Ulysses
+
+<q>Who is the author of the book "A Brief History of Time"?
+<a1>Stephen Hawking
+<a2>Neil deGrasse Tyson
+<a3>Albert Einstein
+<a4>Carl Sagan
+
+<q>Who painted "The Persistence of Memory"?
+<a1>Salvador Dalí
+<a2>Pablo Picasso
+<a3>Vincent van Gogh
+<a4>El Greco
+
+<q>What is the name of the submarine of the fictional character Captain Nemo?
+<a1>Nautilus
+<a2>Hydronaut
+<a3>Plongeur
+<a4>Triton
+
+<q>Who is the author of the novel "Around the World in Eighty Days"?
+<a1>Jules Verne
+<a2>Arthur C. Clarke
+<a3>Isaac Asimov
+<a4>Orson Scott Card
+
+<q>What is origami?
+<a1>The art of folding paper
+<a2>The art of flower arrangement
+<a3>The art of serving tea
+<a4>The art of painting wood
+
+<q>What was the name of the first artificial Earth satellite?
+<a1>Sputnik 1
+<a2>Apollo 1
+<a3>Explorer 1
+<a4>Luna 1
+
+<q>What colors is the suit of the superhero Deadpool?
+<a1>Red and black
+<a2>Pink and white
+<a3>Orange and blue
+<a4>Brown and green
+
+<q>What is Arya's sword called in the TV show "Game of Thrones"?
+<a1>Needle
+<a2>Oathkeeper
+<a3>Ice
+<a4>Lightbringer
+
+<q>Who created the comic strip "Garfield"?
+<a1>Jim Davis
+<a2>Charles M. Schulz
+<a3>Quino
+<a4>Bill Watterson
+
+<q>Who is Garfield's owner in the comic strip "Garfield"?
+<a1>Jon
+<a2>Odie
+<a3>Nermal
+<a4>Roger
+
+<q>How old is Calvin in the comic strip "Calvin and Hobbes"?
+<a1>6
+<a2>10
+<a3>14
+<a4>17
+
+<q>Which kind of food specially hates the main character in the comic strip "Mafalda"?
+<a1>Soup
+<a2>Meat
+<a3>Fruit
+<a4>Pizza
+
+<q>Which is the largest of the Balearic Islands?
+<a1>Majorca
+<a2>Minorca
+<a3>Ibiza
+<a4>Formentera
+
+<q>In which boxing weight class did Muhammad Ali win an Olympic medal?
+<a1>Light heavyweight
+<a2>Super heavyweight
+<a3>Welterweight
+<a4>Featherweight
+
+<q>What is the name of the starship in which the crew of the original Star Trek series travel?
+<a1>Enterprise
+<a2>Normandy
+<a3>Galactica
+<a4>Serenity
+
+<q>What vitamin can most mammals synthesize by being exposed to sunlight?
+<a1>Vitamin D
+<a2>Vitamin A
+<a3>Vitamin B
+<a4>Vitamin C
+
+<q>How is the number 100 written in Roman numerals?
+<a1>C
+<a2>D
+<a3>L
+<a4>M
+
+<q>In the creation of which of these famous structures was Gustave Eiffel involved?
+<a1>Statue of Liberty
+<a2>Empire State Building
+<a3>Tower of Pisa
+<a4>Big Ben
+
+<q>Which chess pieces are placed at the corners of the board at the start of a game?
+<a1>Rooks
+<a2>Knights
+<a3>Pawns
+<a4>Bishops
+
+<q>What philosopher said "I think, therefore I am"?
+<a1>Descartes
+<a2>Nietzsche
+<a3>Plato
+<a4>Socrates
+
+<q>What was the title of the first album of the rock band "AC/DC"?
+<a1>High Voltage
+<a2>AC/DC
+<a3>Highway to Hell
+<a4>Back in Black
+
+<q>What was the title of the first album of the rock band "Queen"?
+<a1>Queen
+<a2>Made in Heaven
+<a3>A Night at the Opera
+<a4>Jazz
+
+<q>What was the title of the first album of the rock band "The Rolling Stones"?
+<a1>The Rolling Stones
+<a2>Undercover
+<a3>Dirty Work
+<a4>Black and Blue
+
+<q>What volcano destroyed the Roman city of Pompeii?
+<a1>Mount Vesuvius
+<a2>Krakatoa
+<a3>Mount Etna
+<a4>Eyjafjallajökull
+
+<q>What does the Tin Woodman want in the novel "The Wonderful Wizard of Oz"?
+<a1>A heart
+<a2>A brain
+<a3>A mane
+<a4>Courage
+
+<q>What city is known as "The Big Apple"?
+<a1>New York City
+<a2>London
+<a3>Hong Kong
+<a4>San Francisco
+
+<q>In which of these novels is there a character named "Big Brother"?
+<a1>Nineteen Eighty-Four
+<a2>The Lord of the Rings
+<a3>Jane Eyre
+<a4>Rebecca
+
+<q>What is the television series "Westworld" based on?
+<a1>The movie "Westworld"
+<a2>The novel "Do Androids Dream of Electric Sheep?"
+<a3>The comic book series "Ghost World"
+<a4>The video game "Red Dead Redemption"
+
+<q>Where is the hypothalamus located?
+<a1>In the brain
+<a2>In the intestines
+<a3>In the bone marrow
+<a4>In the lymph nodes
+
+<q>Which of these superheroes is blind?
+<a1>Daredevil
+<a2>Silver Surfer
+<a3>Deadpool
+<a4>The Punisher
+
+<q>What is the job title of the main characters in the TV show "The X-Files"?
+<a1>FBI Special Agents
+<a2>Private detectives
+<a3>Police officers
+<a4>CIA analysts
+
+<q>Where does Hannah record her story in the TV show "13 Reasons Why"?
+<a1>On cassette tapes
+<a2>On DVDs
+<a3>On a diary
+<a4>On internet videos
+
+<q>Who is the author of the "A Song of Ice and Fire" novels?
+<a1>George R. R. Martin
+<a2>J. R. R. Tolkien
+<a3>J. K. Rowling
+<a4>Neil Gaiman
+
+<q>What is the extension of Vatican City?
+<a1>0.44 square kilometers
+<a2>1.60 square kilometers
+<a3>4.31 square kilometers
+<a4>7.07 square kilometers
+
+<q>What is a Creeper?
+<a1>A monster in the video game "Minecraft"
+<a2>A relic in the anime "Made in Abyss"
+<a3>A kind of artificial human in the movie "Blade Runner 2049"
+<a4>A weapon in the TV show "Star Trek: Discovery"
+
+<q>What is the figurine in the trophy of the Oscar Academy Awards holding?
+<a1>A sword
+<a2>A notebook
+<a3>A pen
+<a4>Nothing
+
+<q>In what country is Dracula's castle located in the novel "Dracula"?
+<a1>Romania
+<a2>England
+<a3>Austria
+<a4>Albania
+
+<q>What is Jerry's profession in the TV show "Seinfeld"?
+<a1>Comedian
+<a2>High school teacher
+<a3>Lawyer
+<a4>Supermarket cashier
+
+<q>In which of these TV shows is there a place called "the upside down"?
+<a1>Stranger Things
+<a2>The Good Place
+<a3>Narcos
+<a4>Sense8
+
+<q>Which of these animals is not a mammal?
+<a1>Crocodile
+<a2>Dolphin
+<a3>Otter
+<a4>Whale
+
+<q>What is the name of the sword of Arthur Pendragon, the legendary king of Britain?
+<a1>Excalibur
+<a2>Wallace
+<a3>Camelot
+<a4>Lancelot
+
+<q>What is the name of the hammer of Thor, the Norse god?
+<a1>Mjölnir
+<a2>Excelsia
+<a3>Nidhogg
+<a4>Loki
+
+<q>Which of these is not the species of one of the main characters of the story "Town Musicians of Bremen"?
+<a1>Mouse
+<a2>Donkey
+<a3>Rooster
+<a4>Dog
+
+<q>For what movie was the song "Over the Rainbow" written?
+<a1>The Wizard Of OZ
+<a2>The Sound Of Music
+<a3>Hair
+<a4>Jesus Christ Superstar
+
+<q>What instrument does the main character play in the book "The Name of the Wind"?
+<a1>Lute
+<a2>Oboe
+<a3>Trombone
+<a4>Marimba
+
+<q>What animal is the Sanrio character “Aggretsuko”?
+<a1>Red panda
+<a2>Raccoon
+<a3>Cat
+<a4>Opossum
+
+<q>What do vegans avoid consuming?
+<a1>Animal products
+<a2>Gluten
+<a3>Transgenics
+<a4>Preservatives
+
+<q>In what country where fireworks invented?
+<a1>China
+<a2>Spain
+<a3>Russia
+<a4>India
+
+<q>What civilization built the Machu Picchu citadel?
+<a1>Inca
+<a2>Aztec
+<a3>Olmec
+<a4>Egyptian
+
+<q>Who was the last queen of France?
+<a1>Marie-Antoinette
+<a2>Elizabeth II
+<a3>Isabella I
+<a4>Victoria
+
+<q>What part of the eye controls how much light enters the eyeball?
+<a1>Pupil
+<a2>Cornea
+<a3>Iris
+<a4>Sclera
+
+<q>How many countries form the United Kingdom?
+<a1>4
+<a2>2
+<a3>6
+<a4>8
+
+<q>Which character owns a parrot and lacks a leg in the novel "Treasure Island"?
+<a1>Long John Silver
+<a2>Captain Flint
+<a3>Jim Hawkins
+<a4>Billy Bones

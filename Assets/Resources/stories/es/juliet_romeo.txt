@@ -1,0 +1,121 @@
+<a>
+    <img>juliet_romeo/juliet
+    <txt>Juliet había conocido a un chico en el baile familiar de aquel día.
+    <txt>Un chico maravilloso llamado Romeo.
+    <txt>Pero él era de una familia enemiga.
+    <txt>La familia de Juliet se había enterado de que Romeo se había colado en el baile y le había amenazado con matarlo si lo volvían a ver.
+    <txt>Pero Juliet necesitaba verlo otra vez. ¡Estaba enamorada!
+    <txt>Se asomó al balcón y cerró los ojos, deseando que Romeo apareciera cuando los abriese otra vez.
+    <img>juliet_romeo/juliet_balcony_deal
+    <txt>Pero cuando lo hizo, en vez de Romeo, apareció una bruja.
+    <txt>La bruja le ofreció un trato y Juliet lo aceptó.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>juliet_romeo/bushes
+    <txt>Juliet oyó un ruido que venía de los arbustos.
+    <img>juliet_romeo/bushes_romeo
+    <txt>¡Era Romeo colándose en el jardín!
+    <img>juliet_romeo/juliet_balcony_romeo
+    <txt>"¡Te amo!", dijo Romeo.
+    <img>juliet_romeo/juliet2
+    <txt>"¡Yo también te amo!", dijo Juliet.
+    <img>juliet_romeo/juliet_balcony_romeo
+    <txt>"¡Casémonos!", propuso Romeo.
+    <img>juliet_romeo/juliet2
+    <txt>"¡Sí!"
+</a1>
+
+<a1a>
+    <img>juliet_romeo/romeo
+    <txt>Romeo le había pedido a Juliet que se casara con él, pero todo el mundo sabía que sus familias eran enemigas.
+    <txt>¿Quién estaría dispuesto a casarles en secreto?
+    <img>juliet_romeo/romeo_deal
+    <txt>"Yo conozco a alguien que lo está", dijo una bruja, apareciendo de la nada.
+    <txt>"Hagamos un trato."
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>juliet_romeo/romeo_friar
+    <txt>Justo entonces, un fraile amigo de la familia de Romeo pasó por allí.
+    <txt>Romeo le explicó la situación.
+    <txt>"Semejante unión podría poner fin a la enemistad entre vuestras familias", dijo el fraile.
+    <txt>"¡Lo haré!"
+    <img>juliet_romeo/romeo_juliet_wedding
+    <txt>Esa misma noche se reunieron en secreto.
+    <txt>Romeo y Juliet fueron declarados marido y mujer.
+</a1a1>
+
+<a1a1a>
+    <img>juliet_romeo/juliet_parents
+    <txt>Cuando la familia de Juliet se enteró de su matrimonio con Romeo se pusieron furiosos.
+    <txt>No aceptaron su unión y querían que Juliet se casase con alguien de su elección.
+    <img>juliet_romeo/juliet_poison
+    <txt>Juliet tenía un plan.
+    <txt>Se bebería una poción que la dejaría en un coma similar a la muerte.
+    <txt>Entonces Romeo vendría a rescatarla a la cripta y se fugarían juntos.
+    <txt>¿Pero entendería Romeo que en realidad no estaba muerta?
+    <img>juliet_romeo/juliet_poison_deal
+    <txt>"Yo me encargaré de que lo entienda", dijo Lariat, apareciendo detrás de ella.
+    <txt>"Vamos a jugar."
+    <quiz>
+</a1a1a>
+
+<a1a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>juliet_romeo/juliet_coma
+    <txt>Juliet se bebió la poción y cayó en un coma similar a la muerte.
+    <img>juliet_romeo/juliet_crypt
+    <txt>Cuando su familia se enteró, la dieron por muerta y la llevaron a la cripta familiar.
+    <img>juliet_romeo/romeo_crypt
+    <txt>La noticia llegó a oídos de Romeo y este fue a verla.
+    <txt>Negándose a darla por muerta, esperó a su lado.
+    <img>juliet_romeo/juliet_wakes
+    <txt>Con el tiempo, Juliet se despertó.
+    <img>juliet_romeo/parents
+    <txt>Romeo y Juliet se fugaron juntos, pero cuando sus familias escucharon la historia, les pidieron que regresaran.
+    <txt>La fuerza de su amor les conmovió tanto que pusieron fin a todas sus rivalidades.
+    <img>juliet_romeo/romeo_juliet_happy
+    <txt>Juliet y Romeo vivieron juntos y felices.
+</a1a1a1>
+
+<a1a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>juliet_romeo/juliet_coma
+    <txt>Juliet siguió con su plan de todas formas, confiando en que Romeo lo entendería.
+    <txt>Se bebió la poción y cayó en un coma similar a la muerte.
+    <img>juliet_romeo/juliet_crypt
+    <txt>Cuando su familia se enteró, la dieron por muerta y la llevaron a la cripta familiar.
+    <img>juliet_romeo/romeo_crypt_sad
+    <txt>La noticia llegó a oídos de Romeo y este fue a verla.
+    <txt>Pero él también la dio por muerta.
+    <img>juliet_romeo/romeo_dead
+    <txt>Incapaz de soportarlo, se suicidó junto a ella.
+    <img>juliet_romeo/juliet_wakes_sad
+    <txt>Cuando Juliet se despertó, encontró a Romeo muerto.
+    <img>juliet_romeo/both_dead
+    <txt>Llena de tristeza, se apuñaló a si misma con la daga de Romeo.
+    <txt>Se desangró hasta la muerte al lado de su difunto amado.
+</a1a1a0>
+
+<a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>juliet_romeo/romeo_friar
+    <txt>Aunque esa bruja no fuese a ayudar, Romeo al menos tenía que intentarlo.
+    <txt>Se acercó a un fraile que era amigo de su familia y le explicó la situación.
+    <img>juliet_romeo/angry_friar
+    <txt>"¡No permitiré esta unión!", dijo el fraile, furioso.
+    <txt>"¡Voy a hablarle a vuestros padres sobre vuestra relación ahora mismo!"
+    <txt>Tras eso, les prohibieron volverse a ver nunca más.
+</a1a0>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>juliet_romeo/juliet
+    <txt>Nadie más apareció después de eso.
+    <txt>Juliet no volvió a ver a Romeo.
+</a0>

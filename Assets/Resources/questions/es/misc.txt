@@ -1,0 +1,1409 @@
+<q>¿A qué corresponde el acrónimo de los conectores "USB"?
+<a1>Universal Serial Bus
+<a2>User Shared Bytes
+<a3>Unilateral Software Broadcast
+<a4>Unac Serial Binary
+
+<q>¿Cuál de estos nació en los suburbios de Londres?
+<a1>Hello Kitty
+<a2>Chopin
+<a3>Mozart
+<a4>Beethoven
+
+<q>¿Cuántos pies es una yarda?
+<a1>3
+<a2>6
+<a3>12
+<a4>22
+
+<q>¿Cuál de estos planetas es más grande?
+<a1>Júpiter
+<a2>Saturno
+<a3>Neptuno
+<a4>Tierra
+
+<q>¿Quién es el padre de Zeus en la mitología griega?
+<a1>Crono
+<a2>Perseo
+<a3>Heracles
+<a4>Hércules
+
+<q>¿Quién le da a Harry Potter una Nimbus 2000?
+<a1>McGonagall
+<a2>Dumbledore
+<a3>Black
+<a4>Lupin
+
+<q>¿Cuál de estos no es un personaje de Marvel Comics?
+<a1>Batman
+<a2>Spider-Man
+<a3>Capitán América
+<a4>Iron Man
+
+<q>¿Qué océano está entre América y África?
+<a1>Atlántico
+<a2>Pacífico
+<a3>Índico
+<a4>Antártico
+
+<q>¿Quién compuso "El cascanueces"?
+<a1>Tchaikovsky
+<a2>Brahms
+<a3>Beethoven
+<a4>Mendelssohn
+
+<q>¿Qué instrumento toca el concertino en una orquesta estándar?
+<a1>Violín
+<a2>Piano
+<a3>Arpa
+<a4>Violonchelo
+
+<q>¿Qué órgano secreta insulina?
+<a1>Páncreas
+<a2>Hígado
+<a3>Riñón
+<a4>Piel
+
+<q>¿Quién compuso la "Cabalgata de las valquirias"?
+<a1>Wagner
+<a2>Chopin
+<a3>Tchaikovsky
+<a4>Mozart
+
+<q>¿Qué inventó Alfred Nobel?
+<a1>Dinamita
+<a2>Penicilina
+<a3>Bombilla
+<a4>Aspirina
+
+<q>¿Dónde murió Frédéric Chopin?
+<a1>París
+<a2>Mallorca
+<a3>Leipzig
+<a4>Varsovia
+
+<q>¿Cuál es la capital de Canadá?
+<a1>Ottawa
+<a2>Toronto
+<a3>Montreal
+<a4>Quebec
+
+<q>¿Cuál de estos animales da a luz en el agua?
+<a1>Hipopótamo
+<a2>Foca
+<a3>Pingüino
+<a4>León marino
+
+<q>¿Cuál de estos vegetales contiene más agua?
+<a1>Pepino
+<a2>Patata
+<a3>Banana
+<a4>Berenjena
+
+<q>¿Cuál es el primer elemento de la tabla periódica?
+<a1>Hidrógeno
+<a2>Oxígeno
+<a3>Helio
+<a4>Carbono
+
+<q>¿En qué ciudad se desarrolla la obra "Romeo y Julieta"?
+<a1>Verona
+<a2>Toscana
+<a3>Sicilia
+<a4>Valle Aosta
+
+<q>¿Quién fue el primer presidente de los Estados Unidos?
+<a1>George Washington
+<a2>Thomas Jefferson
+<a3>Abraham Lincoln
+<a4>Theodore Roosevelt
+
+<q>¿Qué bebida alcohólica se menciona primero en la Biblia?
+<a1>Vino
+<a2>Cerveza
+<a3>Ron
+<a4>Aguamiel
+
+<q>¿Cuántas chimeneas tenía el Titanic?
+<a1>4
+<a2>1
+<a3>8
+<a4>12
+
+<q>¿Qué letra se usa para representar la velocidad de la luz?
+<a1>c
+<a2>e
+<a3>v
+<a4>r
+
+<q>¿Qué mide el galón?
+<a1>Volumen
+<a2>Peso
+<a3>Distancia
+<a4>Densidad
+
+<q>¿Cuál de estos países es más grande?
+<a1>Rusia
+<a2>Canadá
+<a3>China
+<a4>India
+
+<q>¿Cuántos corazones tiene un pulpo?
+<a1>3
+<a2>1
+<a3>5
+<a4>0
+
+<q>¿Cuál de los siguientes no fue un miembro de "The Beatles"?
+<a1>Elton John
+<a2>George Harrison
+<a3>Ringo Starr
+<a4>Paul McCartney
+
+<q>¿Quién fue el primer hombre en pisar la Luna?
+<a1>Neil Armstrong
+<a2>Michael Collins
+<a3>Alan Shepard
+<a4>Buzz Lightyear
+
+<q>¿Cómo se llama el némesis de Sherlock Holmes?
+<a1>Moriarty
+<a2>Watson
+<a3>Lestrade
+<a4>Hopkins
+
+<q>¿Quién escribió las novelas de Sherlock Holmes?
+<a1>Arthur Conan Doyle
+<a2>Edgar Allan Poe
+<a3>William Shakespeare
+<a4>Oscar Wilde
+
+<q>¿Qué órgano produce la bilis?
+<a1>Hígado
+<a2>Páncreas
+<a3>Riñón
+<a4>Estómago
+
+<q>¿Cuántas estrellas hay en el sistema solar?
+<a1>1
+<a2>17
+<a3>302
+<a4>Demasiadas para contar
+
+<q>¿Qué instrumento toca Sherlock Holmes?
+<a1>Violín
+<a2>Piano
+<a3>Flauta
+<a4>Arpa
+
+<q>¿Quién es el autor de la novela "Las aventuras de Alicia en el país de las maravillas" ("Alice's Adventures in Wonderland")?
+<a1>Lewis Carroll
+<a2>Ken Follett
+<a3>Arthur Conan Doyle
+<a4>George Orwell
+
+<q>¿En qué ciudad está Hollywood?
+<a1>Los Ángeles
+<a2>Filadelfia
+<a3>Miami
+<a4>San Francisco
+
+<q>¿Qué tipo de medio digital usa la extensión de archivo ".flac"?
+<a1>Audio
+<a2>Video
+<a3>Imagen
+<a4>Texto
+
+<q>¿Qué tipo de medio digital usa la extensión de archivo ".aac"?
+<a1>Audio
+<a2>Video
+<a3>Imagen
+<a4>Texto
+
+<q>¿Qué tipo de medio digital usa la extensión de archivo ".svg"?
+<a1>Imagen
+<a2>Audio
+<a3>Video
+<a4>Texto
+
+<q>¿Qué tipo de medio digital usa la extensión de archivo ".bmp"?
+<a1>Imagen
+<a2>Audio
+<a3>Video
+<a4>Texto
+
+<q>¿Qué tipo de medio digital usa la extensión de archivo ".rtf"?
+<a1>Texto
+<a2>Audio
+<a3>Video
+<a4>Imagen
+
+<q>¿De qué juego de cartas es una variación el Texas hold 'em?
+<a1>Póker
+<a2>Solitario
+<a3>Blackjack
+<a4>Bridge
+
+<q>¿Qué color representa a la categoría de historia en la edición clásica del juego de mesa Trivial Pursuit?
+<a1>Amarillo
+<a2>Azul
+<a3>Rosa
+<a4>Marrón
+
+<q>¿Qué océano es el más grande de la Tierra?
+<a1>Pacífico
+<a2>Ártico
+<a3>Índico
+<a4>Atlántico
+
+<q>¿Qué río formó el Gran Cañón de Arizona?
+<a1>Colorado
+<a2>Columbia
+<a3>Missouri
+<a4>Mississippi
+
+<q>¿Qué unidad mide el trabajo?
+<a1>Julio
+<a2>Amperio
+<a3>Hercio
+<a4>Vatio
+
+<q>¿De qué estilo arquitectónico es la catedral de Notre Dame?
+<a1>Gótico
+<a2>Barroco
+<a3>Rococó
+<a4>Románico
+
+<q>¿Quién dispara al Sr. Burns en el clásico episodio de dos partes de "Los Simpson"?
+<a1>Maggie
+<a2>Smithers
+<a3>Homer
+<a4>Bart
+
+<q>¿Quién creó "Los Simpson"?
+<a1>Matt Groening
+<a2>Dan Castellaneta
+<a3>James L. Brooks
+<a4>Seth MacFarlane
+
+<q>¿Dónde se libró la famosa batalla representada en la película "300"?
+<a1>Termópilas
+<a2>Esparta
+<a3>Macedonia
+<a4>Arcadia
+
+<q>¿Cuál de estos no es un deporte olímpico?
+<a1>Ajedrez
+<a2>Rugby
+<a3>Halterofilia
+<a4>Golf
+
+<q>¿Qué es un Omastar?
+<a1>Un pokémon
+<a2>Una nave espacial en "Star Wars"
+<a3>Un libro en "Gravity Falls"
+<a4>Una raza alienígena en "Doctor Who"
+
+<q>¿Qué teorema matemático relaciona los lados de un triángulo rectángulo?
+<a1>Teorema de Pitágoras
+<a2>Pequeño teorema de Fermat
+<a3>Regla de l'Hôpital
+<a4>Teorema fundamental del cálculo integral de Lebesgue
+
+<q>¿En cuál de los Estados Unidos se encuentra Silicon Valley?
+<a1>California
+<a2>Florida
+<a3>Carolina del Norte
+<a4>Nueva York
+
+<q>¿Cuál de estos metales es magnético a temperatura ambiente?
+<a1>Níquel
+<a2>Aluminio
+<a3>Cobre
+<a4>Latón
+
+<q>¿En cuál de estos juegos de mesa se acumulan puntos de victoria?
+<a1>Puerto Rico
+<a2>Risk
+<a3>Stratego
+<a4>Cartagena
+
+<q>¿A qué lago se le refiere comúnmente como mar?
+<a1>Mar Caspio
+<a2>Mar Báltico
+<a3>Mar Negro
+<a4>Mar Caribe
+
+<q>¿Qué pseudónimo usó el informador secreto del escándalo Watergate?
+<a1>Garganta Profunda
+<a2>Filantropía
+<a3>Zorro Gris
+<a4>Cero
+
+<q>¿Qué presidente de los Estados Unidos dimitió tras el escándalo Watergate?
+<a1>Richard Nixon
+<a2>Bill Clinton
+<a3>Jimmy Carter
+<a4>Ronald Reagan
+
+<q>¿Cómo se llama el súper perro de Superman?
+<a1>Krypto
+<a2>Jor-El
+<a3>Super Goodboy
+<a4>Sinbad
+
+<q>¿Qué es un Kakuna?
+<a1>Un pokémon
+<a2>Un rango ninja en el anime "Naruto"
+<a3>Una nave espacial en "Star Wars"
+<a4>Un robot gigante en la película "Pacific Rim"
+
+<q>¿Qué es un TIE Fighter?
+<a1>Una nave espacial en "Star Wars"
+<a2>Una raza alienígena "Doctor Who"
+<a3>Un pokémon
+<a4>Un robot gigante en la película "Pacific Rim"
+
+<q>¿Cómo se llamaba la aeronave que soltó la primera bomba atómica?
+<a1>Enola Gay
+<a2>Potemkin
+<a3>Yamato
+<a4>Hindenburg
+
+<q>¿Cuál de los siguientes no es un insecto?
+<a1>Araña
+<a2>Mariposa
+<a3>Abeja
+<a4>Grillo
+
+<q>¿Cuál es la identidad secreta de Batman?
+<a1>Bruce Wayne
+<a2>Clark Kent
+<a3>Steve Rogers
+<a4>Tony Stark
+
+<q>¿Quién se transforma en Hulk?
+<a1>Bruce Banner
+<a2>Clark Kent
+<a3>Steve Rogers
+<a4>Tony Stark
+
+<q>¿Quién es el Capitán América?
+<a1>Steve Rogers
+<a2>Clark Kent
+<a3>Bruce Banner
+<a4>Tony Stark
+
+<q>¿Cuál es la identidad secreta de Superman?
+<a1>Clark Kent
+<a2>Steve Rogers
+<a3>Bruce Banner
+<a4>Tony Stark
+
+<q>¿Cuál de estos estados de Estados Unidos está más al este?
+<a1>Nueva York
+<a2>Ohio
+<a3>Misuri
+<a4>Texas
+
+<q>¿Cuál de estos estados de Estados Unidos está más al este?
+<a1>Florida
+<a2>Indiana
+<a3>Nuevo México
+<a4>California
+
+<q>¿Cuál de estos estados de Estados Unidos está más al oeste?
+<a1>California
+<a2>Arizona
+<a3>Kentucky
+<a4>Nebraska
+
+<q>¿Cuál de estos estados de Estados Unidos está más al norte?
+<a1>Dakota del Sur
+<a2>Carolina del Norte
+<a3>Iowa
+<a4>Oklahoma
+
+<q>¿Cuál de estos estados de Estados Unidos está más al sur?
+<a1>Texas
+<a2>Misuri
+<a3>Virginia
+<a4>Dakota del Norte
+
+<q>¿Cuál de estos países europeos está más al este?
+<a1>Finlandia
+<a2>Francia
+<a3>Austria
+<a4>Suecia
+
+<q>¿Cuál de estos países europeos está más al oeste?
+<a1>España
+<a2>Italia
+<a3>Grecia
+<a4>Alemania
+
+<q>¿Cuál de estos países europeos está más al oeste?
+<a1>Alemania
+<a2>Polonia
+<a3>Letonia
+<a4>Bulgaria
+
+<q>¿Cuál de estos países europeos está más al norte?
+<a1>Estonia
+<a2>Eslovaquia
+<a3>Suiza
+<a4>Eslovenia
+
+<q>¿Cuál de estos países europeos está más al sur?
+<a1>Francia
+<a2>Suecia
+<a3>Lituania
+<a4>Reino Unido
+
+<q>¿Qué color se obtiene mezclando luz roja y luz verde?
+<a1>Amarillo
+<a2>Magenta
+<a3>Cian
+<a4>Blanco
+
+<q>¿Qué color se obtiene mezclando luz roja y luz azul?
+<a1>Magenta
+<a2>Verde
+<a3>Negro
+<a4>Cian
+
+<q>¿Qué color se obtiene mezclando luz azul y luz verde?
+<a1>Cian
+<a2>Amarillo
+<a3>Magenta
+<a4>Naranja
+
+<q>¿Qué color se obtiene mezclando luz roja, verde y azul?
+<a1>Blanco
+<a2>Negro
+<a3>Naranja
+<a4>Magenta
+
+<q>¿A qué musical pertenece la canción "Aquarius"?
+<a1>Hair
+<a2>Sonrisas y lágrimas (The Sound of Music)
+<a3>Grease
+<a4>Mamma Mia!
+
+<q>¿La creación de cuáles de estas compañías se muestra en la película "Piratas de Silicon Valley"?
+<a1>Microsoft y Apple
+<a2>Google y Facebook
+<a3>IBM y Intel
+<a4>AMD y nVidia
+
+<q>¿Cómo se titula el primer volumen de la serie de cómics de Scott Pilgrim?
+<a1>Scott Pilgrim: su vida y sus cosas (Scott Pilgrim's Precious Little Life)
+<a2>Scott Pilgrim contra el mundo (Scott Pilgrim vs. the World)
+<a3>Scott Pilgrim y la tristeza infinita (Scott Pilgrim & the Infinite Sadness )
+<a4>Scott Pilgrim se lo monta (Scott Pilgrim Gets It Together)
+
+<q>¿Qué actor fue elegido como gobernador de California en 2003?
+<a1>Arnold Schwarzenegger
+<a2>Clint Eastwood
+<a3>Will Smith
+<a4>Kurt Russell
+
+<q>¿En cuál de estos videojuegos visitas mundos de Disney?
+<a1>Kingdom Hearts
+<a2>Final Fantasy
+<a3>World of Warcraft
+<a4>Golden Sun
+
+<q>¿De qué color son las letras "g" en el logo de Google?
+<a1>Azules
+<a2>Rojas
+<a3>Amarillas
+<a4>Verdes
+
+<q>¿De qué color es la corbata de Donkey Kong?
+<a1>Roja
+<a2>Amarilla
+<a3>Marrón
+<a4>Rosa
+
+<q>¿Cómo se llama el hermano de Super Mario?
+<a1>Luigi
+<a2>Wario
+<a3>Giuseppe
+<a4>Antonio
+
+<q>¿Cuál de estos pintores se cortó su propia oreja?
+<a1>Vincent van Gogh
+<a2>Pablo Picasso
+<a3>Andy Warhol
+<a4>Caravaggio
+
+<q>¿Contra quién lucha la humanidad en la serie de televisión "Battlestar Galactica"?
+<a1>Los Cylon
+<a2>Los señores del tiempo
+<a3>El Imperio Intergaláctico
+<a4>Los Borg
+
+<q>¿En cuál de estas series de televisión hay un personaje llamado Gaius Baltar?
+<a1>Battlestar Galactica
+<a2>Mad Men
+<a3>Dexter
+<a4>Firefly
+
+<q>¿Quién es el protagonista de la serie de televisión "Breaking Bad"?
+<a1>Walter White
+<a2>Frank Underwood
+<a3>Omar Little
+<a4>Jack Bauer
+
+<q>¿Qué es una TARDIS?
+<a1>Una máquina del tiempo en la serie de televisión "Doctor Who"
+<a2>Un arma en el videojuego "Gears of War"
+<a3>Una nave espacial en las películas de Star Wars
+<a4>Un tipo de robot en la serie de animación "Futurama"
+
+<q>¿Quién interpreta a Sherlock Holmes en la serie de televisión "Sherlock"?
+<a1>Benedict Cumberbatch
+<a2>Michael Cera
+<a3>Jesse Eisenberg
+<a4>Justin Timberlake
+
+<q>¿Quién es el protagonista de la serie de televisión "24"?
+<a1>Jack Bauer
+<a2>Walter White
+<a3>John McClane
+<a4>Harry Callahan
+
+<q>¿Dónde se desarrolla la serie de televisión "Dexter"?
+<a1>Miami
+<a2>Nueva York
+<a3>Las Vegas
+<a4>Los Ángeles
+
+<q>¿En cuál de estas series de televisión hay un personaje llamado Malcolm Reynolds?
+<a1>Firefly
+<a2>Mad Men
+<a3>Breaking Bad
+<a4>Game of Thrones
+
+<q>¿Quién es el rey de Poniente al principio de la serie de televisión "Juego de tronos" ("Game of Thrones")?
+<a1>Robert Baratheon
+<a2>Jaime Lannister
+<a3>Petyr Baelish
+<a4>Ned Stark
+
+<q>¿Qué personaje de la serie de televisión "Juego de tronos" ("Game of Thrones") es un enano?
+<a1>Tyrion
+<a2>Varys
+<a3>Sansa
+<a4>Hodor
+
+<q>¿En qué ciudad está el Trono de Hierro en la serie de televisión "Juego de tronos"?
+<a1>Desembarco del Rey
+<a2>Vieja Valyria
+<a3>Astapor
+<a4>Lannisport
+
+<q>¿En qué hospital ficticio se desarrolla la serie de televisión "House" ("House M.D.")?
+<a1>Hospital Universitario Princeton-Plainsboro
+<a2>Hospital Memorial Northwestern
+<a3>Hospital Health-Stanford
+<a4>Hospital Comunitario Bayshore
+
+<q>¿Cuántas temporadas tuvo la serie de televisión "Perdidos" ("Lost")?
+<a1>6
+<a2>5
+<a3>4
+<a4>3
+
+<q>¿Cuál de los personajes de la serie de televisión "Perdidos" ("Lost") es médico?
+<a1>Jack Shephard
+<a2>Kate Austen
+<a3>John Locke
+<a4>Sayid Jarrah
+
+<q>¿En cuál de estas series de televisión se menciona la Iniciativa Dharma?
+<a1>Perdidos ("Lost")
+<a2>House ("House M.D.")
+<a3>Battlestar Galactica
+<a4>Héroes
+
+<q>¿Dónde trabajan los protagonistas de la serie de televisión "Mad Men"?
+<a1>En una agencia de publicidad
+<a2>En una estación de policía
+<a3>En un cuerpo de bomberos
+<a4>En una productora de cine
+
+<q>¿Quién es el protagonista de la serie de televisión "Prison Break"?
+<a1>Michael Scofield
+<a2>Lincoln Burrows
+<a3>Walter White
+<a4>Jack Shephard
+
+<q>¿Por qué va a la cárcel el protagonista de la serie de televisión "Prison Break"?
+<a1>Para rescatar a su hermano
+<a2>Para vengar a su padre
+<a3>Para ver a su novia
+<a4>Para esconderse de la mafia
+
+<q>¿Qué negocio lleva la familia protagonista de la serie de televisión "A dos metros bajo tierra" ("Six Feet Under")?
+<a1>Una funeraria
+<a2>Una pizzeria
+<a3>Un lavadero de coches
+<a4>Una floristería
+
+<q>¿Por qué quiere vengarse Ahab en el libro "Moby Dick" ("Moby-Dick; or, The Whale")?
+<a1>Por su pierna
+<a2>Por su barco
+<a3>Por su padre
+<a4>Por su hijo
+
+<q>¿Quién escribió las novelas de Harry Potter?
+<a1>J.K. Rowling
+<a2>Susanna Clarke
+<a3>Margaret Atwood
+<a4>Suzanne Collins
+
+<q>¿Qué mide un contador Geiger?
+<a1>Radioactividad
+<a2>Actividad sísmica
+<a3>Humedad
+<a4>Luz ultravioleta
+
+<q>¿Qué se mide en la escala Richter?
+<a1>Terremotos
+<a2>Tornados
+<a3>Explosiones
+<a4>Radioactividad
+
+<q>¿De qué árbol es la hoja que aparece en la bandera de Canadá?
+<a1>Arce
+<a2>Roble
+<a3>Tejo
+<a4>Secuoya gigante
+
+<q>¿Para cuál de estas disciplinas no hay un Premio Nobel?
+<a1>Filosofía
+<a2>Literatura
+<a3>Química
+<a4>Física
+
+<q>¿Dónde se celebraron los Juegos Olímpicos de Verano del año 2000?
+<a1>Sídney
+<a2>Pekín
+<a3>Seúl
+<a4>Barcelona
+
+<q>¿Cuántas barras rojas hay en la bandera de los Estados Unidos de América?
+<a1>7
+<a2>10
+<a3>13
+<a4>18
+
+<q>¿Cuántas estrellas hay en la bandera de los Estados Unidos de América?
+<a1>50
+<a2>42
+<a3>37
+<a4>29
+
+<q>¿La bandera de cuál de estos países no tiene barras verticales?
+<a1>Alemania
+<a2>Italia
+<a3>Irlanda
+<a4>Francia
+
+<q>¿Cuál de estos no es el color de una de las barras de la bandera de Francia?
+<a1>Amarillo
+<a2>Rojo
+<a3>Azul
+<a4>Blanco
+
+<q>¿De quién está enamorado el protagonista de la novela "El ingenioso hidalgo don Quijote de la Mancha"?
+<a1>Dulcinea
+<a2>Antonia
+<a3>Maritornes
+<a4>Teresa
+
+<q>¿Cuántos bits es un byte?
+<a1>8
+<a2>6
+<a3>4
+<a4>2
+
+<q>¿Cuál de estos no es un gas noble?
+<a1>Nitrógeno
+<a2>Helio
+<a3>Neón
+<a4>Kriptón
+
+<q>¿Qué elemento contienen todos los ácidos?
+<a1>Hidrógeno
+<a2>Carbono
+<a3>Sulfuro
+<a4>Calcio
+
+<q>¿Cuál es el componente principal de la sal común?
+<a1>Cloruro de sodio
+<a2>Yoduro de potasio
+<a3>Fluoruro de litio
+<a4>Sulfuro de magnesio
+
+<q>¿Cuántos jugadores tiene un equipo de béisbol en el campo cuando está defendiendo?
+<a1>9
+<a2>5
+<a3>7
+<a4>11
+
+<q>¿Cuántos jugadores tiene un equipo de baloncesto en la cancha?
+<a1>5
+<a2>7
+<a3>9
+<a4>11
+
+<q>¿Cuántos jugadores tiene un equipo de fútbol en el campo?
+<a1>11
+<a2>5
+<a3>7
+<a4>9
+
+<q>¿Cuántos jugadores tiene un equipo de fútbol americano en el campo?
+<a1>11
+<a2>5
+<a3>7
+<a4>9
+
+<q>¿Cuántos jugadores tiene un equipo de voleibol en la cancha?
+<a1>6
+<a2>4
+<a3>8
+<a4>10
+
+<q>¿Qué se mide en pascales?
+<a1>Presión
+<a2>Conductividad
+<a3>Frecuencia
+<a4>Trabajo
+
+<q>¿Qué significa el acrónimo "RAM" referido a componentes de ordenador?
+<a1>Random Access Memory
+<a2>Raw Algorithm Module
+<a3>Real Analog Mode
+<a4>Right Application Microchip
+
+<q>¿Qué tipo de medio digital usa la extensión de archivo ".mov"?
+<a1>Video
+<a2>Audio
+<a3>Imagen
+<a4>Texto
+
+<q>¿Qué tipo de medio digital usa la extensión de archivo ".png"?
+<a1>Imagen
+<a2>Audio
+<a3>Video
+<a4>Texto
+
+<q>¿Qué tipo de medio digital usa la extensión de archivo ".wmv"?
+<a1>Video
+<a2>Audio
+<a3>Imagen
+<a4>Texto
+
+<q>¿Qué tipo de medio digital usa la extensión de archivo ".wav"?
+<a1>Audio
+<a2>Video
+<a3>Imagen
+<a4>Texto
+
+<q>¿Cómo se llama la línea imaginaria que divide la Tierra en dos hemisferios?
+<a1>Ecuador
+<a2>Eje rotacional
+<a3>Meridiano
+<a4>Latitud
+
+<q>¿Cuál es el estado más grande de Estados Unidos?
+<a1>Alaska
+<a2>Nuevo México
+<a3>Oregón
+<a4>Washington
+
+<q>¿Cuál de estos no es el color de uno de los anillos de la bandera olímpica?
+<a1>Marrón
+<a2>Negro
+<a3>Verde
+<a4>Amarillo
+
+<q>¿Cuál de estas hierbas es uno de los ingredientes principales de la salsa pesto?
+<a1>Albahaca
+<a2>Orégano
+<a3>Perejil
+<a4>Tomillo
+
+<q>¿Cuántas patas tienen las mariposas?
+<a1>6
+<a2>4
+<a3>8
+<a4>10
+
+<q>¿A qué parte del barco hace referencia el término náutico "estribor"?
+<a1>A la derecha
+<a2>A la izquierda
+<a3>Al frente
+<a4>A la cola
+
+<q>¿Qué planeta del sistema solar está más cerca del sol?
+<a1>Mercurio
+<a2>Venus
+<a3>Marte
+<a4>Neptuno
+
+<q>¿Cuál es el hueso más largo del cuerpo humano?
+<a1>Fémur
+<a2>Húmero
+<a3>Radio
+<a4>Tibia
+
+<q>¿Cuánto suman los tres ángulos de un triángulo?
+<a1>180º
+<a2>90º
+<a3>360º
+<a4>270º
+
+<q>¿Quién escribió las novelas de James Bond?
+<a1>Ian Fleming
+<a2>Arthur Conan Doyle
+<a3>Stephen King
+<a4>Agatha Christie
+
+<q>¿A qué temperatura en grados centígrados hierve el agua?
+<a1>100
+<a2>0
+<a3>50
+<a4>220
+
+<q>¿Qué filósofo escribió la "Alegoría de la caverna"?
+<a1>Platón
+<a2>Descartes
+<a3>Sócrates
+<a4>Kant
+
+<q>¿En qué año murió Elvis Presley?
+<a1>1977
+<a2>1954
+<a3>1939
+<a4>1921
+
+<q>¿Cuántos minutos dura una ronda de boxeo?
+<a1>3
+<a2>5
+<a3>7
+<a4>10
+
+<q>¿Qué piezas se mueven solo diagonalmente en el ajedrez?
+<a1>Alfiles
+<a2>Caballos
+<a3>Torres
+<a4>Peones
+
+<q>¿Cuál es el símbolo de Cáncer en el zodiaco?
+<a1>Un cangrejo
+<a2>Un carnero
+<a3>Un arquero centauro
+<a4>Un par de gemelos
+
+<q>¿En qué ciudad se encuentra la catedral de Notre Dame?
+<a1>París
+<a2>Londres
+<a3>Praga
+<a4>Florencia
+
+<q>¿Qué color está en la parte exterior del arco de un arcoíris?
+<a1>Rojo
+<a2>Azul
+<a3>Violeta
+<a4>Verde
+
+<q>¿A través de cuál de estas ciudades pasa el río Támesis?
+<a1>Londres
+<a2>París
+<a3>Madrid
+<a4>Roma
+
+<q>¿Qué es un bracamante?
+<a1>Un tipo de espada
+<a2>Un tipo de pájaro
+<a3>Un tipo de vino
+<a4>Un tipo de roca
+
+<q>¿Cuál es la capital de Polonia?
+<a1>Varsovia
+<a2>Sofia
+<a3>Praga
+<a4>Viena
+
+<q>¿Cuál es la capital de Portugal?
+<a1>Lisboa
+<a2>Moscú
+<a3>Dublín
+<a4>Sofia
+
+<q>¿Qué se fermenta para hacer sake?
+<a1>Arroz
+<a2>Uvas
+<a3>Cebada
+<a4>Algas
+
+<q>¿Cómo se llamaba la primera computadora que derrotó a un campeón mundial de ajedrez vigente?
+<a1>Deep Blue
+<a2>Kasparov
+<a3>Houdini 4
+<a4>Barbarossa C3
+
+<q>¿Qué animal mitológico renace de sus cenizas?
+<a1>Fénix
+<a2>Dragón
+<a3>Grifo
+<a4>Mantícora
+
+<q>¿Cuál es el primer dígito del número pi?
+<a1>3
+<a2>2
+<a3>1
+<a4>0
+
+<q>¿Cuántas óperas compuso Beethoven?
+<a1>1
+<a2>10
+<a3>100
+<a4>1000
+
+<q>¿Qué legumbre se usa para hacer tofu?
+<a1>Soja
+<a2>Lenteja
+<a3>Alfalfa
+<a4>Garbanzo
+
+<q>¿Qué tipo de águila es el pájaro nacional de los Estados Unidos?
+<a1>Águila calva
+<a2>Águila real
+<a3>Águila harpía
+<a4>Águila coronada
+
+<q>¿Cómo se llama el retraso en la transmisión de información en una red?
+<a1>Latencia
+<a2>Algoritmo
+<a3>Concatenación
+<a4>Recursividad
+
+<q>¿Qué mide la escala de Mohs en los minerales?
+<a1>Dureza
+<a2>Magnetismo
+<a3>Reflectividad
+<a4>Lustre
+
+<q>¿Qué mide el ohmio?
+<a1>Resistencia eléctrica
+<a2>Carga
+<a3>Fuerza electromotriz
+<a4>Intensidad
+
+<q>¿Cómo se llama el arte japonés del arreglo floral?
+<a1>Ikebana
+<a2>Hanabi
+<a3>Haiku
+<a4>Kendo
+
+<q>¿Qué significa el código de error HTTP 404?
+<a1>No encontrado
+<a2>Bucle detectado
+<a3>Error interno del servidor
+<a4>Demasiadas peticiones
+
+<q>¿Qué superpoder tiene Susan Storm en la serie de cómics "Los 4 Fantásticos"?
+<a1>Invisibilidad
+<a2>Elasticidad
+<a3>Vuelo
+<a4>Curación
+
+<q>¿Cuál es el nombre kryptoniano de Superman?
+<a1>Kal-El
+<a2>Clark
+<a3>Bizarro
+<a4>Lex Luthor
+
+<q>¿Dónde apareció por primera vez el personaje Scott Pilgrim?
+<a1>En un cómic
+<a2>En una novela
+<a3>En una película
+<a4>En un videojuego
+
+<q>¿De qué están hechos los diamantes?
+<a1>Carbono
+<a2>Vidrio
+<a3>Ámbar
+<a4>Zirconio
+
+<q>¿Qué canal conecta el océano Atlántico con el Pacífico?
+<a1>Canal de Panamá
+<a2>Canal Báltico
+<a3>Canal de Suez
+<a4>Canal Mar Blanco
+
+<q>¿En qué año se lanzó el iPhone de primera generación?
+<a1>2007
+<a2>2004
+<a3>2001
+<a4>2010
+
+<q>¿Cómo se llama la diosa de la victoria en la mitología griega?
+<a1>Nike
+<a2>Adidas
+<a3>Reebok
+<a4>Puma
+
+<q>¿Dónde se encuentra la Basílica de San Pedro?
+<a1>Ciudad del Vaticano
+<a2>Atenas
+<a3>Madrid
+<a4>Berlín
+
+<q>¿Quién es el autor de las novelas de "El Señor de los Anillos"?
+<a1>J. R. R. Tolkien
+<a2>George R. R. Martin
+<a3>J. K. Rowling
+<a4>Neil Gaiman
+
+<q>¿Qué océano rodea a Sri Lanka?
+<a1>Índico
+<a2>Pacífico
+<a3>Atlántico
+<a4>Ártico
+
+<q>¿Quién es el autor del cuento "El traje nuevo del emperador" ("The Emperor's New Clothes")?
+<a1>Hans Christian Andersen
+<a2>Wilhelm Grimm
+<a3>Neil Gaiman
+<a4>Ernest Hemingway
+
+<q>¿Quién organizó la expedición que circunnavegó la Tierra por primera vez?
+<a1>Fernando de Magallanes
+<a2>Marco Polo
+<a3>Arquímedes
+<a4>Ulises
+
+<q>¿Quién es el autor del libro "Breve historia del tiempo" ("A Brief History of Time")?
+<a1>Stephen Hawking
+<a2>Neil deGrasse Tyson
+<a3>Albert Einstein
+<a4>Carl Sagan
+
+<q>¿Quién pintó "La persistencia de la memoria"?
+<a1>Salvador Dalí
+<a2>Pablo Picasso
+<a3>Vincent van Gogh
+<a4>El Greco
+
+<q>¿Cómo se llama el submarino del personaje de ficción capitán Nemo?
+<a1>Nautilus
+<a2>Hydronaut
+<a3>Plongeur
+<a4>Triton
+
+<q>¿Quién es el autor de la novela "La vuelta al mundo en ochenta días"?
+<a1>Jules Verne
+<a2>Arthur C. Clarke
+<a3>Isaac Asimov
+<a4>Orson Scott Card
+
+<q>¿Qué es el origami?
+<a1>El arte de doblar papel
+<a2>El arte del arreglo floral
+<a3>El arte de servir el té
+<a4>El arte de pintar madera
+
+<q>¿Cómo se llamó el primer satélite artificial de la Tierra?
+<a1>Sputnik 1
+<a2>Apollo 1
+<a3>Explorer 1
+<a4>Luna 1
+
+<q>¿De qué colores es el traje del superhéroe Deadpool?
+<a1>Rojo y negro
+<a2>Rosa y blanco
+<a3>Naranja y azul
+<a4>Marrón y verde
+
+<q>¿Cómo se llama la espada de Arya en la serie de televisión "Juego de tronos" ("Game of Thrones")?
+<a1>Aguja
+<a2>Guardajuramentos
+<a3>Hielo
+<a4>Dueña de Luz
+
+<q>¿Quién creó la tira cómica "Garfield"?
+<a1>Jim Davis
+<a2>Charles M. Schulz
+<a3>Quino
+<a4>Bill Watterson
+
+<q>¿Quién es el dueño de Garfield en la tira cómica "Garfield"?
+<a1>Jon
+<a2>Odie
+<a3>Nermal
+<a4>Roger
+
+<q>¿Qué edad tiene Calvin en la tira cómica "Calvin y Hobbes"?
+<a1>6
+<a2>10
+<a3>14
+<a4>17
+
+<q>¿Qué tipo de comida odia especialmente la protagonista en la tira cómica "Mafalda"?
+<a1>Sopa
+<a2>Carne
+<a3>Fruta
+<a4>Pizza
+
+<q>¿Cuál es la Isla Balear más grande?
+<a1>Mallorca
+<a2>Menorca
+<a3>Ibiza
+<a4>Formentera
+
+<q>¿En qué categoría de peso de boxeo ganó  Muhammad Ali una medalla olímpica?
+<a1>Peso semipesado
+<a2>Peso superpesado
+<a3>Peso wélter
+<a4>Peso pluma
+
+<q>¿Cómo se llama la nave espacial en la que viaja la tripulación de la serie original de Star Trek?
+<a1>Enterprise
+<a2>Normandy
+<a3>Galactica
+<a4>Serenity
+
+<q>¿Qué vitamina pueden sintetizar la mayoría de los mamíferos exponiéndose al sol?
+<a1>Vitamina D
+<a2>Vitamina A
+<a3>Vitamina B
+<a4>Vitamina C
+
+<q>¿Cómo se escribe el número 100 en números romanos?
+<a1>C
+<a2>D
+<a3>L
+<a4>M
+
+<q>¿En la creación de cuál de estas famosas estructuras estuvo involucrado Gustave Eiffel?
+<a1>Estatua de la libertad
+<a2>Empire State Building
+<a3>Torre de Pisa
+<a4>Big Ben
+
+<q>¿Qué piezas del ajedrez se sitúan en las esquinas del tablero al inicio del juego?
+<a1>Torres
+<a2>Caballos
+<a3>Peones
+<a4>Alfiles
+
+<q>¿Qué filósofo dijo "Pienso, luego existo"
+<a1>Descartes
+<a2>Nietzsche
+<a3>Platón
+<a4>Sócrates
+
+<q>¿Cuál fue el título del primer álbum de la banda de rock "AC/DC"?
+<a1>High Voltage
+<a2>AC/DC
+<a3>Highway to Hell
+<a4>Back in Black
+
+<q>¿Cuál fue el título del primer álbum de la banda de rock "Queen"?
+<a1>Queen
+<a2>Made in Heaven
+<a3>A Night at the Opera
+<a4>Jazz
+
+<q>¿Cuál fue el título del primer álbum de la banda de rock "The Rolling Stones"?
+<a1>The Rolling Stones
+<a2>Undercover
+<a3>Dirty Work
+<a4>Black and Blue
+
+<q>¿Qué volcán destruyó la ciudad romana de Pompeya?
+<a1>Monte Vesubio
+<a2>Krakatoa
+<a3>Monte Etna
+<a4>Eyjafjallajökull
+
+<q>¿Qué quiere el Hombre de Hojalata en la novela "El maravilloso mago de Oz"?
+<a1>Un corazón
+<a2>Un cerebro
+<a3>Una melena
+<a4>Valor
+
+<q>¿Qué ciudad es conocida como "La Gran Manzana"?
+<a1>Nueva York
+<a2>Londres
+<a3>Hong Kong
+<a4>San Francisco
+
+<q>¿En cuál de estas novelas hay un personaje llamado "Gran Hermano"?
+<a1>1984
+<a2>El Señor de los Anillos
+<a3>Jane Eyre
+<a4>Rebeca
+
+<q>¿En qué está basada la serie de televisión "Westworld"?
+<a1>En la película "Westworld"
+<a2>En la novela "¿Sueñan los androides con ovejas eléctricas?"
+<a3>En la serie de cómics "Mundo fantasmal"
+<a4>En el videojuego "Red Dead Redemption"
+
+<q>¿Dónde se encuentra el hipotálamo?
+<a1>En el cerebro
+<a2>En los intestinos
+<a3>En la médula ósea
+<a4>En los ganglios linfáticos
+
+<q>¿Cuál de estos superhéroes es ciego?
+<a1>Daredevil
+<a2>Silver Surfer
+<a3>Deadpool
+<a4>The Punisher
+
+<q>¿Cuál es el cargo de los protagonistas de la serie de televisión "Expediente X" ("The X-Files")?
+<a1>Agentes especiales del FBI
+<a2>Detectives privados
+<a3>Oficiales de policía
+<a4>Analistas de la CIA
+
+<q>¿Dónde graba Hannah su historia en la serie de televisión "Por trece razones" ("13 Reasons Why")?
+<a1>En cintas de cassette
+<a2>En DVDs
+<a3>En un diario
+<a4>En vídeos de internet
+
+<q>¿Quién es el autor de las novelas "Canción de hielo y fuego" ("A Song of Ice and Fire")?
+<a1>George R. R. Martin
+<a2>J. R. R. Tolkien
+<a3>J. K. Rowling
+<a4>Neil Gaiman
+
+<q>¿Cuál es la extensión de la Ciudad del Vaticano?
+<a1>0.44 kilómetros cuadrados
+<a2>1.60 kilómetros cuadrados
+<a3>4.31 kilómetros cuadrados
+<a4>7.07 kilómetros cuadrados
+
+<q>¿Qué es un Creeper?
+<a1>Un monstruo en el videojuego "Minecraft"
+<a2>Una reliquia en el anime "Made in Abyss"
+<a3>Un tipo de humano artificial en la película "Blade Runner 2049"
+<a4>Un arma en la serie de televisión "Star Trek: Discovery"
+
+<q>¿Qué sujeta la figurilla del trofeo de los premios Óscar?
+<a1>Una espada
+<a2>Un cuaderno
+<a3>Una pluma
+<a4>Nada
+
+<q>¿En qué país se encuentra el castillo de Drácula en la novela "Drácula"?
+<a1>Rumanía
+<a2>Inglaterra
+<a3>Austria
+<a4>Albania
+
+<q>¿Cuál es la profesión de Jerry en la serie de televisión "Seinfeld"?
+<a1>Comediante
+<a2>Profesor de instituto
+<a3>Abogado
+<a4>Cajero de supermercado
+
+<q>¿En cuál de estas series de televisión hay un lugar llamado "el mundo del revés"?
+<a1>Stranger Things
+<a2>The Good Place
+<a3>Narcos
+<a4>Sense8
+
+<q>¿Cuál de estos animales no es un mamífero?
+<a1>Cocodrilo
+<a2>Delfín
+<a3>Nutria
+<a4>Ballena
+
+<q>¿Cómo se llama la espada de Arthur Pendragon, el legendario rey de Bretaña?
+<a1>Excalibur
+<a2>Wallace
+<a3>Camelot
+<a4>Lancelot
+
+<q>¿Cómo se llama el martillo de Thor, el dios de la mitología nórdica?
+<a1>Mjölnir
+<a2>Excelsia
+<a3>Nidhogg
+<a4>Loki
+
+<q>¿Cuál de estas no es la especie de uno de los protagonistas de la historia "Los músicos de Bremen"?
+<a1>Ratón
+<a2>Burro
+<a3>Gallo
+<a4>Perro
+
+<q>¿Para qué película se escribió la canción "Sobre el arcoíris" ("Over the Rainbow")?
+<a1>El mago de Oz
+<a2>Sonrisas y lágrimas (The Sound Of Music)
+<a3>Hair
+<a4>Jesucristo superstar
+
+<q>¿Qué instrumento toca el protagonista del libro "El nombre del viento" ("The Name of the Wind")?
+<a1>Laúd
+<a2>Oboe
+<a3>Trombón
+<a4>Marimba
+
+<q>¿Qué animal es el personaje de Sanrio “Aggretsuko”?
+<a1>Panda rojo
+<a2>Mapache
+<a3>Gato
+<a4>Zarigüeya
+
+<q>¿Qué evitan consumir los veganos?
+<a1>Productos animales
+<a2>Gluten
+<a3>Transgénicos
+<a4>Conservantes
+
+<q>¿En qué país se inventaron los fuegos artificiales?
+<a1>China
+<a2>España
+<a3>Rusia
+<a4>India
+
+<q>¿Qué civilización construyó la ciudadela de Machu Picchu?
+<a1>Inca
+<a2>Azteca
+<a3>Olmeca
+<a4>Egipcia
+
+<q>¿Quién fue la última reina de Francia?
+<a1>Marie-Antoinette
+<a2>Elizabeth II
+<a3>Isabella I
+<a4>Victoria
+
+<q>¿Qué parte del ojo controla cuánta luz entra al globo ocular?
+<a1>Pupila
+<a2>Córnea
+<a3>Iris
+<a4>Esclerótica
+
+<q>¿Cuántos países forman el Reino Unido?
+<a1>4
+<a2>2
+<a3>6
+<a4>8
+
+<q>¿Qué personaje tiene un loro y le falta una pierna en la novela "La isla del tesoro"?
+<a1>John Silver "el Largo" (Long John Silver)
+<a2>Capitán Flint
+<a3>Jim Hawkins
+<a4>Billy Bones

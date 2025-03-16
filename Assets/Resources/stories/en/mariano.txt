@@ -1,0 +1,114 @@
+<a>
+    <img>mariano/mariano
+    <txt>Mariano was a big and strong guy.
+    <txt>Not a very clever one, though.
+    <img>mariano/library
+    <txt>There was this girl he liked, but she was always reading books at the library.
+    <txt>Mariano didn't know how to approach her.
+    <txt>He wished for her to get into a dangerous situation so he could save her and show off his strength.
+    <txt>That would impress her and he would have an excuse to talk to her.
+    <img>mariano/mariano_follow_houses
+    <txt>Maybe he could even offer to walk her home every day to protect her, instead of following her in secret.
+    <img>mariano/mariano_lariat_offer
+    <txt>"I can place her in a dangerous situation", said a witch, appearing out of nowhere.
+    <img>mariano/mariano_nikola
+    <txt>"Hey, girl! I need you to do me a big favor!"
+    <img>mariano/mariano_nikola2
+    <txt>"Oh... This is awkward", said Lariat.
+    <txt>"I'm with someone else right now. Wait a minute and I'll make your wish come true."
+    <img>mariano/mariano_lariat_deal
+    <txt>"Where were we?"
+    <txt>"Oh, yeah. Something dangerous. Let's make a deal."
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she went to talk to that other girl.
+    <img>mariano/mariano_follow
+    <txt>Mariano kept following the girl home.
+    <txt>Suddenly, she began crossing the street without noticing a flurry of cyclists coming her way.
+    <txt>This was his chance!
+    <img>mariano/mariano_cyclists
+    <txt>He jumped onto the street and used his body to protect her.
+    <txt>It was really painful, but he endured it.
+    <img>mariano/mariano_protector
+    <txt>"Are you OK?", he asked then.
+    <img>mariano/impressed_girl
+    <txt>She was so impressed she didn't know what to say.
+</a1>
+
+<a1a>
+    <img>mariano/mariano_sofa
+    <txt>Mariano connected with his girlfriend in more ways than he had imagined.
+    <txt>But anime wasn't one of those.
+    <img>mariano/cute_girls
+    <txt>His girlfriend loved watching anime about cute girls living uninteresting lives and he just couldn't understand it.
+    <txt>These shows were so boring! There was no plot! Nothing relevant ever happened!
+    <txt>He wished he could understand their appeal.
+    <img>mariano/mariano_lariat_tea
+    <txt>"Leave her. She's not worth it", suggested Lariat.
+    <txt>But he couldn't do that, so instead they made a deal.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>mariano/mariano_sofa
+    <txt>That afternoon, Mariano went over to his girlfriend's house to watch anime.
+    <txt>He was a bit depressed, but watching those cute girls lifted his spirit.
+    <txt>Mariano couldn't think of depressing things. They were so cute!
+    <txt>Oh! Now he understood why her girlfriend liked it!
+</a1a1>
+
+<a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>mariano/cute_girls
+    <txt>Mariano tried to understand those kinds of anime, but he just couldn't.
+    <txt>It was so boring and stupid!
+    <txt>But she loved it!
+    <img>mariano/mariano_sofa
+    <txt>He tried to deal with it, but their relationship ended up wearing away.
+</a1a0>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then went to talk to that other girl.
+    <img>mariano/mariano_follow_truck
+    <txt>Mariano kept following the girl home.
+    <txt>Suddenly, she began crossing the street without noticing a truck coming her way.
+    <txt>This was his chance! He could jump and save her!
+    <txt>But that was a really big and scary truck.
+    <img>mariano/girl_truck
+    <txt>He doubted for a second and then it was too late.
+    <img>mariano/mariano_lariat_comfort
+    <txt>"Don't worry; she'll live."
+    <txt>"I'm not sure if she'll ever walk again, though."
+</a0>
+
+<a0a>
+    <img>mariano/mariano_teacher
+    <txt>Mariano had become a physical education teacher.
+    <txt>The high school he worked at had a baseball team.
+    <txt>Mariano decided to focus on the team this year and try to win the national championship.
+    <txt>He was really excited, but it wasn't something he could do all on his own.
+    <txt>He would need students with talent.
+    <img>mariano/mariano_teacher_deal
+    <txt>"Leave that to me", said Lariat, appearing out of nowhere.
+    <txt>They made the deal.
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>mariano/mariano_carl
+    <txt>Mariano carried out an aptitude test for the new players.
+    <txt>One of them was specially promising.
+    <txt>There was a chance for them to win the championship!
+</a0a1>
+
+<a0a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>mariano/bad_players
+    <txt>Mariano carried out an aptitude test for the new players.
+    <txt>They were all terrible.
+    <txt>They had no chance of winning anything at all with such a team.
+</a0a0>

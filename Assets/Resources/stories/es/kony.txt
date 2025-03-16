@@ -1,0 +1,101 @@
+<a>
+    <img>kony/kony_garden
+    <txt>La puerta trasera de la casa de Kony daba a un bosque.
+    <txt>A Kony le gustaba buscar animales y sacarles fotos.
+    <img>kony/injured_bird
+    <txt>Un día, Kony se encontró un pajarito herido.
+    <img>kony/healed_bird
+    <txt>Se lo llevó a casa e intentó curarlo.
+    <txt>"Espero que te pongas mejor", le susurró Kony al pajarito.
+    <img>kony/kony_deal
+    <txt>"Espero que hagamos un trato", le susurró Lariat a Kony.
+    <txt>Y lo hicieron.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>kony/healed_bird2
+    <txt>El pajarito descansó toda la noche, y al día siguiente se encontraba mucho mejor.
+    <img>kony/bird_released
+    <txt>Kony lo soltó y salió volando.
+    <img>kony/bird_away
+    <txt>¡Ah!
+    <txt>¡Se le había olvidado sacarle fotos!
+</a1>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>kony/healed_bird
+    <txt>El pajarito descansó toda la noche.
+    <txt>Cuando Kony se despertó al día siguiente, ya estaba muerto.
+    <img>kony/kony_burial
+    <txt>Kony lo enterró en el bosque.
+</a0>
+
+<b>
+    <img>kony/kony_garden
+    <txt>La puerta trasera de la casa de Kony daba a un bosque.
+    <txt>A Kony le gustaba buscar animales y sacarles fotos.
+    <img>kony/injured_deer
+    <txt>Un día, Kony se encontró un ciervo herido.
+    <img>kony/kony_deer
+    <txt>Se lo llevó a casa e intentó curarlo.
+    <img>kony/healed_deer
+    <txt>"Espero que te pongas mejor", le susurró Kony al ciervo.
+    <img>kony/kony_deal
+    <txt>"Espero que hagamos un trato", le susurró Lariat a Kony.
+    <txt>Y lo hicieron.
+    <quiz>
+</b>
+
+<b1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>kony/healed_deer2
+    <txt>El ciervo descansó toda la noche, y al día siguiente se encontraba mucho mejor.
+    <img>kony/deer_released
+    <txt>Kony lo soltó y se fue caminando.
+    <txt>¡Aprovechó para hacerle un montón de fotos!
+</b1>
+
+<b0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>kony/healed_deer
+    <txt>El ciervo descansó toda la noche.
+    <txt>Cuando Kony se despertó al día siguiente, ya estaba muerto.
+    <img>kony/kony_deer_burial
+    <txt>Kony lo enterró en el bosque.
+</b0>
+
+<c>
+    <img>kony/kony_garden
+    <txt>La puerta trasera de la casa de Kony daba a un bosque.
+    <txt>A Kony le gustaba buscar animales y sacarles fotos.
+    <img>kony/injured_rabbit
+    <txt>Un día, Kony se encontró un conejito herido.
+    <img>kony/healed_rabbit
+    <txt>Se lo llevó a casa e intentó curarlo.
+    <txt>"Espero que te pongas mejor", le susurró Kony al conejito.
+    <img>kony/kony_deal
+    <txt>"Espero que hagamos un trato", le susurró Lariat a Kony.
+    <txt>Y lo hicieron.
+    <quiz>
+</c>
+
+<c1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>kony/healed_rabbit2
+    <txt>El conejito descansó toda la noche, y al día siguiente se encontraba mucho mejor.
+    <img>kony/rabbit_released
+    <txt>Kony lo soltó y se fue dando saltitos.
+    <txt>¡Aprovechó para hacerle un montón de fotos!
+</c1>
+
+<c0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>kony/healed_rabbit
+    <txt>El conejito descansó toda la noche.
+    <txt>Cuando Kony se despertó al día siguiente, ya estaba muerto.
+    <img>kony/kony_burial
+    <txt>Kony lo enterró en el bosque.
+</c0>

@@ -1,0 +1,401 @@
+<q>¿En cuál de los Estados Unidos viven los personajes de la serie de animación "South Park"?
+<a1>Colorado
+<a2>Montana
+<a3>Idaho
+<a4>Carolina del Norte
+
+<q>¿Cuál de estos es un instrumento ficticio en la serie de animación "Futurama"?
+<a1>Holophonor
+<a2>Spheroboom
+<a3>Machina Magnifica
+<a4>Diamondillium
+
+<q>¿Dónde tiene Steven su gema en la serie de animación "Steven Universe"?
+<a1>En el vientre
+<a2>En la palma de una mano
+<a3>En la frente
+<a4>En el pecho
+
+<q>¿Cuál de estos no es un personaje de la serie de animación "Hora de aventuras"?
+<a1>Blaze la gata
+<a2>Finn el humano
+<a3>Rey Hielo
+<a4>Princesa Chicle
+
+<q>¿Dónde está fabricado Bender en la serie de animación "Futurama"?
+<a1>México
+<a2>Japón
+<a3>China
+<a4>Estados Unidos
+
+<q>¿Cómo se llama el gato de Gargamel en la serie de animación "Los Pitufos"?
+<a1>Azrael
+<a2>Ramiel
+<a3>Lucifer
+<a4>Wiggles
+
+<q>¿Dónde vive el protagonista de la serie de animación "Bob Esponja"?
+<a1>En una piña debajo del mar
+<a2>En una casa hecha de nube
+<a3>En una caja negra en la calle
+<a4>Dentro del esqueleto de un dinosaurio
+
+<q>¿En qué calle viven los protagonistas de la serie de animación "Los Simpson"?
+<a1>Evergreen Terrace
+<a2>Fake Street
+<a3>Fast-Food Boulevard
+<a4>8th Avenue
+
+<q>¿Cuántos años tiene Bart en la serie de animación "Los Simpson"?
+<a1>10
+<a2>8
+<a3>6
+<a4>12
+
+<q>¿Qué personaje es conocido por intentar matar a Bart en la serie de animación "Los Simpson"?
+<a1>Actor secundario Bob
+<a2>Edna Krabappel
+<a3>Waylon Smithers
+<a4>Barney Gumble
+
+<q>¿Quién es el alcalde de Springfield en la serie de animación "Los Simpson"?
+<a1>Joe Quimby
+<a2>Seymour Skinner
+<a3>Clancy Wiggum
+<a4>Kent Brockman
+
+<q>¿Qué es Shelbyville?
+<a1>Un pueblo rival en la serie de animación "Los Simpson"?
+<a2>Una aldea ninja en el anime "Naruto"
+<a3>El pueblo donde se desarrolla la película "El padrino"
+<a4>El destino de los protagonistas en el videojuego "Final Fantasy XIII"
+
+<q>¿De qué especie es Finn en la serie de animación "Hora de aventuras"?
+<a1>Humano
+<a2>Perro
+<a3>Vampiro
+<a4>Limón
+
+<q>¿Cómo se llaman los protagonistas de la serie de animación "Historias corrientes" ("Regular Show")?
+<a1>Mordecai y Rigby
+<a2>Finn y Jake
+<a3>Clarence y Jeff
+<a4>Robin y Raven
+
+<q>¿En cuál de estas series de animación el protagonista es un gato?
+<a1>El asombroso mundo de Gumball
+<a2>Historias corrientes (Regular Show)
+<a3>Hora de aventuras
+<a4>Samurai Jack
+
+<q>¿Cuál de estas series de animación tiene un personaje con la voz de un programa de Vocaloid?
+<a1>Bee and PuppyCat
+<a2>Steven Universe
+<a3>Futurama
+<a4>Gravity Falls
+
+<q>¿En qué año se desarrolla la serie de animación "Futurama"?
+<a1>3000
+<a2>2000
+<a3>4000
+<a4>6000
+
+<q>¿De qué trabaja Fry antes de viajar al futuro en la serie de animación "Futurama"?
+<a1>Repartidor de pizzas
+<a2>Cajero de supermercado
+<a3>Programador informático
+<a4>Asistente de laboratorio
+
+<q>¿Para qué empresa trabajan los protagonistas de la serie de animación "Futurama"?
+<a1>Planet Express
+<a2>MomCorp
+<a3>Future Stock
+<a4>Elzar's Fine Cuisine
+
+<q>¿Qué animal adopta Mabel en la serie de animación "Gravity Falls"?
+<a1>Un cerdo
+<a2>Una gallina
+<a3>Un pato
+<a4>Una oveja
+
+<q>¿En cuál de estas series de animación los protagonistas luchan contra el Doctor Drakken?
+<a1>Kim Possible
+<a2>Rick y Morty
+<a3>Samurai Jack
+<a4>Teen Titans Go!
+
+<q>¿Qué relación tienen Rick y Morty en la serie de animación "Rick y Morty"?
+<a1>Rick es el abuelo de Morty
+<a2>Morty es el profesor de Rick
+<a3>Son vecinos
+<a4>Son compañeros de clase
+
+<q>¿Cuál de estos no es un personaje protagonista en la serie de animación "South Park"?
+<a1>Fred Jones
+<a2>Stan Marsh
+<a3>Eric Cartman
+<a4>Kyle Broflovski
+
+<q>¿Qué puede hacer el Avatar en la serie de animación "Avatar: La Leyenda de Aang" ("Avatar: The Last Airbender")?
+<a1>Dominar los cuatro elementos
+<a2>Invocar un dragón
+<a3>Detener el tiempo
+<a4>Ver el futuro
+
+<q>¿En qué está basada la serie de animación "Wakfu"?
+<a1>En un videojuego
+<a2>En una serie de novelas
+<a3>En un cómic
+<a4>En una película
+
+<q>¿De qué otra serie de animación es una secuela "La leyenda de Korra"?
+<a1>Avatar: La Leyenda de Aang (Avatar: The Last Airbender)
+<a2>Dofus
+<a3>Samurai Jack
+<a4>Cazadores de dragones (Dragon Hunters)
+
+<q>¿En cuál de estas series de animación hay un ornitorrinco llamado Perry?
+<a1>Phineas y Ferb
+<a2>Las Supernenas (The Powerpuff Girls)
+<a3>El asombroso mundo de Gumball
+<a4>Bob Esponja
+
+<q>¿Cuál de estos no es el nombre de una de las protagonistas de la serie de animación "Las Supernenas" ("The Powerpuff Girls")?
+<a1>Resplandor
+<a2>Pétalo
+<a3>Burbuja
+<a4>Cáctus 
+
+<q>¿De qué color son los ojos del protagonista de la serie de animación "Bob Esponja"?
+<a1>Azules
+<a2>Marrones
+<a3>Verdes
+<a4>Amarillos
+
+<q>¿Quién es el protagonista de la serie de animación "El crítico"?
+<a1>Jay Sherman
+<a2>Troy McClure
+<a3>Adam West
+<a4>Hank Rutherford Hill
+
+<q>¿Quién creó la serie de animación "Padre de familia" ("Family Guy")?
+<a1>Seth MacFarlane
+<a2>Matt Groening
+<a3>Joseph Barbera
+<a4>Alex Hirsch
+
+<q>¿En qué estado se desarrolla la serie de animación "Padre de familia" ("Family Guy")?
+<a1>Rhode Island
+<a2>Springfield
+<a3>Langley Falls
+<a4>Bikini Bottom
+
+<q>¿De qué trabaja Stan en la serie de animación "American Dad!"?
+<a1>Agente de la CIA
+<a2>Alcalde
+<a3>Inspector de seguridad nuclear
+<a4>Cartero
+
+<q>¿Cuál de estas series de animación está protagonizada por los hermanos Warner?
+<a1>Animaniacs
+<a2>Tiny Toon Adventures
+<a3>Liga de la Justicia
+<a4>Baby Looney Tunes
+
+<q>¿Qué son los protagonistas de la serie de animación "Pinky y Cerebro"?
+<a1>Ratones
+<a2>Cuervos
+<a3>Humanos
+<a4>Comadrejas
+
+<q>¿Qué son los protagonistas de la serie de animación "The Rocky and Bullwinkle Show"?
+<a1>Una ardilla voladora y un alce
+<a2>Una vaca y un pollo
+<a3>Un gato y un perro
+<a4>Una mofeta y un hámster
+
+<q>¿Qué lleva Wirt en la cabeza en la serie de animación "Más allá del jardín" ("Over the Garden Wall")?
+<a1>Un sombrero rojo
+<a2>Una olla
+<a3>Un gato de porcelana
+<a4>Una calabaza
+
+<q>¿Cuál de estos no es uno de los personajes protagonistas de la serie de animación "My Little Pony: La magia de la amistad"?
+<a1>Cinnamon Bun
+<a2>Twilight Sparkle
+<a3>Applejack
+<a4>Pinkie Pie
+
+<q>¿Dónde se desarrolla la serie de animación "My Little Pony: La magia de la amistad”?
+<a1>Equestria
+<a2>Peaceville
+<a3>Miracle City
+<a4>Townsville
+
+<q>¿En cuál de estas series de animación los protagonistas viajan de un planeta a otro?
+<a1>Galaxia Wander (Wander Over Yonder)
+<a2>My Little Pony: La magia de la amistad
+<a3>El asombroso mundo de Gumball
+<a4>Gravity Falls
+
+<q>¿Qué es Marceline en la serie de animación "Hora de aventuras"?
+<a1>Una vampiresa
+<a2>Una humana
+<a3>Una elefanta
+<a4>Un ángel
+
+<q>¿Cómo se llama el hermano de Peppa en la serie de animación "Peppa Pig"?
+<a1>George
+<a2>Richard
+<a3>Porky
+<a4>Candy
+
+<q>¿De qué color es el pelo de Marge en la serie de animación "Los Simpson"?
+<a1>Azul
+<a2>Amarillo
+<a3>Rojo
+<a4>Morado
+
+<q>¿De qué color es el pelo de Leela en la serie de animación "Futurama"?
+<a1>Morado
+<a2>Negro
+<a3>Rojo
+<a4>Verde
+
+<q>¿De qué color es el pelo de Mabel en la serie de animación "Gravity Falls"?
+<a1>Marrón
+<a2>Negro
+<a3>Amarillo
+<a4>Rosa
+
+<q>¿Qué personaje de la serie de animación "Las Tortugas Ninja" ("Teenage Mutant Ninja Turtles") lleva una bandana roja?
+<a1>Raphael
+<a2>Leonardo
+<a3>Michelangelo
+<a4>Donatello
+
+<q>¿En cuál de estas series de animación hay un personaje llamado Metabee?
+<a1>Medabots
+<a2>Yu-Gi-Oh!
+<a3>Las Tortugas Ninja (Teenage Mutant Ninja Turtles)
+<a4>Patoaventuras (DuckTales)
+
+<q>¿Cuál de estas no es una de las protagonistas de la serie de animación "Totally Spies!"?
+<a1>Perla
+<a2>Sam
+<a3>Alex
+<a4>Clover
+
+<q>¿Con quién está casado  Peter Griffin en la serie de animación "Padre de familia" ("Family Guy")?
+<a1>Lois
+<a2>Megan
+<a3>Marge
+<a4>Francine
+
+<q>¿Con quién está casado Stan Smith en la serie de animación "American Dad!"?
+<a1>Francine
+<a2>Marge
+<a3>Lois
+<a4>Megan
+
+<q>¿De qué color es el pelo de Finn en la serie de animación "Hora de aventuras"?
+<a1>Amarillo
+<a2>Marrón
+<a3>Rosa
+<a4>Negro
+
+<q>¿De qué especie es Princess Carolyn en la serie de animación "BoJack Horseman"?
+<a1>Gato
+<a2>Caballo
+<a3>Perro
+<a4>Oca
+
+<q>¿De qué especie es el padre de Gumball en la serie de animación "El asombroso mundo de Gumball"?
+<a1>Conejo
+<a2>Carpa dorada
+<a3>Gato
+<a4>Alce
+
+<q>¿Quién es el líder de los Titanes en la serie de animación "Teen Titans Go!"?
+<a1>Robin
+<a2>Aqualad
+<a3>Speedy
+<a4>Terra
+
+<q>¿Qué arma usa Sticks en la serie de animación "Sonic Boom"?
+<a1>Bumerán
+<a2>Martillo
+<a3>Lanza
+<a4>Tirachinas
+
+<q>¿Cuántas colas tiene Tails en la serie de animación "Sonic Boom"?
+<a1>2
+<a2>1
+<a3>3
+<a4>4
+
+<q>¿De qué especie es Jerry en la serie de animación "Tom y Jerry"?
+<a1>Ratón
+<a2>Gato
+<a3>Perro
+<a4>Gallo
+
+<q>¿Cuál de estos no es uno de los protagonistas en la serie de animación "Scooby-Doo, ¿dónde estás?"?
+<a1>Vincent
+<a2>Shaggy
+<a3>Fred
+<a4>Vilma
+
+<q>¿Cuál de estos no es uno de los protagonistas de la serie de animación "La banda del patio" ("Recess")?
+<a1>Georgina
+<a2>Ashley
+<a3>Vince
+<a4>T.J.
+
+<q>¿Con quién está casada Vilma en la serie de animación "Los Picapiedra" ("The Flintstones")?
+<a1>Pedro
+<a2>Pebbles
+<a3>Pablo
+<a4>Joe
+
+<q>¿Cuál de estos no es el nombre de una de las ardillas en la serie de animación "Alvin y las ardillas"?
+<a1>Charlie
+<a2>Alvin
+<a3>Simón
+<a4>Theodore
+
+<q>¿De qué trabaja el protagonista en la serie de animación "Archer"?
+<a1>Espía
+<a2>Actor
+<a3>Escritor
+<a4>Arquero
+
+<q>¿Quién se casa primero con Selma en la serie de animación "Los Simpson"?
+<a1>Actor secundario Bob
+<a2>Troy McClure
+<a3>Lionel Hutz
+<a4>Apu Nahasapeemapetilon
+
+<q>¿Cómo se llama la hermana de Pingu en la serie de animación "Pingu"?
+<a1>Pinga
+<a2>Snowbee
+<a3>Melody
+<a4>Oreo
+
+<q>¿De qué color es la flecha tatuada en el cuerpo de Aang en la serie de animación "Avatar: La Leyenda de Aang" ("Avatar: The Last Airbender")?
+<a1>Azul
+<a2>Roja
+<a3>Verde
+<a4>Amarilla
+
+<q>¿Cuál es el latiguillo de Rick en la serie de animación "Rick y Morty"?
+<a1>Wubba Lubba Dub Dub
+<a2>Me encanta que los planes salgan bien
+<a3>¡Ay, caramba!
+<a4>Bazinga
+
+<q>¿Cuál de estos no es el nombre de uno de los protagonistas en la serie de animación "South Park"?
+<a1>Todd
+<a2>Stan
+<a3>Kyle
+<a4>Eric

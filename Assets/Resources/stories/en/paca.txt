@@ -1,0 +1,42 @@
+<a>
+    <img>paca/paca
+    <txt>Paca was an old and tired woman.
+    <txt>There wasn't much left for her in this life, but she was happy as long as she had her soap operas.
+    <img>paca/soap_opera
+    <txt>That day, a major event was going to take place in her favorite one.
+    <txt>She had been following it for years now and the main characters were finally going to marry.
+    <txt>But an unexpected turn of events occurred.
+    <img>paca/evil_twin
+    <txt>The groom's evil twin was planning to ruin the wedding!
+    <img>paca/paca_sad
+    <txt>The show went to a commercial break, leaving Paca intrigued and afraid.
+    <txt>She closed her eyes and wished for the wedding to go well.
+    <img>paca/paca_deal
+    <txt>When she opened them again, an advertisement starring a witch was playing.
+    <txt>"Do you need a wish come true?", the witch asked.
+    <txt>"Worry no more! I have a special offer just for you!"
+    <txt>The TV was offering Paca a deal.
+    <txt>She was confused but decided to go along with it.
+    <quiz>
+</a>
+
+<a1>
+   <txt>"Congratulations", the witch said, and then the commercial break ended.
+   <img>paca/happy_ending
+   <txt>The evil twin's plans were laid to rest in a dramatic scene that enhanced the couple's love.
+   <img>paca/paca_cry
+   <txt>Tears of joy ran through Paca's wrinkled old face.
+   <txt>It was such a beautiful and touching wedding that Paca cried for hours.
+</a1>
+
+<a0>
+    <txt>"Sorry", the witch said, and then the commercial break ended.
+    <img>paca/bad_ending
+    <txt>The evil twin's plans were a success that ruined the couple's love.
+    <txt>The wedding was cancelled, but it turned out even worse.
+    <img>paca/duel
+    <txt>The main character challenged his twin to a duel to the death and lost!
+    <img>paca/paca_dead
+    <txt>That scene left Paca dead inside.
+    <txt>Literally; her heart lost the will to keep beating.
+</a0>

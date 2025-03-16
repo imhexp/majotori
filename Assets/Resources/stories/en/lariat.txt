@@ -1,0 +1,62 @@
+<a>
+    <img>lariat/lariat_pc
+    <txt>Lariat was a young game designer.
+    <txt>She was developing a trivia game which had a witch version of herself as the main character.
+    <img>lariat/lariat_publisher
+    <txt>When the game was finished, she took it to a publisher so she could sell it to the public.
+    <txt>The editor wasn't impressed.
+    <img>lariat/lariat_challenge
+    <txt>So Lariat challenged her to a game of trivia, like in the game, only now she would be the one answering the questions.
+    <txt>If Lariat won, the editor would have to publish her game.
+    <txt>"No. That's stupid. Why would I accept such a thing?", said the editor.
+    <txt>"Because it would be so meta!", replied Lariat.
+    <txt>Now that was a good reason!
+    <txt>"OK. Let's see just how much you know."
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said the editor.
+    <img>lariat/lariat_publisher_deal
+    <txt>And then they made a deal.
+    <img>lariat/lariat_thanks
+    <txt>"Thank you so much for helping me out!", Lariat said to you.
+    <txt>"As thanks, I will put you in the credits!"
+</a1>
+
+<a0>
+    <txt>"Sorry", said the editor, and then she kicked Lariat out.
+    <img>lariat/lariat_pc2
+    <txt>Lariat uploaded her game onto the internet, but no one cared.
+    <txt>She felt depressed.
+</a0>
+
+<a0a>
+    <img>lariat/lariat_knees
+    <txt>Her game's failure had left Lariat depressed.
+    <txt>It wasn't the game that was a failure; it was her.
+    <txt>What was the point of living anymore.
+    <img>lariat/lariat_lariat
+    <txt>"I am the point of living!", said Lariat the witch, appearing out of nowhere.
+    <txt>Lariat was so depressed she was hallucinating!
+    <txt>"Play a game of trivia with me and I'll inspire you once again", she said.
+    <txt>Now that was meta!
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Congratulations", said Lariat the witch.
+    <img>lariat/lariat_fusion
+    <txt>And then they fused together.
+    <img>lariat/lariat_pc_motivated
+    <txt>Lariat felt as motivated and as inspired as ever!
+    <txt>She started working on her next game right away.
+    <txt>Hopefully this time it will be a success!
+</a0a1>
+
+<a0a0>
+    <txt>"Sorry", said Lariat the witch, and then she vanished.
+    <img>lariat/lariat_bed
+    <txt>With all her motivation lost, Lariat cried herself to sleep.
+    <txt>She wished to never wake up.
+</a0a0>

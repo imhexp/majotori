@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: effect1
+  m_Rect:
+    serializedVersion: 2
+    x: 0
+    y: 1151
+    width: 406
+    height: 399
+  m_Offset: {x: 0, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1080
+  m_Pivot: {x: 0.5, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    ec9abf848d623114fa7258e0f8cebfe0: 21300000
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: 05ad7b726efd89f4592b2bdc58db164d, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 57
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 23
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 16000f0015000e0015000f001400090013000a0013000900100013000a001100130010001200110010000f000d000e000c000e000d000b000c000d0009000c000b00080009000b000a0009000800070006000500040005000600030005000400000003000400010003000000020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 23
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 460
+      _typelessdata: c3df263e98d0debd0000000000000000000000005d79403e52c31fbe0000000000000000000000005d79403e9ff409be00000000000000000000000050fa243ed2273dbe0000000000000000000000006cc1163e98d0debd00000000000000000000000085f6123ed2273dbe0000000000000000000000006af8db3d555515be0000000000000000000000006af8db3d0bb620be0000000000000000000000003fe9933d7777f73d000000000000000000000000610b363b7dd2a73d000000000000000000000000be84763d898888bb0000000000000000000000000d7f1bbdd2273d3e0000000000000000000000006af85bbd460dff3d00000000000000000000000008246bbdd2273d3e000000000000000000000000b6600bbef8db943d0000000000000000000000005d7940be5555d53d0000000000000000000000002ed8023e3333b3bd000000000000000000000000bcbbbb3dfe3605be0000000000000000000000002ed8023e4444c4bd00000000000000000000000037c5a83dfe3605be0000000000000000000000009b62d4bb8c1afebc000000000000000000000000427b09bee501c9bc0000000000000000000000005d7940be52c3dfbc000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 1151
+      width: 406
+      height: 399
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 1151}
+    settingsRaw: 69
+    uvTransform: {x: 1080, y: 203, z: 1080, w: 1350.5}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape:
+  - - {x: 0.17592593, y: -0.12638889}
+    - {x: 0.14999999, y: -0.10972222}
+    - {x: 0.14629629, y: -0.10972222}
+    - {x: 0.108333334, y: -0.14675926}
+    - {x: 0.108333334, y: -0.15138888}
+    - {x: 0.14537036, y: -0.18472221}
+    - {x: 0.15185185, y: -0.18472221}
+    - {x: 0.16296296, y: -0.17546296}
+    - {x: 0.18796296, y: -0.14305556}
+    - {x: 0.18796296, y: -0.13564815}
+  - - {x: 0.12685186, y: -0.08842593}
+    - {x: 0.12592593, y: -0.08564815}
+    - {x: 0.11481481, y: -0.07453704}
+    - {x: 0.09074074, y: -0.045833334}
+    - {x: 0.060185183, y: -0.009722222}
+    - {x: 0.055555556, y: -0.0023148148}
+    - {x: 0.07037037, y: 0.117129624}
+    - {x: 0.07037037, y: 0.11898148}
+    - {x: 0.06574074, y: 0.12361111}
+    - {x: 0.0009259259, y: 0.15972222}
+    - {x: -0.013888889, y: 0.16805555}
+    - {x: -0.030555556, y: 0.17731482}
+    - {x: -0.04444444, y: 0.18472221}
+    - {x: -0.05277778, y: 0.18472221}
+    - {x: -0.06111111, y: 0.18009259}
+    - {x: -0.109259255, y: 0.15046296}
+    - {x: -0.16203703, y: 0.11805555}
+    - {x: -0.18148148, y: 0.10601851}
+    - {x: -0.18796296, y: 0.10138889}
+    - {x: -0.18796296, y: -0.021759259}
+    - {x: -0.18611111, y: -0.023611112}
+    - {x: -0.17592593, y: -0.024537036}
+    - {x: -0.13796297, y: -0.024537036}
+    - {x: -0.13611111, y: -0.022685185}
+    - {x: -0.13611111, y: -0.011574074}
+    - {x: -0.13703704, y: -0.010648148}
+    - {x: -0.13703704, y: 0.041203704}
+    - {x: -0.13796297, y: 0.04212963}
+    - {x: -0.13796297, y: 0.07453704}
+    - {x: -0.13425925, y: 0.07638889}
+    - {x: -0.10462963, y: 0.09398148}
+    - {x: -0.085185185, y: 0.10601851}
+    - {x: -0.0787037, y: 0.11064815}
+    - {x: -0.058333334, y: 0.12268519}
+    - {x: -0.050925925, y: 0.12824073}
+    - {x: -0.03425926, y: 0.113425925}
+    - {x: 0.0046296297, y: 0.08287037}
+    - {x: 0.0037037036, y: 0.07175926}
+    - {x: 0.0018518518, y: 0.03287037}
+    - {x: 0.0009259259, y: 0.014351851}
+    - {x: -0.0009259259, y: -0.024537036}
+    - {x: -0.0009259259, y: -0.029166667}
+    - {x: 0.0074074073, y: -0.03935185}
+    - {x: 0.073148146, y: -0.117129624}
+    - {x: 0.08425926, y: -0.12916666}
+    - {x: 0.085185185, y: -0.12916666}
+    - {x: 0.09351852, y: -0.12175926}
+    - {x: 0.12314814, y: -0.0949074}
+    - {x: 0.12685186, y: -0.093055554}

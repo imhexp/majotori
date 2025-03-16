@@ -1,0 +1,114 @@
+<a>
+    <img>yvette_zelotes/house
+    <txt>When Yvette and her team arrived, the fire had already taken most of the house.
+    <img>yvette_zelotes/mother
+    <txt>"My son! My little son is still inside!", screamed a woman.
+    <img>yvette_zelotes/too_dangerous
+    <txt>"We can't go in there!", said one of Yvette's colleagues.
+    <txt>But she wasn't listening.
+    <img>yvette_zelotes/stairs
+    <txt>She entered the house and found the boy.
+    <img>yvette_zelotes/trapped
+    <txt>But then the house began to collapse!
+    <txt>The way out was blocked!
+    <txt>She looked around, desperately wishing to find an opening.
+    <img>yvette_zelotes/yvette_deal
+    <txt>Instead, she found a witch.
+    <txt>"There's no time!", the witch said.
+    <txt>"We have to make a deal!"
+    <txt>Yvette didn't even ask for the details. This was her only option.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>yvette_zelotes/exit
+    <txt>One of the walls of the house collapsed, revealing the outdoor.
+    <txt>Yvette took the chance and jumped without thinking it twice.
+    <img>black
+    <txt>Then she herself collapsed.
+    <img>yvette_zelotes/hospital
+    <txt>She woke up in a hospital bed.
+    <txt>The kid she had rescued and his mother were there to thank her.
+    <img>yvette_zelotes/zelotes_claim
+    <txt>"When I grow up, I'm gonna be a firefighter just like you!", he said.
+    <txt>Yvette was moved.
+</a1>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>yvette_zelotes/yvette_sacrifice
+    <txt>The ceiling started collapsing.
+    <txt>Yvette placed herself as a shield for the boy in a vain attempt to save him.
+    <txt>They both died in the fire.
+</a0>
+
+<a1a>
+    <img>yvette_zelotes/zelotes
+    <txt>Zelotes had finally made his dream come true.
+    <txt>After so many years of hard work, he was now officially an astronaut.
+    <img>yvette_zelotes/space_satellite
+    <txt>He entered the selection process of a satellite station maintenance mission.
+    <txt>If he was chosen, he would be able to go to space!
+    <img>yvette_zelotes/zelotes_study
+    <txt>He had done well in the physical trials, but this mission required exceptional theoretical knowledge.
+    <txt>He closed his eyes and wished to do well on the exam.
+    <img>yvette_zelotes/zelotes_study_deal
+    <txt>Lariat appeared, and you know how it goes.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>yvette_zelotes/zelotes_exam
+    <txt>The day of the exam arrived.
+    <txt>All the questions were about things he had studied!
+    <txt>He nailed it!
+</a1a1>
+
+<a1a1a>
+    <img>yvette_zelotes/space_satellite
+    <txt>Zelotes was maintaining a satellite station in space when something went horribly wrong.
+    <img>yvette_zelotes/space_satellite_explosion
+    <txt>A compartment of the satellite suddenly exploded.
+    <img>yvette_zelotes/zelotes_sucked
+    <txt>Everything was being sucked into space.
+    <txt>His companion managed to grab his hand, but Zelotes knew she wasn't strong enough to save them both.
+    <img>yvette_zelotes/zelotes_sucked2
+    <txt>In a heroic act, he sacrificed himself.
+    <img>yvette_zelotes/zelotes_floating
+    <txt>Moments later, Zelotes was floating away in the void of space.
+    <txt>He wondered if his oxygen would run out before he died of hypothermia.
+    <txt>He wished he could get back to the satellite, somehow.
+    <img>yvette_zelotes/zelotes_floating_deal
+    <txt>"Do you want a little push in that direction?", asked Lariat, appearing in a yellow space suit.
+    <txt>She had her helmet open!
+    <txt>On second thought, that sort of made sense, her being a witch and all.
+    <txt>Zelotes really had nothing to lose from the deal.
+    <quiz>
+</a1a1a>
+
+<a1a1a1>
+    <txt>"Congratulations", said Lariat, and then she pushed him.
+    <img>yvette_zelotes/zelotes_floating_satellite
+    <txt>Zelotes was now floating towards the satellite.
+    <img>yvette_zelotes/zelotes_window
+    <txt>When his companion saw him, she couldn't believe it.
+    <txt>They managed to stabilize the satellite and come back home safe.
+</a1a1a1>
+
+<a1a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>yvette_zelotes/zelotes_floating
+    <txt>Not much later, he had to wonder no more.
+    <txt>It was hypothermia.
+</a1a1a0>
+
+<a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>yvette_zelotes/zelotes_exam_bad
+    <txt>The day of the exam arrived.
+    <txt>Zelotes was so nervous his mind went blank.
+    <txt>He couldn't remember any of the answers!
+    <txt>He wouldn't be going into space any time soon.
+</a1a0>

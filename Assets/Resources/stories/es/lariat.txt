@@ -1,0 +1,62 @@
+<a>
+    <img>lariat/lariat_pc
+    <txt>Lariat era una joven diseñadora de juegos.
+    <txt>Estaba haciendo un juego de trivia con ella en versión bruja como protagonista.
+    <img>lariat/lariat_publisher
+    <txt>Cuando terminó el juego, lo llevó a una editora para poder venderlo al público.
+    <txt>A la editora no le impresionó.
+    <img>lariat/lariat_challenge
+    <txt>Así que Lariat la retó a un juego de trivia, como en el juego, solo que sería ella la que contestase.
+    <txt>Si ganaba Lariat, la editora tendría que publicar su juego.
+    <txt>"No. Eso es estúpido. ¿Por qué iba a aceptar algo así?", dijo la editora.
+    <txt>"¡Porque sería muy meta!", contestó Lariat.
+    <txt>¡Vaya! ¡Eso sí que era un buen motivo!
+    <txt>"Está bien. Veamos cuánto sabes."
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo la editora.
+    <img>lariat/lariat_publisher_deal
+    <txt>Y entonces llegaron a un acuerdo.
+    <img>lariat/lariat_thanks
+    <txt>"¡Muchas gracias por ayudarme!", te dijo Lariat.
+    <txt>"¡Te pondré en los créditos como agradecimiento!"
+</a1>
+
+<a0>
+    <txt>"Lo siento", dijo la editora, y luego la echó.
+    <img>lariat/lariat_pc2
+    <txt>Lariat subió su juego a internet, pero a nadie le importó.
+    <txt>Fue deprimente.
+</a0>
+
+<a0a>
+    <img>lariat/lariat_knees
+    <txt>El fracaso de su juego había dejado a Lariat deprimida.
+    <txt>El fracaso no era el juego; era ella.
+    <txt>Qué sentido tenía seguir viviendo.
+    <img>lariat/lariat_lariat
+    <txt>"¡Yo soy el sentido que tiene seguir viviendo!", dijo Lariat la bruja, apareciendo de la nada.
+    <txt>¡Lariat estaba tan deprimida que estaba alucinando!
+    <txt>"Juega a un juego de trivia conmigo y volveré a inspirarte", le dijo ella.
+    <txt>¡Ahora sí que era meta!
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Felicidades", dijo Lariat la bruja.
+    <img>lariat/lariat_fusion
+    <txt>Y entonces se fusionaron.
+    <img>lariat/lariat_pc_motivated
+    <txt>¡Lariat se sintió más motivada e inspirada que nunca!
+    <txt>Empezó a trabajar en su nuevo juego de inmediato.
+    <txt>¡Esperemos que esta vez sea un éxito!
+</a0a1>
+
+<a0a0>
+    <txt>"Lo siento", dijo Lariat la bruja, y luego desapareció.
+    <img>lariat/lariat_bed
+    <txt>Con toda la motivación perdida, Lariat lloró hasta dormirse.
+    <txt>Deseó no volver a despertar.
+</a0a0>

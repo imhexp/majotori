@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: zelotes_sucked2_air
+  m_Rect:
+    serializedVersion: 2
+    x: 0
+    y: 1084
+    width: 2048
+    height: 765
+  m_Offset: {x: 0, y: -0.048128217}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1070.0726
+  m_Pivot: {x: 0.5, y: 0.4999371}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    d760ed93d63decc4098712e402e464aa: 21300000
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: 976c71a703f45fe4492e78491d1f3080, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 78
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 34
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 210020001c001f001c0020001e001c001f001b001c001e001d001c001b001a00190018001700180019001500180017001600150017001400150016001300150014001000130014001100130010001200110010000f000e000c000d000c000e0008000c000d000b000c00080009000b0008000a0009000800070006000500040005000600010005000400030001000400000001000300020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 34
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 680
+      _typelessdata: 88d0aa3eff7ba1be000000000000000000000000054bab3eff03b7be000000000000000000000000054bab3e77eba2be000000000000000000000000823d963e8e179fbe000000000000000000000000c6d135beaac684be000000000000000000000000055b56beff03b7be00000000000000000000000088686bbeaac684be00000000000000000000000088686bbe050fb6be000000000000000000000000994d733fb528233e0000000000000000000000004ffa743fee96193e0000000000000000000000004ffa743fc649203e00000000000000000000000027e9703fee96193e000000000000000000000000c695403f3e41373e0000000000000000000000006bd5243f38ea973e000000000000000000000000bb33223f38ea973e000000000000000000000000bb33223f490b953e000000000000000000000000f4a1983e2725663e000000000000000000000000dd759c3e6ba95a3e000000000000000000000000dd759c3e4967603e0000000000000000000000007727983e6ba95a3e00000000000000000000000044c420bd2d5caf3e00000000000000000000000032b34ebd3ef5963e0000000000000000000000009f7491bd2d5caf3e000000000000000000000000444cb6beff03b73e00000000000000000000000071b4d9be8e9fb43e000000000000000000000000e823dbbeff03b73e000000000000000000000000e823dbbe8289b63e00000000000000000000000071580ebf555d08be00000000000000000000000010d913bf10d913be00000000000000000000000071580ebf10d913be00000000000000000000000066523bbf937ee9bc00000000000000000000000060cf51bf937ee9bc0000000000000000000000004ffa74bfccec5fbd0000000000000000000000004ffa74bfe90385bd000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 1084
+      width: 2048
+      height: 765
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 1084.0481}
+    settingsRaw: 65
+    uvTransform: {x: 1070.0726, y: 1024, z: 1070.0726, w: 1466.5}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape: []

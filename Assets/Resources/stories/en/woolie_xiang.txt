@@ -1,0 +1,173 @@
+<a>
+    <img>woolie_xiang/woolie
+    <txt>Woolie was a loser with no future.
+    <txt>He didn’t continue studying after high school and hadn't done anything productive ever since.
+    <txt>He was lazy and spent his days playing video games.
+    <txt>It was only a matter of time before he would be forced to work a soul crushing, badly paid job.
+    <txt>But what if he made his lifestyle profitable?
+    <txt>He was in the internet era and he knew plenty about video games.
+    <txt>If he managed to create a popular video channel, he could make a living.
+    <img>woolie_xiang/woolie_pc
+    <txt>Determined, Woolie recorded himself playing, edited the video and uploaded it to the internet.
+    <img>woolie_xiang/screen_lariat
+    <txt>He was focused on the view counter, wishing so hard for it to go up that a witch appeared on the screen.
+    <txt>She offered him the best deal of his life.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>woolie_xiang/woolie_pc_happy
+    <txt>When Woolie looked at the counter again, his video had over a thousand views!
+    <txt>Shortly after, it went viral and the count reached a million.
+    <txt>Woolie became instantly famous and gained a horde of followers.
+    <txt>His future was blindingly bright.
+</a1>
+
+<a1a>
+    <img>woolie_xiang/woolie_lper
+    <txt>A year had passed since Woolie had become a famous video game player and commentator, and he was becoming stale.
+    <img>woolie_xiang/woolie_pc_sad
+    <txt>Every day he had fewer followers than the last, and the group of people who openly despised him kept growing.
+    <txt>He had to do something now, before all his popularity was gone.
+    <txt>He wished he had asked that witch her email address.
+    <img>woolie_xiang/screen_lariat
+    <txt>"Do you wish for my email?", asked Lariat, appearing on the computer screen.
+    <txt>"I wish to save my career!", he answered.
+    <txt>"You know the deal", said Lariat, and the trivia game began.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>woolie_xiang/woolie_pc_happy
+    <txt>Shortly after, Woolie received an email.
+    <txt>It was from a famous production company.
+    <txt>They were going to make a video game quiz show and wanted Woolie to be the host.
+    <txt>That would renew his image and be an awesome boost to his career!
+</a1a1>
+
+<a1a1a>
+    <img>woolie_xiang/quiz_show
+    <txt>Xiang was about to win a lot of money in a quiz show.
+    <txt>She just needed to answer this last question correctly.
+    <txt>"Is that your final answer?", asked the host.
+    <txt>"We'll see if she's right after this commercial break!"
+    <txt>Xiang took the chance to go to the bathroom.
+    <img>woolie_xiang/xiang_toilet
+    <txt>She was about to throw up from the pressure.
+    <img>woolie_xiang/xiang_deal
+    <txt>She wished so hard for her answer to be correct that a witch appeared behind her.
+    <txt>Lariat offered her a deal, but Xiang was confused.
+    <txt>"You're asking me to correctly answer your questions so my answer to that question is correct?", she asked.
+    <txt>"It sounds complicated if you say it like that", replied Lariat.
+    <txt>In the end, Xiang accepted the deal and the trivia game began.
+    <quiz>
+</a1a1a>
+
+<a1a1a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>woolie_xiang/quiz_show
+    <txt>Xiang went back to the set and the show resumed.
+    <txt>After a long and tense pause, the results were announced.
+    <img>woolie_xiang/quiz_show_win
+    <txt>Her answer was correct!
+    <txt>She was now rich!
+</a1a1a1>
+
+<a1a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>woolie_xiang/quiz_show
+    <txt>Xiang went back to the set and the show resumed.
+    <txt>After a long and tense pause, the results were announced.
+    <img>woolie_xiang/quiz_show_lose
+    <txt>Her answer turned out to be wrong.
+    <txt>She went back home with her hands empty.
+</a1a1a0>
+
+<a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>woolie_xiang/woolie_overdo
+    <txt>Desperate, Woolie began to overdo his reactions and force jokes into his videos.
+    <txt>He even dyed his hair green to give himself a new look.
+    <img>woolie_xiang/woolie_pc_sad_green
+    <txt>But that only made him lose fans at an increased pace.
+    <txt>Before long no one cared about him anymore and he fell into oblivion.
+    <txt>His life was ruined.
+</a1a0>
+
+<a1a0a>
+    <img>woolie_xiang/quiz_show_alt
+    <txt>Xiang was about to win a lot of money in a quiz show.
+    <txt>She just needed to answer this last question correctly.
+    <txt>"Is that your final answer?", asked the host.
+    <txt>"We'll see if she's right after this commercial break!"
+    <txt>Xiang took the chance to go to the bathroom.
+    <img>woolie_xiang/xiang_toilet
+    <txt>She was about to throw up from the pressure.
+    <img>woolie_xiang/xiang_deal
+    <txt>She wished so hard for her answer to be correct that a witch appeared behind her.
+    <txt>Lariat offered her a deal, but Xiang was confused.
+    <txt>"You're asking me to correctly answer your questions so the answer to my question is correct?", she asked.
+    <txt>"It sounds complicated if you say it like that", Lariat answered.
+    <txt>In the end, Xiang accepted the deal and the trivia game began.
+    <quiz>
+</a1a0a>
+
+<a1a0a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>woolie_xiang/quiz_show_alt
+    <txt>Xiang went back to the set and the show resumed.
+    <txt>After a long and tense pause, the results were announced.
+    <img>woolie_xiang/quiz_show_win_alt
+    <txt>Her answer was correct!
+    <txt>She was now rich!
+</a1a0a1>
+
+<a1a0a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>woolie_xiang/quiz_show_alt
+    <txt>Xiang got back to the set and the show resumed.
+    <txt>After a long and tense pause, the result was announced.
+    <img>woolie_xiang/quiz_show_lose_alt
+    <txt>Her answer turned out to be wrong.
+    <txt>She went back home with her hands empty.
+</a1a0a0>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>woolie_xiang/woolie_pc_sad
+    <txt>When Woolie looked at the counter again, his video had only two views.
+    <txt>The next day it was at five views, and it didn't go up from there.
+    <img>black
+    <txt>Woolie's future was pitch black.
+</a0>
+
+<a0a>
+    <img>woolie_xiang/woolie_theatre
+    <txt>Woolie had found a job as part of the cleaning crew at a local theater.
+    <txt>He had been working there for six months now.
+    <txt>That day there was going to be a meeting.
+    <txt>Rumors said there were going to be reassignments and promotions.
+    <img>woolie_xiang/woolie_theatre_deal
+    <txt>He wished so hard to be promoted that Lariat appeared again.
+    <txt>They made the deal and the game began.
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>woolie_xiang/woolie_meeting
+    <txt>The meeting began and his promotion was announced.
+    <img>woolie_xiang/woolie_popcorn
+    <txt>Woolie would now work as a clerk at the popcorn stand.
+    <txt>Great!
+</a0a1>
+
+<a0a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>woolie_xiang/woolie_meeting
+    <txt>The meeting began and his reassignment was announced.
+    <img>woolie_xiang/woolie_bathroom
+    <txt>Woolie would now be in charge of cleaning the toilets.
+</a0a0>

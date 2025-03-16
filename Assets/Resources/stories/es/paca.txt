@@ -1,0 +1,42 @@
+<a>
+    <img>paca/paca
+    <txt>Paca era una mujer vieja y cansada.
+    <txt>No quedaba mucho para Paca en la vida, pero ella era feliz mientras tuviese sus telenovelas.
+    <img>paca/soap_opera
+    <txt>Ese día iba a ocurrir un evento importante en su telenovela favorita.
+    <txt>Había estado siguiéndola durante años y los protagonistas finalmente se iban a casar.
+    <txt>Pero ocurrió un giro inesperado de acontecimientos.
+    <img>paca/evil_twin
+    <txt>¡El gemelo malvado del novio estaba planeando arruinar la boda!
+    <img>paca/paca_sad
+    <txt>La serie dio paso a la publicidad, dejando a Paca intrigada y asustada.
+    <txt>Cerró los ojos y deseó que la boda saliese bien.
+    <img>paca/paca_deal
+    <txt>Cuando los volvió a abrir, estaba saliendo un anuncio protagonizado por una bruja.
+    <txt>"¿Necesitas que un deseo se convierta en realidad?", preguntó la bruja.
+    <txt>"¡Deja de preocuparte! ¡Tengo una oferta especial para ti!"
+    <txt>La televisión le estaba ofreciendo un trato.
+    <txt>Paca estaba confusa, pero decidió seguirle el juego.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo la bruja, y terminó la publicidad.
+   <img>paca/happy_ending
+   <txt>Los planes del gemelo malvado se desbarataron en una dramática escena que resaltó el amor de la pareja.
+   <img>paca/paca_cry
+   <txt>Lágrimas de felicidad recorrieron la cara vieja y arrugada de Paca.
+   <txt>Fue una boda tan bonita y emotiva que Paca estuvo horas llorando.
+</a1>
+
+<a0>
+    <txt>"Lo siento", dijo la bruja, y terminó la publicidad.
+    <img>paca/bad_ending
+    <txt>Los planes del gemelo malvado fueron un éxito que arruinó el amor de la pareja.
+    <txt>La boda se canceló, pero resultó aún peor.
+    <img>paca/duel
+    <txt>¡El protagonista desafió a su gemelo a un duelo a muerte y perdió!
+    <img>paca/paca_dead
+    <txt>Esa escena dejó a Paca muerta por dentro.
+    <txt>Literalmente; su corazón perdió el deseo de seguir latiendo.
+</a0>

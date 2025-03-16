@@ -1,0 +1,70 @@
+<a>
+	<img>sebastian/sebastian_looking_up
+    <txt>Cuando Sebastian alzó la vista al cielo, vio algo extraño.
+	<img>sebastian/eclipse1
+    <txt>El Sol tenía una forma rara.
+	<img>sebastian/sebastian_looking_up
+    <txt>¡Oh, cierto! ¡Ese día iba a haber un eclipse!
+	<img>sebastian/eclipse2
+    <txt>Sebastian siguió mirándolo.
+	<txt>Era hermoso.
+	<img>sebastian/bright_spot
+    <txt>Pero cuando dejó de mirar, algo no estaba bien.
+	<txt>Seguía viendo un punto brillante incluso cuando miraba al suelo.
+	<txt>Sebastian cerró los ojos y deseó que no fuese nada, que desapareciese al cabo de un rato.
+	<txt>De repente, el punto brillante empezó a cambiar de forma.
+    <img>sebastian/sebastian_eyes_deal
+    <txt>¡Se transformó en una brujita!
+	<txt>Sebastian escuchó una voz en su cabeza ofreciéndole un trato, y lo aceptó.
+	<quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>sebastian/sebastian_cured
+    <txt>¡Ahora Sebastian podía ver mejor que nunca!
+    <txt>No volvería a mirar directamente al Sol nunca más.
+</a1>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego se transformó de nuevo en un punto.
+    <img>sebastian/dark_spot
+    <txt>El punto dejó de brillar y se volvió oscuro.
+    <txt>Luego empezó a crecer.
+    <img>black
+    <txt>Antes de que Sebastian pudiese disfrutar de su visión por última vez, se quedó ciego.
+</a0>
+
+<a0a>
+    <img>sebastian/sebastian_blind
+    <txt>Cuando te quedas ciego, se supone que se te tienen que agudizar los otros sentidos.
+    <txt>En algunas historias, quedarse ciego incluso libera al protagonista de distracciones, permitiéndole luchar como un ninja.
+	<txt>Pero habían pasado años desde que Sebastian había perdido su visión y sus otros sentidos no habían mejorado nada.
+	<txt>No necesitaba convertirse en un ninja, pero quería al menos algo más.
+    <txt>Hasta una ligera pero notable mejora le haría feliz.
+    <img>sebastian/sebastian_blind_lariat
+    <txt>De pronto, Lariat apareció ante él.
+    <img>sebastian/sebastian_blind_bump
+    <txt>Siendo ciego, Sebastian se chocó con ella.
+    <img>sebastian/sebastian_blind_deal
+    <txt>"Supongo que eso ha sido culpa mía", dijo Lariat.
+    <txt>"Hagamos un trato."
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>sebastian/sebastian_meal
+    <txt>En las semanas siguientes, los sentidos del olor y el gusto de Sebastian mejoraron dramáticamente.
+    <txt>Sus habituales comidas mediocres se volvieron imposibles de tragar.
+    <txt>Se vio obligado a poner más mimo en su cocina.
+    <img>sebastian/sebastian_chef
+    <txt>Y gracias a sus agudos sentidos, acabó convirtiéndose en un chef de renombre mundial.
+</a0a1>
+
+<a0a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>sebastian/sebastian_blind2
+    <txt>En los años siguientes, los sentidos de Sebastian no mejoraron nada.
+    <txt>De hecho, fueron empeorando.
+</a0a0>

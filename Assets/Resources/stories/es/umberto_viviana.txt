@@ -1,0 +1,101 @@
+<a>
+    <img>umberto_viviana/umberto
+    <txt>Umberto era un hombre viejo con una avioneta vieja.
+    <txt>Este iba a ser su último vuelo; un vuelo de despedida.
+    <txt>Pero tal vez en un sentido diferente al que Umberto pretendía.
+    <img>umberto_viviana/plane_engine
+    <txt>Cuando estaba en el punto más alto, el motor empezó a fallar y a echar humo.
+    <txt>¡Si el motor no aguantaba hasta el aterrizaje, se estrellaría!
+    <img>umberto_viviana/umberto_deal
+    <txt>De repente, apareció un copiloto.
+    <txt>"Hola, soy Lariat la bruja", dijo ella.
+    <txt>"No hay tiempo para explicaciones; tienes que jugar conmigo."
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>umberto_viviana/plane_engine_good
+    <txt>Milagrosamente, el motor empezó a funcionar con normalidad de nuevo.
+    <img>umberto_viviana/plane_land
+    <txt>Umberto pudo aterrizar la avioneta sin complicaciones, pero su corazón estaba a punto de explotar.
+    <txt>¡Vaya un vuelo de despedida!
+</a1>
+
+<a1a>
+    <img>umberto_viviana/cabin
+    <txt>El abuelo de Viviana se iba a retirar a su cabaña de las montañas
+    <txt>Él le había ofrecido una paga generosa si limpiaba la casa.
+    <img>umberto_viviana/viviana_mess
+    <txt>Viviana lo aceptó entusiasmada, pero el trabajo resultó ser más intimidante de lo que esperaba.
+    <txt>¡Era demasiado para que lo hiciese ella sola! ¡Ni siquiera sabía por dónde empezar!
+    <txt>Deseaba tener a alguien que la ayudase a organizarse.
+    <img>umberto_viviana/viviana_mess_deal
+    <txt>Entonces, de entre los trastos se asomó una bruja.
+    <txt>La bruja le ofreció trato y Viviana lo aceptó.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego se puso a trabajar.
+    <img>umberto_viviana/viviana_cleaning
+    <txt>Con su ayuda, limpiar la casa fue mucho más fácil, e incluso divertido.
+    <txt>Al final del día todo estaba reluciente.
+    <img>umberto_viviana/viviana_umberto
+    <txt>¡Su abuelo estaba tan satisfecho que le pagó un extra!
+</a1a1>
+
+<a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>umberto_viviana/viviana_mess
+    <txt>Viviana se sintió tan abrumada por ese desorden que perdió su voluntad.
+    <txt>Renunció al trabajo y se volvió a casa.
+</a1a0>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>umberto_viviana/plane_crash
+    <txt>El motor explotó y la avioneta empezó a caer en picado, envuelta en llamas.
+    <txt>Umberto no sobrevivió.
+</a0>
+
+<a0a>
+    <img>umberto_viviana/cabin_night
+    <txt>El abuelo de Viviana había muerto en un trágico accidente de avioneta hacía unas semanas.
+    <txt>En su testamento, declaró que ella heredaría su cabaña de las montañas si pasaba una noche allí sola.
+    <txt>Qué condición más rara.
+    <img>umberto_viviana/viviana_mess_night
+    <txt>La casa era siniestra y estaba sucia, pero eso no iba a detenerla.
+    <img>umberto_viviana/viviana_noises
+    <txt>Todo iba bien hasta que empezaron a venir ruidos raros del segundo piso.
+    <txt>"Es solo el viento", se dijo a sí misma.
+    <img>umberto_viviana/viviana_mess_deal_night
+    <txt>"¿Lo es?", preguntó Lariat, apareciendo de la nada.
+    <txt>¡Una bruja! ¡La cabaña estaba embrujada después de todo!
+    <txt>"Relájate. Estoy aquí para ayudarte", dijo Lariat.
+    <txt>"Juega conmigo y haré que desaparezcan los ruidos que dan miedo."
+    <txt>A Viviana no le apetecía desobedecer a una bruja.
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>umberto_viviana/viviana_noises2
+    <txt>Y con ella todos los ruidos que daban miedo.
+    <txt>¡Solo era el viento, después de todo!
+    <img>umberto_viviana/cabin
+    <txt>El amanecer llegó sin más contratiempos.
+    <txt>¡La cabaña era legalmente suya!
+</a0a1>
+
+<a0a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>umberto_viviana/viviana_noises2
+    <txt>Los ruidos se intensificaron.
+    <txt>¡No podía ser solo el viento! ¡Había alguien encerrado arriba, golpeando una puerta!
+    <img>umberto_viviana/viviana_flee
+    <txt>Viviana estaba tan asustada que salió corriendo en medio de la noche.
+    <img>umberto_viviana/viviana_cliff
+    <txt>Incapaz de ver por dónde iba, se cayó por un precipicio.
+    <txt>El equipo de rescate nunca encontró su cuerpo.
+</a0a0>

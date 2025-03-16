@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: mariano_lariat_comfort_lariat_hand
+  m_Rect:
+    serializedVersion: 2
+    x: 1588
+    y: 904
+    width: 124
+    height: 105
+  m_Offset: {x: 0, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 1080
+  m_Pivot: {x: 0.5, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    3b9947269026ed548a4271e428610eb0: 21300000
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 2
+    texture: {fileID: 2800000, guid: fe2afe2c8abf1744bb9718426472ddc5, type: 3}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 27
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 11
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 0a0009000700080007000900040007000800060007000400050006000400030005000400000003000400010003000000020001000000
+    m_VertexData:
+      m_CurrentChannels: 9
+      m_VertexCount: 11
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 12
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 220
+      _typelessdata: 2fa1bd3c721c473d00000000000000000000000008246b3dfe36c5bb00000000000000000000000008246b3de4380e3d000000000000000000000000c3dfa63c721c47bd000000000000000000000000fe3645bc721c473d000000000000000000000000baf280bc721c47bd000000000000000000000000f5491fbda3863fbd000000000000000000000000c3df26bd721c47bd000000000000000000000000e50149bd0d7f9b3c00000000000000000000000008246bbd9b6254bb00000000000000000000000008246bbd721c47bd000000000000000000000000
+    textureRect:
+      serializedVersion: 2
+      x: 1588
+      y: 904
+      width: 124
+      height: 105
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 1588, y: 904}
+    settingsRaw: 65
+    uvTransform: {x: 1080, y: 1650, z: 1080, w: 956.5}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 2
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      m_CurrentChannels: 0
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape:
+  - - {x: 0.023148147, y: -0.043055553}
+    - {x: 0.027777778, y: -0.036574073}
+    - {x: 0.053703703, y: 0.0041666664}
+    - {x: 0.057407405, y: 0.009722222}
+    - {x: 0.057407405, y: 0.03287037}
+    - {x: 0.0129629625, y: 0.045833334}
+    - {x: 0.0009259259, y: 0.048611112}
+    - {x: -0.009259259, y: 0.048611112}
+    - {x: -0.013888889, y: 0.044907406}
+    - {x: -0.030555556, y: 0.029166667}
+    - {x: -0.04444444, y: 0.016203703}
+    - {x: -0.05185185, y: 0.0041666664}
+    - {x: -0.057407405, y: -0.0050925924}
+    - {x: -0.057407405, y: -0.048611112}
+    - {x: -0.04074074, y: -0.048611112}
+    - {x: -0.037037037, y: -0.04212963}
+    - {x: -0.025, y: -0.016203703}
+    - {x: 0.019444443, y: -0.04398148}

@@ -1,0 +1,35 @@
+<a>
+    <img>oliver/oliver_howling
+    <txt>The sky was clear and the Moon was full.
+    <txt>Oliver was fascinated by its beauty.
+    <txt>He howled and howled, but the Moon wouldn't howl back.
+    <txt>So he kept howling, until a shadow appeared on the Moon.
+    <img>oliver/oliver_lariat
+    <txt>"What are you doing?", asked the shadow.
+    <txt>"You are a dog, not a wolf; you are not supposed to howl at the Moon."
+    <txt>"Sound doesn't even travel through space. The Moon can't hear you."
+    <img>oliver/oliver_deal
+    <txt>"But I can fix that."
+    <txt>Somehow, Oliver sort of understood what the shadow was trying to say, even though he was a dog.
+    <txt>They made some kind of deal and the shadow began asking questions.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said the shadow, and then she vanished.
+    <img>oliver/oliver_howling
+    <txt>Oliver howled as hard as he could.
+    <img>oliver/space
+    <txt>This time his howl traveled through space, reached the Moon and bounced back.
+    <img>oliver/oliver_moon
+    <txt>It seemed as if the Moon was howling back at him.
+    <txt>Oliver felt loved.
+</a1>
+
+<a0>
+    <txt>"Sorry", said the shadow, and then she vanished.
+    <img>oliver/oliver_howling
+    <txt>Oliver kept howling and howling, but the Moon didn't howl back.
+    <img>oliver/oliver_sad
+    <txt>He howled so much he damaged his throat and couldn't howl anymore.
+</a0>

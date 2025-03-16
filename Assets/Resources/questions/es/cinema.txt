@@ -1,0 +1,1488 @@
+<q>¿Cómo se llama el tigre que aparece en la película "La vida de Pi" ("Life of Pi")?
+<a1>Richard Parker
+<a2>Pi Patel
+<a3>Orange Juice
+<a4>Shere Khan
+
+<q>¿Qué es Azkaban?
+<a1>Una prisión en "Harry Potter"
+<a2>Una fortaleza en "El Señor de los Anillos"
+<a3>Un planeta en "Star Wars"
+<a4>Una máquina en "Matrix"
+
+<q>¿Quién dirigió la película "El club de la lucha" ("Fight Club")?
+<a1>David Fincher
+<a2>Quentin Tarantino
+<a3>James Cameron
+<a4>Christopher Nolan
+
+<q>¿En qué año se estrenó en cines la película "Matrix"?
+<a1>1999
+<a2>1997
+<a3>1991
+<a4>1995
+
+<q>¿En qué año se estrenó en cines la película "Shrek"?
+<a1>2001
+<a2>2007
+<a3>2003
+<a4>2005
+
+<q>¿Cómo se llama la madre de Simba en la película de Disney "El rey león”?
+<a1>Sarabi
+<a2>Nala
+<a3>Kiara
+<a4>Zazu
+
+<q>¿En qué siglo se desarrolla la película de Disney "Pocahontas"?
+<a1>XVII
+<a2>XV
+<a3>XIX
+<a4>XII
+
+<q>¿Quién dirigió la película "Pulp Fiction"?
+<a1>Quentin Tarantino
+<a2>Christopher Nolan
+<a3>Stanley Kubrick
+<a4>Francis Ford Coppola
+
+<q>¿Quién interpreta al protagonista en la película "Matrix"?
+<a1>Keanu Reeves
+<a2>Chris Evans
+<a3>Robert Pattinson
+<a4>Ashton Kutcher
+
+<q>¿En qué año se estrenó en cines la película "Forrest Gump"?
+<a1>1994
+<a2>1990
+<a3>1987
+<a4>1983
+
+<q>¿Quién dirigió la película "Parque Jurásico" ("Jurassic Park")?
+<a1>Steven Spielberg
+<a2>Martin Scorsese
+<a3>James Cameron
+<a4>Peter Jackson
+
+<q>¿En qué año se estrenó en cines la película "Parque Jurásico" ("Jurassic Park")?
+<a1>1993
+<a2>1996
+<a3>1990
+<a4>1999
+
+<q>¿Cuántos años tiene Ariel en la película de animación de Disney "La sirenita"?
+<a1>16
+<a2>14
+<a3>12
+<a4>9
+
+<q>¿Cuántas hermanas tiene Ariel en la película de animación de Disney "La sirenita"?
+<a1>6
+<a2>4
+<a3>2
+<a4>0
+
+<q>¿Qué actor interpreta al protagonista en la película "Rocky"?
+<a1>Sylvester Stallone
+<a2>Bruce Willis
+<a3>Jean Claude Van Damme
+<a4>Chuck Norris
+
+<q>¿En qué película viaja Indiana Jones a Venecia?
+<a1>Indiana Jones y la última cruzada
+<a2>En busca del arca perdida (Raiders of the Lost Ark)
+<a3>Indiana Jones y el templo maldito
+<a4>Indiana Jones y el reino de la calavera de cristal
+
+<q>¿Cómo se llaman los humanos artificiales en la película "Blade Runner"?
+<a1>Replicantes
+<a2>Automatones
+<a3>Runners
+<a4>Predators
+
+<q>¿En qué película juega Michael Jordan a baloncesto con personajes de dibujos animados?
+<a1>Space Jam
+<a2>¿Quién engañó a Roger Rabbit? (Who Framed Roger Rabbit)
+<a3>The Looney Tunes Hall of Fame
+<a4>Bugs Bunny: Superstar
+
+<q>¿En qué película interpreta Bruce Willis al detective John McClane?
+<a1>Jungla de cristal (Die Hard)
+<a2>Sin City
+<a3>Looper
+<a4>Pulp Fiction
+
+<q>¿Cómo se apellida el protagonista de la película "Rocky"?
+<a1>Balboa
+<a2>Dempsey
+<a3>Pacquiao
+<a4>Marciano
+
+<q>¿Quién dirigió la película "Pacific Rim"?
+<a1>Guillermo del Toro
+<a2>Steven Spielberg
+<a3>James Cameron
+<a4>Hideo Kojima
+
+<q>¿Antes de cumplir qué edad debe Bestia romper el hechizo en la película de animación de Disney "La Bella y la Bestia"?
+<a1>21
+<a2>18
+<a3>25
+<a4>29
+
+<q>¿Cómo se llama el padre de Bella en la película de animación de Disney "La Bella y la Bestia"?
+<a1>Maurice
+<a2>Philippe
+<a3>Gaston
+<a4>Roger
+
+<q>¿Cómo se llama el caballo de Bella en la película de animación de Disney "La Bella y la Bestia"?
+<a1>Philippe
+<a2>Maurice
+<a3>Gaston
+<a4>Roger
+
+<q>¿Cuál de las películas de Star Wars se subtitula "Una nueva esperanza"?
+<a1>Episodio IV
+<a2>Episodio III
+<a3>Episodio V
+<a4>Episodio VI
+
+<q>¿Con quién se casa Roger en la película de Disney "101 dálmatas"?
+<a1>Anita
+<a2>Penny
+<a3>Nanny
+<a4>Perdita
+
+<q>¿A cuántos cachorros da a luz Perdita en la película de Disney "101 dálmatas"?
+<a1>15
+<a2>24
+<a3>99
+<a4>101
+
+<q>¿En cuál de estas películas no aparece Brad Pitt?
+<a1>El hombre más buscado (A Most Wanted Man)
+<a2>12 años de esclavitud (12 Years a Slave)
+<a3>Guerra mundial Z (World War Z)
+<a4>Moneyball
+
+<q>¿En cuál de estas películas intenta una computadora matar al protagonista?
+<a1>2001: Una odisea del espacio (2001: A Space Odyssey)
+<a2>I.A. Inteligencia Artificial
+<a3>El juego de Ender ("Ender's Game")
+<a4>Elysium
+
+<q>¿Cómo empieza a propagarse la infección en la película "28 días después"?
+<a1>Unos activistas liberan a un chimpancé infectado
+<a2>El ejército usa la infección como arma
+<a3>Un científico se infecta a sí mismo accidentalmente
+<a4>Un hongo mutado infecta a una familia
+
+<q>¿En la vida de qué matemático está basada la película "Una mente maravillosa" ("A Beautiful Mind")?
+<a1>John Nash
+<a2>Alan Turing
+<a3>Albert Einstein
+<a4>Blaise Pascal
+
+<q>¿Quiénes oprimen a la colonia de hormigas en la película "Bichos, una aventura en miniatura" ("A Bug's Life")?
+<a1>Saltamontes
+<a2>Avispas
+<a3>Moscas
+<a4>Pájaros
+
+<q>¿Qué compositor le gusta especialmente al protagonista de la película "La naranja mecánica" ("A Clockwork Orange")?
+<a1>Beethoven
+<a2>Chopin
+<a3>Mozart
+<a4>Wagner
+
+<q>¿Cuál es el primero de los tres deseos que gasta Aladdín en la película de Disney?
+<a1>Convertirse en un príncipe
+<a2>Ser liberado
+<a3>Volver a Agrabah
+<a4>Ser rico
+
+<q>¿Cuál de estas películas de Disney se estrenó antes en cines?
+<a1>La Cenicienta
+<a2>Alicia en el país de las maravillas (Alice in Wonderland)
+<a3>Peter Pan
+<a4>La dama y el vagabundo
+
+<q>¿Cuál de estas películas de Disney se estrenó antes en cines?
+<a1>La bella durmiente
+<a2>101 dálmatas
+<a3>Merlín, el encantador (The Sword in the Stone)
+<a4>El libro de la selva
+
+<q>¿Cuál de estas películas de animación de Disney se estrenó antes en cines?
+<a1>La Bella y la Bestia
+<a2>Aladdín
+<a3>El rey león
+<a4>Pocahontas
+
+<q>¿Cuál de estas películas de Disney se estrenó antes en cines?
+<a1>El jorobado de Notre Dame
+<a2>Hércules
+<a3>Mulan
+<a4>Tarzán
+
+<q>¿Cómo mengua Alicia por primera vez en la película de Disney "Alicia en el país de las maravillas" ("Alice in Wonderland”)?
+<a1>Bebiendo de una botella
+<a2>Comiéndose una seta
+<a3>Comiéndose una galleta
+<a4>Poniéndose un sombrero
+
+<q>¿Cuántos miembros con apariencia humana tiene la tripulación de la película "Alien, el octavo pasajero"?
+<a1>7
+<a2>5
+<a3>11
+<a4>9
+
+<q>¿En qué película aparece una chica cubierta en pétalos de rosa?
+<a1>American Beauty
+<a2>Cisne negro
+<a3>Hitch, especialista en ligues
+<a4>Persiguiendo a Amy
+
+<q>¿En cuál de estas películas aparece Edward Norton?
+<a1>American History X
+<a2>Terminator Salvation
+<a3>El caballero oscuro (The Dark Knight)
+<a4>Equilibrium
+
+<q>¿Quién interpreta al protagonista de la película "American Psycho"?
+<a1>Christian Bale
+<a2>Edward Norton
+<a3>Brad Pitt
+<a4>Russell Crowe
+
+<q>¿Cuál de estas películas está ambientada en la guerra de Vietnam?
+<a1>Apocalypse Now
+<a2>Salvar al soldado Ryan
+<a3>La delgada línea roja
+<a4>Pearl Harbor
+
+<q>¿Cómo se llama la luna en la que se desarrolla la película "Avatar"?
+<a1>Pandora
+<a2>Polyphemus
+<a3>Na'vi
+<a4>Tsu'tey
+
+<q>¿Cómo muere la madre de Bambi en la película de Disney?
+<a1>Le disparan
+<a2>La mata un lobo
+<a3>Se queda atrapada en un incendio
+<a4>Se cae por un acantilado
+
+<q>¿En cuál de estas películas de Disney aparece un espejo mágico?
+<a1>La Bella y la Bestia
+<a2>Aladdín
+<a3>Peter Pan
+<a4>La Cenicienta
+
+<q>¿Quién es Sebulba?
+<a1>Un piloto de vainas en "Star Wars"
+<a2>Un profesor en "Harry Potter"
+<a3>Un guerrero uruk-hai en "El Señor de los Anillos"
+<a4>Un dragón en "Juego de tronos"
+
+<q>¿En cuál de estas películas aparece Scarlett Johansson?
+<a1>Lost In Translation
+<a2>Cisne Negro
+<a3>Atrápame si puedes (Catch Me If You Can)
+<a4>Al filo del mañana (Edge of Tomorrow)
+
+<q>¿En qué película aparece un robot llamado Baymax?
+<a1>Big Hero 6
+<a2>Bolt
+<a3>Cars 2
+<a4>Chicken Little
+
+<q>¿En cuál de estas películas no aparece Natalie Portman?
+<a1>Piratas del Caribe: La maldición de la Perla Negra
+<a2>Cisne Negro
+<a3>Thor
+<a4>Star Wars: Episodio I - La amenaza fantasma
+
+<q>¿En qué película aparece un modelo de androide llamado Nexus 6?
+<a1>Blade Runner
+<a2>Prometheus
+<a3>Yo, robot
+<a4>Terminator
+
+<q>¿Qué película fue rodada intermitentemente durante más de 10 años?
+<a1>Momentos de una vida (Boyhood)
+<a2>El hombre bicentenario (Bicentennial Man)
+<a3>Big Fish
+<a4>Barry Lyndon
+
+<q>¿Qué convierte a la madre de Mérida en oso en la película de Disney "Brave"?
+<a1>Un pastelillo
+<a2>Un colgante
+<a3>Un espejo
+<a4>Una flor
+
+<q>¿La historia de qué guerrero cuenta la película "Braveheart"?
+<a1>William Wallace
+<a2>Alejandro el Grande
+<a3>Edward Longshanks
+<a4>Ricardo Corazón de León
+
+<q>¿Qué competición de carreras quiere ganar el protagonista de la película de Disney "Cars"?
+<a1>Copa Pistón
+<a2>Copa Radiador
+<a3>Copa Rayo
+<a4>Copa Rueda
+
+<q>¿El protagonista de cuál de estas películas se llama Rick?
+<a1>Casablanca
+<a2>Ciudadano Kane
+<a3>Lo que el viento se llevó (Gone with the Wind)
+<a4>Cantando bajo la lluvia (Singin' in the Rain)
+
+<q>¿Cuál de estas películas no está basada en una historia real?
+<a1>Un lugar tranquilo (A Quiet Place)
+<a2>Atrápame si puedes (Catch Me If You Can)
+<a3>Capitán Phillips
+<a4>Argo
+
+<q>¿Quién persigue a Leonardo DiCaprio en la película "Atrápame si puedes" ("Catch Me If You Can")?
+<a1>Tom Hanks
+<a2>Russell Crowe
+<a3>George Clooney
+<a4>Brad Pitt
+
+<q>¿En qué película la infertilidad amenaza con extinguir a la humanidad?
+<a1>Hijos de los hombres (Children of Men)
+<a2>Her
+<a3>Bienvenidos al fin del mundo (The World's End)
+<a4>The Host
+
+<q>¿Qué nombre le da Cenicienta al ratón gordo que rescata en la película de Disney "La Cenicienta"?
+<a1>Gustavo
+<a2>Jaq
+<a3>Bruno
+<a4>Duke
+
+<q>¿Qué se llama Rosebud en la película "Ciudadano Kane"?
+<a1>Un trineo
+<a2>Un osito de peluche
+<a3>Una bola de nieve
+<a4>Un bastón
+
+<q>¿Qué tienen de especial los personajes del "otro mundo" en la película "Coraline"?
+<a1>Tienen botones en lugar de ojos
+<a2>No proyectan sombra
+<a3>Tienen la boca cosida
+<a4>Su ropa está hecha de telarañas
+
+<q>¿Por qué le pone Víctor un anillo en el dedo al cadáver de una novia en la película "La novia cadáver" ("Corpse Bride")?
+<a1>Confunde su mano con una raíz
+<a2>Quiere esconder el anillo
+<a3>Cree que eso la resucitará
+<a4>Cree que la novia está viva
+
+<q>¿Cómo se llaman los antagonistas en la película "Transformers"?
+<a1>Decepticons
+<a2>Anti-Spiral
+<a3>Sparks
+<a4>Mighty Morphins
+
+<q>¿Qué buscan los antagonistas en la película "Transformers"?
+<a1>La Chispa Vital
+<a2>La Robokey
+<a3>El Optimus Prime
+<a4>La Megafuerza
+
+<q>¿En cuál de estas películas los protagonistas intentan esquivar trampas mortales?
+<a1>Cube
+<a2>El club de la lucha (Fight Club)
+<a3>Jumper
+<a4>Mallrats
+
+<q>¿Qué enfermedad le diagnostican al protagonista de la película "Dallas Buyers Club"?
+<a1>Sida
+<a2>Cáncer
+<a3>Asma
+<a4>Diabetes
+
+<q>¿El argumento de cuál de estas películas se desarrolla en Nochebuena?
+<a1>Jungla de cristal (Die Hard)
+<a2>Parque Jurásico (Jurassic Park)
+<a3>Juno
+<a4>Moulin Rouge
+
+<q>¿Dónde se desarrolla el argumento de la película "La jungla 2: Alerta roja" ("Die Hard 2")?
+<a1>En un aeropuerto
+<a2>En un banco
+<a3>Por toda la ciudad de Nueva York
+<a4>En un hotel
+
+<q>¿Quién interpreta al protagonista en la película "Harry el sucio" ("Dirty Harry")?
+<a1>Clint Eastwood
+<a2>Robert Redford
+<a3>Russell Crowe
+<a4>Willem Dafoe
+
+<q>¿Qué arma lleva Harry en la película "Harry el sucio" ("Dirty Harry")?
+<a1>Revólver
+<a2>Pistola
+<a3>Escopeta
+<a4>Espada
+
+<q>¿En cuál de estas películas hay alienígenas?
+<a1>Distrito 9
+<a2>Donnie Darko
+<a3>Duplicity
+<a4>Sin tregua (End of Watch)
+
+<q>¿Con quién quiere reunirse Django en la película "Django desencadenado" ("Django Unchained")?
+<a1>Con su mujer
+<a2>Con su padre
+<a3>Con su hija
+<a4>Con su hermano
+
+<q>¿En cuál de estas películas el protagonista es un repartidor de pizzas?
+<a1>Haz lo que debas (Do the Right Thing)
+<a2>Dependientes (Clerks)
+<a3>Atrapado en el tiempo (Groundhog Day)
+<a4>Rondador nocturno (Nightcrawler)
+
+<q>¿Por qué atormentan el resto de elefantes a Dumbo en la película de Disney?
+<a1>Por sus orejas grandes
+<a2>Por su trompa corta
+<a3>Porque su madre está muerta
+<a4>Porque le asustan los ratones
+
+<q>¿Qué actor interpreta al protagonista en la película "Eduardo Manostijeras" ("Edward Scissorhands")?
+<a1>Johnny Depp
+<a2>Jake Gyllenhaal
+<a3>Matthew McConaughey
+<a4>Keanu Reeves
+
+<q>¿Para qué entrenan al protagonista en la película "El juego de Ender" ("Ender's Game")?
+<a1>Para convertirse en comandante
+<a2>Para convertirse en jugador de ajedrez
+<a3>Para convertirse en piloto
+<a4>Para convertirse en político
+
+<q>¿Quién interpreta al protagonista en la película "Operación Dragón" ("Enter the Dragon")?
+<a1>Bruce Lee
+<a2>Jackie Chan
+<a3>Jean-Claude Van Damme
+<a4>Steven Seagal
+
+<q>¿En cuál de estas películas el protagonista asiste a un ritual sexual secreto?
+<a1>Eyes Wide Shut
+<a2>El club de la lucha (Fight Club)
+<a3>Lucy
+<a4>Siete psicópatas
+
+<q>¿Cuál de estas películas está protagonizada por John Travolta y Nicolas Cage?
+<a1>Cara a cara (Face/Off)
+<a2>Cerdos salvajes (Wild Hogs)
+<a3>Joe
+<a4>Spy Kids
+
+<q>¿Cuál es la segunda regla del club en la película "El club de la lucha" ("Fight Club")?
+<a1>Ningún miembro habla sobre el club de la Lucha
+<a2>Solo puños
+<a3>Solo una pelea a la vez
+<a4>Las peleas duran lo que tengan que durar
+
+<q>¿Quién interpreta al protagonista en la película "Hana-bi"?
+<a1>Takeshi Kitano
+<a2>Ken Watanabe
+<a3>Jackie Chan
+<a4>Jet Li
+
+<q>¿Quién interpreta al protagonista en la película "Flubber y el profesor chiflado"?
+<a1>Robin Williams
+<a2>George Clooney
+<a3>Tom Hanks
+<a4>Tom Cruise
+
+<q>¿En cuál de estas películas el protagonista le cuenta la historia a desconocidos?
+<a1>Forrest Gump
+<a2>Gladiator
+<a3>El padrino (The Godfather)
+<a4>Scarface
+
+<q>¿Qué deporte practica el protagonista de la película "Forrest Gump" cuando está en el ejército?
+<a1>Ping pong
+<a2>Boxeo
+<a3>Natación
+<a4>Baloncesto
+
+<q>¿Cómo se llama el muñeco de nieve viviente en la película de Disney "Frozen: El reino del hielo"?
+<a1>Olaf
+<a2>Nevado
+<a3>Verano
+<a4>Kristoff
+
+<q>¿Cuál de estas películas muestra el entrenamiento de un pelotón de marines?
+<a1>La chaqueta metálica (Full Metal Jacket)
+<a2>Serenity
+<a3>Distrito 9
+<a4>300
+
+<q>¿En cuál de estas películas no aparece Leonardo DiCaprio?
+<a1>Reservoir Dogs
+<a2>Gangs of New York
+<a3>El Gran Gatsby
+<a4>Django desencadenado (Django Unchained)
+
+<q>¿Cómo se llama el protagonista de la película "Scarface"?
+<a1>Tony Montana
+<a2>Sonny Corleone
+<a3>Niko Bellic
+<a4>Luca Brasi
+
+<q>¿Qué tipo de comida es famosamente compartida por los protagonistas de la película de Disney "La dama y el vagabundo"?
+<a1>Pasta
+<a2>Ensalada
+<a3>Galletas
+<a4>Sopa
+
+<q>¿Cuál de estas es una película de gánsters?
+<a1>Uno de los nuestros (Goodfellas)
+<a2>El Gran Hotel Budapest
+<a3>Taxi Driver
+<a4>El Gran Gatsby
+
+<q>¿En cuál de estas películas hay un bucle temporal?
+<a1>Atrapado en el tiempo (Groundhog Day)
+<a2>El quinto elemento
+<a3>El ilusionista 
+<a4>El maquinista
+
+<q>¿De qué especie es el personaje Rocket en la película "Guardianes de la Galaxia" ("Guardians of the Galaxy")?
+<a1>Mapache
+<a2>Humano
+<a3>Árbol
+<a4>Witcher
+
+<q>¿De qué raza es el perro protagonista de la película "Hachiko Monogatari"?
+<a1>Akita
+<a2>Retriever
+<a3>Husky
+<a4>Corgi
+
+<q>¿Cuál de estos superhéroes fue interpretado por Will Smith?
+<a1>Hancock
+<a2>Ant-Man
+<a3>Kick-Ass
+<a4>Blade
+
+<q>¿Quién es Percy en la película "Harry Potter y la piedra filosofal"?
+<a1>El hermano mayor de Ron
+<a2>El padrino de Harry
+<a3>El novio temporal de Hermione
+<a4>El ayudante de Lord Voldemort
+
+<q>¿Qué bola debe ser capturada para terminar un partido de quidditch en la película "Harry Potter y la piedra filosofal"?
+<a1>Snitch
+<a2>Bludger
+<a3>Quaffle
+<a4>Nimbus
+
+<q>¿En cuál de estas películas un hombre se enamora de un sistema operativo?
+<a1>Her
+<a2>Blade Runner
+<a3>Serenity
+<a4>Matrix
+
+<q>¿Por qué es Hércules mortal en la película de Disney?
+<a1>Los lacayos de Hades lo convierten con una poción
+<a2>Su madre es humana
+<a3>Se cae del Monte Olimpo cuando es un bebé
+<a4>Se enamora de una humana
+
+<q>¿Cómo se llama el dragón principal de la película "Cómo entrenar a tu dragón" ("How to Train Your Dragon")?
+<a1>Desdentado
+<a2>Muerte Roja
+<a3>Draco
+<a4>Hipo
+
+<q>¿Cuántas leyes de la robótica hay en la película "Yo, robot"?
+<a1>3
+<a2>1
+<a3>2
+<a4>4
+
+<q>¿Qué ocurre cuando una persona cumple 25 años en la película "In Time"?
+<a1>Deja de envejecer
+<a2>Se le para el corazón
+<a3>Le dan un millón de dólares
+<a4>Le envían atrás en el tiempo
+
+<q>¿En cuál de estas películas los personajes pueden entrar en los sueños de otras personas?
+<a1>Origen (Inception)
+<a2>Del revés (Inside Out)
+<a3>Vanilla Sky
+<a4>Ex Machina
+
+<q>¿Qué busca el padre de Indiana en la película "Indiana Jones y la última cruzada"?
+<a1>El Santo Grial
+<a2>A su hijo
+<a3>El Arca de la Alianza
+<a4>El oro de los nazis
+
+<q>¿Cuál de estos no es uno de los personajes protagonistas de la película de Disney "Del revés" ("Inside Out")?
+<a1>Amor
+<a2>Tristeza
+<a3>Miedo
+<a4>Asco
+
+<q>¿Qué representan las cinco islas en la cabeza de la protagonista en la película de Disney "Del revés" ("Inside Out")?
+<a1>Personalidad
+<a2>Recuerdos
+<a3>Sentimientos
+<a4>Imaginación
+
+<q>¿En cuál de estas películas los protagonistas viajan a través de un agujero de gusano?
+<a1>Interstellar
+<a2>Gravity
+<a3>Marte (The Martian)
+<a4>Alien, el octavo pasajero
+
+<q>¿Por qué crea el protagonista una armadura en la película "Iron Man"?
+<a1>Para escapar de un grupo terrorista
+<a2>Para luchar contra el crimen
+<a3>Para vengar a su padre
+<a4>Para matar al hombre murciélago
+
+<q>¿Quién es el antagonista principal en la película "Iron Man 3"?
+<a1>El Mandarín
+<a2>Hydra
+<a3>Loki
+<a4>Jarvis
+
+<q>¿Qué habilidad especial tiene el protagonista en la película "Jumper"?
+<a1>Teletransporte
+<a2>Saltar muy alto
+<a3>Viajar en el tiempo
+<a4>Doblar la trayectoria de las balas
+
+<q>¿Cómo se llama la isla en la que se desarrolla la película "Parque Jurásico" ("Jurassic Park")?
+<a1>Nublar
+<a2>Outer Heaven
+<a3>Tyranorock
+<a4>Eden
+
+<q>¿Qué poder especial tiene el protagonista de la película "Kick-Ass: Listo para machacar"?
+<a1>Resistencia al dolor
+<a2>Superfuerza
+<a3>Telequinesis
+<a4>Regeneración
+
+<q>¿Por qué busca venganza la protagonista de la saga Kill Bill?
+<a1>Por la masacre de su boda
+<a2>Por la infidelidad de su marido
+<a3>Por el secuestro de su hija
+<a4>Por la opresión de su pueblo
+
+<q>¿Cómo se llama el barco de los protagonistas en la película "Master and Commander: Al otro lado del mundo" ("Master and Commander: The Far Side of the World")?
+<a1>Surprise
+<a2>Acheron
+<a3>Bounty
+<a4>Royal Princess
+
+<q>¿En cuál de estas películas hay un personaje con amnesia?
+<a1>Memento
+<a2>Lost in Translation
+<a3>Love Actually
+<a4>El sexto sentido (The Sixth Sense)
+
+<q>¿Qué deporte practica la protagonista en la película "Million Dollar Baby"?
+<a1>Boxeo
+<a2>Bolos
+<a3>Golf
+<a4>Tenis
+
+<q>¿El protagonista de cuál de estas películas es alcohólico?
+<a1>Adiós a Las Vegas (Leaving Las Vegas)
+<a2>Amor a quemarropa (True Romance)
+<a3>En busca de la felicidad (The Pursuit of Happyness)
+<a4>La vida secreta de Walter Mitty
+
+<q>¿Qué película termina con la canción "Always Look on the Bright Side of Life"?
+<a1>La vida de Brian
+<a2>La vida es bella
+<a3>Yo, Yo Mismo e Irene
+<a4>La vida secreta de Walter Mitty
+
+<q>¿De quién está enamorado el protagonista de la película "Lolita"?
+<a1>Dolores
+<a2>Charlotte
+<a3>Clare
+<a4>Mary
+
+<q>¿Por qué envían a la gente atrás en el tiempo en la película "Looper"?
+<a1>Para que sean asesinados
+<a2>Para que reciban tratamiento médico
+<a3>Para arreglar errores
+<a4>Para robar dinero
+
+<q>¿En qué película detienen a los asesinos antes de que actúen?
+<a1>Minority Report
+<a2>Los cronocrímenes
+<a3>El efecto mariposa
+<a4>Terminator
+
+<q>¿Por qué asustan los monstruos a los niños en la película de Disney "Monstruos, S.A."?
+<a1>Para conseguir energía
+<a2>Por diversión
+<a3>Porque odian a los humanos
+<a4>Para mantener alejados a los humanos
+
+<q>¿En la creación de qué red social está basada la película "La red social" ("The Social Network")?
+<a1>Facebook
+<a2>Twitter
+<a3>Myspace
+<a4>Tumblr
+
+<q>¿Por qué se une la protagonista al ejército chino en la película de Disney "Mulán"?
+<a1>Para que no tenga que hacerlo su padre
+<a2>Porque quiere luchar por su país
+<a3>Porque está enamorada de uno de los generales
+<a4>Para conseguir dinero para su familia
+
+<q>¿Cuál es el plan en la película "Ocean's Eleven: Hagan juego"?
+<a1>Robar a tres casinos
+<a2>Robar a un banco
+<a3>Robar a cuatro museos
+<a4>Robar a dos empresas
+
+<q>¿Qué le ocurre al protagonista en la película "Oldboy"?
+<a1>Es secuestrado
+<a2>Pierde un brazo
+<a3>Pierde todo su dinero
+<a4>Le usurpan su identidad
+
+<q>¿Qué nación ataca al puerto en la película "Pearl Harbor"?
+<a1>Japón
+<a2>Rusia
+<a3>Estados Unidos
+<a4>Alemania
+
+<q>¿En cuál de estas películas hay un personaje llamado Ramona Flowers?
+<a1>Scott Pilgrim contra el mundo (Scott Pilgrim vs. the World)
+<a2>Juno
+<a3>Nick and Norah's Infinite Playlist
+<a4>Rebelión adolescente (Youth in Revolt)
+
+<q>¿De qué serie de televisión es una continuación la película "Serenity"?
+<a1>Firefly
+<a2>Community
+<a3>Dexter
+<a4>Black Mirror
+
+<q>¿Quién se enamora de Asno en la película "Shrek"?
+<a1>Una dragona
+<a2>Una princesa
+<a3>Una mujer de jengibre
+<a4>Un hada
+
+<q>¿En qué se transforma Shrek tras beber una poción en la película "Shrek 2"?
+<a1>En humano
+<a2>En dragón
+<a3>En un muñeco de madera
+<a4>En una versión femenina de sí mismo
+
+<q>¿Qué hay en la isla en la película "Shutter Island"?
+<a1>Un hospital psiquiátrico
+<a2>Un hotel
+<a3>Un centro de investigación
+<a4>Una mina
+
+<q>¿En qué programa de televisión participa el protagonista en la película "Slumdog Millionaire"?
+<a1>¿Quién quiere ser millonario?
+<a2>Jeopardy!
+<a3>El precio justo
+<a4>La rueda de la fortuna
+
+<q>¿En qué país se desarrolla la película "Slumdog Millionaire"?
+<a1>India
+<a2>Argentina
+<a3>Brasil
+<a4>México
+
+<q>¿Cuál de estos no es el nombre de uno de los enanos en la película de Disney "Blancanieves y los siete enanitos"?
+<a1>Abuelito
+<a2>Mocoso
+<a3>Dormilón
+<a4>Feliz
+
+<q>¿Cuál de estas películas se desarrolla dentro de un tren?
+<a1>Snowpiercer
+<a2>Oldboy
+<a3>Primer
+<a4>Dando la nota (Pitch Perfect)
+
+<q>¿Cuál de estas es una película de animación?
+<a1>Song of the Sea
+<a2>Super 8
+<a3>El discurso del rey (The King's Speech)
+<a4>La princesa prometida (The Princess Bride)
+
+<q>¿Dónde se desarrolla la película de Disney "Tiana y el Sapo" ("The Princess and the Frog")?
+<a1>Nueva Orleans
+<a2>San Francisco
+<a3>Honolulu
+<a4>Las Vegas
+
+<q>¿Qué es la protagonista de la película "NIMH, el mundo secreto de la señora Brisby" ("The Secret of NIMH")?
+<a1>Un ratón
+<a2>Un mapache
+<a3>Un pájaro
+<a4>Una rana
+
+<q>¿Qué son los protagonistas de la película "Reservoir Dogs"?
+<a1>Humanos
+<a2>Gatos
+<a3>Perros
+<a4>Cerdos
+
+<q>¿Cómo se llama el protagonista de la película "El resplandor" ("The Shining")?
+<a1>Jack
+<a2>Robert
+<a3>Steven
+<a4>Kevin
+
+<q>¿Cómo se llama la inteligencia artificial que se menciona en la película "Terminator"?
+<a1>Skynet
+<a2>Auto
+<a3>2046
+<a4>HAL 9000
+
+<q>¿Quién interpreta al protagonista en la película "El show de Truman"?
+<a1>Jim Carrey
+<a2>Tom Hanks
+<a3>Tom Cruise
+<a4>Matt Damon
+
+<q>¿Quién es el hermano de Thor en la película de Marvel "Thor"?
+<a1>Loki
+<a2>Asgard
+<a3>Heimdall
+<a4>Odin
+
+<q>¿Cuál fue la primera película animada por ordenador?
+<a1>Toy Story
+<a2>Bichos, una aventura en miniatura (A Bug's Life)
+<a3>Final Fantasy: La fuerza interior (Final Fantasy: The Spirits Within)
+<a4>Dinosaurio
+
+<q>¿Cómo se llama la vaquera que aparece en la película "Toy Story 2"?
+<a1>Jessie
+<a2>Peep
+<a3>Tiana
+<a4>Anna
+
+<q>¿A qué es adicto el protagonista en la película "Trainspotting"?
+<a1>Heroína
+<a2>Trabajo
+<a3>Sexo
+<a4>Alcohol
+
+<q>¿Qué son los protagonistas de la película "Orejas largas" ("Watership Down")?
+<a1>Conejos
+<a2>Humanos
+<a3>Zorros
+<a4>Pollos
+
+<q>¿Qué instrumento toca el protagonista en la película de 2014 "Whiplash"?
+<a1>Batería
+<a2>Saxofón
+<a3>Piano
+<a4>Trompeta
+
+<q>¿Quién engaña a Roger Rabbit en la película "¿Quién engañó a Roger Rabbit?" ("Who Framed Roger Rabbit")?
+<a1>Juez Doom
+<a2>Jessica Rabbit
+<a3>Lena Hiena
+<a4>Bongo el gorila
+
+<q>¿Quién es mostrado como el rival de Mozart en la película "Amadeus"?
+<a1>Salieri
+<a2>Beethoven
+<a3>Handel
+<a4>Verdi
+
+<q>¿Quién dirigió la película "2001: Una odisea del espacio" ("2001: A Space Odyssey")?
+<a1>Stanley Kubrick
+<a2>Orson Welles
+<a3>Francis Ford Coppola
+<a4>Alfred Hitchcock
+
+<q>¿Quién dirigió la película "Apocalypse Now"?
+<a1>Francis Ford Coppola
+<a2>Mel Gibson
+<a3>Quentin Tarantino
+<a4>David Fincher
+
+<q>¿Quién dirigió la película "Braveheart"?
+<a1>Mel Gibson
+<a2>David Fincher
+<a3>Ridley Scott
+<a4>Steven Spielberg
+
+<q>¿Quién dirigió la película "Ciudadano Kane"?
+<a1>Orson Welles
+<a2>Alfred Hitchcock
+<a3>Woody Allen
+<a4>Akira Kurosawa
+
+<q>¿Quién dirigió la película "Avatar"?
+<a1>James Cameron
+<a2>Steven Spielberg
+<a3>Christopher Nolan
+<a4>Peter Jackson
+
+<q>¿Quién dirigió la película "Titanic"?
+<a1>James Cameron
+<a2>Steven Spielberg
+<a3>Christopher Nolan
+<a4>Peter Jackson
+
+<q>¿Quién dirigió la película "E.T, el extraterrestre"?
+<a1>Steven Spielberg
+<a2>James Cameron
+<a3>Tim Burton
+<a4>Ridley Scott
+
+<q>¿Quién dirigió la película "Blade Runner"?
+<a1>Ridley Scott
+<a2>Tim Burton
+<a3>Clint Eastwood
+<a4>George Lucas
+
+<q>¿Quién dirigió la película "En busca del arca perdida" ("Raiders of the Lost Ark")?
+<a1>Steven Spielberg
+<a2>Clint Eastwood
+<a3>George Lucas
+<a4>David Lynch
+
+<q>¿Quién dirigió la película "Star Wars"?
+<a1>George Lucas
+<a2>Orson Welles
+<a3>David Lynch
+<a4>Tim Burton
+
+<q>¿Quién dirigió la película "Shutter Island"?
+<a1>Martin Scorsese
+<a2>James Cameron
+<a3>Stanley Kubrick
+<a4>Peter Jackson
+
+<q>¿Quién dirigió la película "El Padrino" ("The Godfather")?
+<a1>Francis Ford Coppola
+<a2>Stanley Kubrick
+<a3>Quentin Tarantino
+<a4>Martin Scorsese
+
+<q>¿Cuál de estas películas se estrenó antes en cines?
+<a1>Minority Report
+<a2>Crepúsculo (Twilight)
+<a3>El truco final (The Prestige)
+<a4>Origen (Inception)
+
+<q>¿Cuál de estas películas de Harry Potter se estrenó antes en cines?
+<a1>El cáliz de fuego
+<a2>La Orden del Fénix
+<a3>El misterio del príncipe
+<a4>Las Reliquias de la Muerte: Parte I
+
+<q>¿Cuál de estas películas se estrenó antes en cines?
+<a1>Harry Potter y la piedra filosofal
+<a2>8 millas (8 Mile)
+<a3>Star Wars: Episodio III - La venganza de los Sith
+<a4>Brokeback Mountain
+
+<q>¿Cuál de estas películas se estrenó antes en cines?
+<a1>Matrix
+<a2>Piratas del Caribe: La maldición de la Perla Negra
+<a3>Kill Bill: Vol. 1
+<a4>El Señor de los Anillos: El Retorno del Rey
+
+<q>¿Cuál de estas películas se estrenó antes en cines?
+<a1>El show de Truman
+<a2>American Beauty
+<a3>Pearl Harbor
+<a4>Una mente maravillosa (A Beautiful Mind)
+
+<q>¿Cuál de estas películas se estrenó antes en cines?
+<a1>Gladiator
+<a2>El Señor de los Anillos: La Comunidad del Anillo
+<a3>Los Increíbles
+<a4>Sin City
+
+<q>¿Cuál de estas películas se estrenó antes en cines?
+<a1>Toy Story
+<a2>Titanic
+<a3>Salvar al soldado Ryan
+<a4>El show de Truman
+
+<q>¿Cuál de estas películas se estrenó antes en cines?
+<a1>Origen (Inception)
+<a2>Iron Man 3
+<a3>Frozen: El reino del hielo
+<a4>El lobo de Wall Street
+
+<q>¿En qué año se estrenó en cines la película "Frozen: El reino del hielo"?
+<a1>2013
+<a2>2015
+<a3>2011
+<a4>2009
+
+<q>¿En qué año se estrenó en cines la película "La guerra de las galaxias" ("Star Wars")?
+<a1>1977
+<a2>1982
+<a3>1987
+<a4>1992
+
+<q>¿En qué año se estrenó en cines la película "El Señor de los Anillos: La Comunidad del Anillo"?
+<a1>2001
+<a2>2004
+<a3>2007
+<a4>2010
+
+<q>¿Cuál de estas películas no está basada en una franquicia de videojuegos?
+<a1>28 días después
+<a2>House of the Dead
+<a3>Silent Hill
+<a4>Alone in the Dark
+
+<q>¿A qué personaje interpreta el actor Harrison Ford en las películas de Star Wars?
+<a1>Han Solo
+<a2>Boba Fett
+<a3>Obi-Wan Kenobi
+<a4>Luke Skywalker
+
+<q>¿Quién interpreta a Jay Gatsby en la película de 2013 "El Gran Gatsby"?
+<a1>Leonardo DiCaprio
+<a2>Brad Pitt
+<a3>Christian Bale
+<a4>Robert De Niro
+
+<q>¿Quién interpreta a Tony Stark en la película "Iron Man"?
+<a1>Robert Downey Jr.
+<a2>Matt Damon
+<a3>Ben Affleck
+<a4>Liam Neeson
+
+<q>¿Quién interpreta a Aragorn en las películas de El Señor de los Anillos?
+<a1>Viggo Mortensen
+<a2>Christopher Lee
+<a3>Elijah Wood
+<a4>Sean Bean
+
+<q>¿Quién interpreta a Edward Cullen en la película "Crepúsculo" ("Twilight")?
+<a1>Robert Pattinson
+<a2>Justin Timberlake
+<a3>Chris Evans
+<a4>Hayden Christensen
+
+<q>¿Quién interpreta a Mark Zuckerberg en la película "La red social" ("The Social Network")?
+<a1>Jesse Eisenberg
+<a2>Michael Cera
+<a3>Justin Timberlake
+<a4>Benedict Cumberbatch
+
+<q>¿Quién interpreta a Padmé Amidala en las películas de Star Wars?
+<a1>Natalie Portman
+<a2>Scarlett Johansson
+<a3>Anne Hathaway
+<a4>Emma Stone
+
+<q>¿Quién interpreta a Satine en la película "Moulin Rouge"?
+<a1>Nicole Kidman
+<a2>Scarlett Johansson
+<a3>Julia Roberts
+<a4>Charlize Theron
+
+<q>¿Quién interpreta a Jane Smith en la película de 2005 "Sr. y Sra. Smith"?
+<a1>Angelina Jolie
+<a2>Natalie Portman
+<a3>Anne Hathaway
+<a4>Ellen Page
+
+<q>¿Quién interpreta a Hermione Granger en las películas de Harry Potter?
+<a1>Emma Watson
+<a2>Anne Hathaway
+<a3>Jennifer Lawrence
+<a4>Kristin Kreuk
+
+<q>¿En cuál de estas películas hay un personaje llamado Jack Dawson?
+<a1>Titanic
+<a2>Avatar
+<a3>Jurassic World
+<a4>Los vengadores (The Avengers)
+
+<q>¿En cuál de estas películas hay un personaje llamado Kevin McCallister?
+<a1>Solo en casa (Home Alone)
+<a2>Pretty Woman
+<a3>Regreso al futuro (Back to the Future)
+<a4>Terminator
+
+
+<q>¿En cuál de estas películas hay un personaje llamado Jacques Clouseau?
+<a1>La pantera rosa
+<a2>Inspector Gadget
+<a3>Los cazafantasmas (Ghostbusters)
+<a4>Solo en casa (Home Alone)
+
+<q>¿En cuál de estas películas hay un personaje llamado Harry Callahan?
+<a1>Harry el sucio (Dirty Harry)
+<a2>El resplandor (The Shining)
+<a3>Tiburón (Jaws)
+<a4>El club de los cinco (The Breakfast Club)
+
+<q>¿En cuál de estas películas hay un personaje llamado Hannibal Lecter?
+<a1>El silencio de los corderos
+<a2>El resplandor (The Shining)
+<a3>La familia Addams
+<a4>Drácula
+
+<q>¿En cuál de estas películas hay un personaje llamado James Bond?
+<a1>Quantum of Solace
+<a2>Siete almas (Seven Pounds)
+<a3>Gran Torino
+<a4>Slumdog Millionaire
+
+<q>¿En cuál de estas películas hay un personaje llamado Vincent Vega?
+<a1>Pulp Fiction
+<a2>El padrino (The Godfather)
+<a3>El club de la lucha (Fight Club)
+<a4>GoldenEye
+
+<q>¿Cómo se titula la primera película de James Bond?
+<a1>Agente 007 contra el Dr. No (Dr. No)
+<a2>GoldenEye
+<a3>Desde Rusia con amor
+<a4>James Bond contra Goldfinger
+
+<q>¿De quién se enamora Ariel en la película de Disney "La sirenita"?
+<a1>Eric
+<a2>Philip
+<a3>Kristoff
+<a4>Naveen
+
+<q>¿Qué da Ariel a cambio de piernas en la película de Disney "La sirenita"?
+<a1>Su voz
+<a2>El tridente de su padre
+<a3>Su alma
+<a4>Su mano izquierda
+
+<q>¿Cuál de estas películas está hecha en blanco y negro?
+<a1>The Artist
+<a2>El gran Lebowski
+<a3>El caballero oscuro (The Dark Knight)
+<a4>Orejas largas (Watership Down)
+
+<q>¿En cuál de estas películas no aparece Vin Diesel?
+<a1>El quinto elemento
+<a2>A todo gas (The Fast and the Furious)
+<a3>xXx
+<a4>Las crónicas de Riddick
+
+<q>¿Cuál es el poder de Mr. Increíble en la película "Los Increíbles"?
+<a1>Superfuerza
+<a2>Elasticidad
+<a3>Habilidad de volar
+<a4>Supervelocidad
+
+<q>¿En cuál de estas películas hay un personaje llamado Jack Skellington?
+<a1>Pesadilla antes de Navidad (The Nightmare Before Christmas)
+<a2>Piratas del Caribe: El cofre del hombre muerto
+<a3>Tarón y el caldero mágico (The Black Cauldron)
+<a4>La novia cadáver (Corpse Bride)
+
+<q>¿Cómo se llama el hada de la película de Disney "Peter Pan"?
+<a1>Campanilla
+<a2>Navi
+<a3>Wendy
+<a4>Luma
+
+<q>¿En cuál de estas películas de Disney aparece un loro llamado Iago?
+<a1>Aladdín
+<a2>Pocahontas
+<a3>El jorobado de Notre Dame
+<a4>El Emperador y sus Locuras (The Emperor's New Groove)
+
+<q>¿De quién se enamora el protagonista en la película "Shrek"?
+<a1>Fiona
+<a2>Blancanieves
+<a3>Cenicienta
+<a4>Aurora
+
+<q>¿Qué superhéroe protagoniza la película "El caballero oscuro" ("The Dark Knight")?
+<a1>Batman
+<a2>Capitán América
+<a3>Iron Man
+<a4>Superman
+
+<q>¿Cómo se llama el protagonista en la película "Regreso al futuro" ("Back to the Future")?
+<a1>Marty McFly
+<a2>Luke Skywalker
+<a3>Elliott
+<a4>Connor
+
+<q>¿Cuándo se enamoran los protagonistas de la película "Grease"?
+<a1>Verano
+<a2>Primavera
+<a3>Invierno
+<a4>Otoño
+
+<q>¿Cómo se llama el vaquero de juguete en la película "Toy Story"?
+<a1>Woody
+<a2>Billy
+<a3>Kirk
+<a4>Alan
+
+<q>¿Qué tipo de pez es Marlin en la película "Buscando a Nemo"?
+<a1>Pez payaso
+<a2>Carpa dorada
+<a3>Pez gato
+<a4>Pez espada
+
+<q>¿Cómo se llama el padre de Simba en la película de Disney "El rey león"?
+<a1>Mufasa
+<a2>Rafiki
+<a3>Kiara
+<a4>Zazu
+
+<q>¿Cuál de estas películas está protagonizada por villanos?
+<a1>Escuadrón Suicida (Suicide Squad)
+<a2>Cazafantasmas (Ghostbusters)
+<a3>Marvel Los Vengadores (Marvel's The Avengers)
+<a4>Operación Dragón (Enter the Dragon)
+
+<q>¿Quién es el director de S.H.I.E.L.D. en la película "Marvel Los Vengadores" ("Marvel's The Avengers")?
+<a1>Nick Furia
+<a2>Tony Stark
+<a3>Steve Rogers
+<a4>Bruce Banner
+
+<q>¿Quién secuestra a  Elizabeth en la película "Piratas del Caribe: la maldición de la Perla Negra"?
+<a1>Hector Barbossa
+<a2>Jack Sparrow
+<a3>Will Turner
+<a4>James Norrington
+
+<q>¿Cuál de estos no es el nombre de uno de los protagonistas en la película "Ice Age: La edad de hielo"?
+<a1>Shade
+<a2>Diego
+<a3>Manny
+<a4>Sid
+
+<q>¿Quién interpreta a Batman en la película "Batman v Superman: El Amanecer de la Justicia"?
+<a1>Ben Affleck
+<a2>Christian Bale
+<a3>George Clooney
+<a4>Adam West
+
+<q>¿Quién es la protagonista en la película "Los juegos del hambre" ("The Hunger Games")?
+<a1>Katniss
+<a2>Clove
+<a3>Cinna
+<a4>Effie
+
+<q>¿Qué pasa en la película de 1996 "Independence Day"?
+<a1>Aliens atacan la Tierra
+<a2>Estalla una guerra civil
+<a3>Se escribe la Declaración de Independencia
+<a4>Asesinan a  Abraham Lincoln
+
+<q>¿En qué año se estrenó en cines la película "2012"?
+<a1>2009
+<a2>2006
+<a3>2012
+<a4>2015
+
+<q>¿Quién interpreta al protagonista en la película "El código Da Vinci"?
+<a1>Tom Hanks
+<a2>Robin Williams
+<a3>Russell Crowe
+<a4>Sean Penn
+
+<q>¿Cómo entran los protagonistas al mundo de Narnia en la película "Las crónicas de Narnia: el león, la bruja y el armario"?
+<a1>A través de un armario
+<a2>A través de un espejo
+<a3>A través de un libro
+<a4>A través de sus sueños
+
+<q>¿De qué color es la pastilla que elige Neo en la película "Matrix"?
+<a1>Roja
+<a2>Azul
+<a3>Amarilla
+<a4>Verde
+
+<q>¿Contra qué organización terrorista lucha el protagonista en la película "Capitán América: El soldado de invierno"?
+<a1>Hydra
+<a2>Spectre
+<a3>Escuadrón Suicida
+<a4>H.I.V.E.
+
+<q>¿Cómo se titula la cuarta película de la saga "Misión: Imposible"?
+<a1>Protocolo Fantasma
+<a2>Nación Secreta (Rogue Nation)
+<a3>Skyfall
+<a4>Muere otro día
+
+<q>¿De qué trabaja  Malcolm Crowe en la película "El sexto sentido"?
+<a1>Psicólogo infantil
+<a2>Detective
+<a3>Profesor de colegio
+<a4>Abogado
+
+<q>¿Cómo se llama el protagonista en la película "Kung Fu Panda"?
+<a1>Po
+<a2>Alex
+<a3>Vitaly
+<a4>Barry
+
+<q>¿Cuál es el primer crimen que cometen las protagonistas en la película "Thelma y Louise"?
+<a1>Asesinato
+<a2>Robo
+<a3>Tráfico de drogas
+<a4>Secuestro
+
+<q>¿Qué sueño cumple Judy al principio de la película "Zootrópolis" ("Zootopia")?
+<a1>Convertirse en una agente de policía
+<a2>Casarse
+<a3>Viajar a  Zootrópolis
+<a4>Convertirse en una adulta
+
+<q>¿En cuál de estas películas aparece un asesino en serie caníbal?
+<a1>El silencio de los corderos
+<a2>American Psycho
+<a3>Zodiac
+<a4>El coleccionista de huesos (The Bone Collector)
+
+<q>¿En cuál de estas películas hay una máquina que convierte el agua en comida?
+<a1>Lluvia de albóndigas (Cloudy with a Chance of Meatballs)
+<a2>Shrek 2
+<a3>Chicken Little
+<a4>El espantatiburones (Shark Tale)
+
+<q>¿Cómo se llama la princesa en la película de animación de Disney "La bella durmiente"?
+<a1>Aurora
+<a2>Mérida
+<a3>Bella
+<a4>Tiana
+
+<q>¿Qué rapero interpreta al protagonista en la película "8 Millas" ("8 Mile")?
+<a1>Eminem
+<a2>Kanye West
+<a3>Dr. Dre
+<a4>50 Cent
+
+<q>¿Quién dirigió la película "Eduardo Manostijeras" ("Edward Scissorhands")?
+<a1>Tim Burton
+<a2>Quentin Tarantino
+<a3>Steven Spielberg
+<a4>Woody Allen
+
+<q>¿Cuál de estas películas se estrenó antes en cines?
+<a1>Frozen: El reino del hielo
+<a2>Capitán América: Civil War
+<a3>Marte (The Martian)
+<a4>Star Wars: Episodio VII - El despertar de la Fuerza
+
+<q>¿En cuál de estas películas no aparece el personaje Lobezno de X-Men?
+<a1>Justice League
+<a2>Logan
+<a3>Lobezno inmortal (The Wolverine)
+<a4>X-Men: Apocalipsis
+
+<q>¿En qué año se estrenó en cines la película "La Ciudad de las Estrellas. La La Land"?
+<a1>2016
+<a2>2013
+<a3>2010
+<a4>2007
+
+<q>¿Dónde se desarrolla la película de animación de Disney "Vaiana" ("Moana")?
+<a1>En la Polinesia
+<a2>En el Caribe
+<a3>En Madagascar
+<a4>En Vietnam
+
+<q>¿Cómo se llama el protagonista en la película "Emoji: la película" ("The Emoji Movie")?
+<a1>Gene
+<a2>Alex
+<a3>Steven
+<a4>Mel
+
+<q>¿En qué año se estrenó en cines la película "Avatar"?
+<a1>2009
+<a2>2012
+<a3>2006
+<a4>2015
+
+<q>¿De qué país ficticio es el protagonista en la película "Black Panther"?
+<a1>Wakanda
+<a2>Atlantis
+<a3>K'un-Lun
+<a4>Symkaria
+
+<q>¿En cuál de estas películas de Disney hay un personaje llamado Strómboli?
+<a1>Pinocho
+<a2>Bambi
+<a3>Los aristogatos
+<a4>Robin Hood
+
+<q>¿Cuál de estas películas cuenta la historia de cómo se hizo la película "The Room"?
+<a1>The Disaster Artist
+<a2>La forma del agua (The Shape of Water)
+<a3>Lady Bird
+<a4>Déjame salir (Get Out)
+
+<q>¿Cuál es el objetivo de Thanos en la película "Vengadores: Infinity War" ("Avengers: Infinity War")?
+<a1>Matar a la mitad de la vida del universo
+<a2>Resucitar a su esposa
+<a3>Volverse inmortal
+<a4>Hacer que los Vengadores paguen por sus crímenes
+
+<q>¿Por qué no pueden hacer ruido los protagonistas en la película "Un lugar tranquilo" ("A Quiet Place")?
+<a1>Porque atrae monstruos
+<a2>Porque es ilegal
+<a3>Porque son fantasmas
+<a4>Porque se convierten en piedra
+
+<q>¿A qué deporte ficticio juega la protagonista en la película "Alita: Battle Angel"?
+<a1>Motorball
+<a2>Blitzball
+<a3>Videoball
+<a4>Triple Triad
+
+<q>¿Con qué compara Shrek a los ogros en la película "Shrek"?
+<a1>Cebollas
+<a2>Pasteles
+<a3>Manzanas
+<a4>Café
+
+<q>¿En qué ciudad vive el protagonista al principio de la película "Joker"?
+<a1>Gotham
+<a2>Metropolis
+<a3>Fawcett
+<a4>Nueva York
+
+<q>¿Cómo se llama el payaso en la película "It"?
+<a1>Pennywise
+<a2>Krusty
+<a3>Capitán Spaulding
+<a4>Joker
+
+<q>¿Qué dos papas protagonizan la película "The Two Popes"?
+<a1>Benedicto XVI y Francisco
+<a2>Juan Pablo II y Benedicto XVI
+<a3>Juan Pablo I y Juan Pablo II
+<a4>Juan Pablo II y Francisco
+
+<q>¿De qué color es la piel del protagonista en la película "Megamind"?
+<a1>Azul
+<a2>Blanca
+<a3>Negra
+<a4>Verde

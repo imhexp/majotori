@@ -1,0 +1,110 @@
+<a>
+    <img>nikola/nikola
+    <txt>Nikola se puso su traje formal y llegó a la fiesta de empresa.
+    <img>nikola/costume_party
+    <txt>Solo para descubrir que no era una fiesta normal, sino una de disfraces.
+    <txt>¿Y ahora qué?
+    <txt>No tenía un disfraz y ya llegaba un poco tarde.
+    <txt>Cuando toda esperanza estaba perdida, vió algo que no podía creer.
+    <img>nikola/nikola_sees_lariat
+    <txt>Al otro lado de la calle había una chica disfrazada de bruja.
+    <txt>Nikola corrió hacia ella.
+    <img>nikola/nikola_deal
+    <txt>"¡Oye, chica! ¡Necesito que me hagas un favor enorme!", le dijo.
+    <txt>"Oh... Esto es raro", dijo la chica, pareciendo confundida.
+    <txt>"Ahora mismo estoy con otra persona. Espera un minuto y cumpliré tu deseo."
+    <img>nikola/nikola_wallet
+    <txt>Nikola esperó, preparando el dinero para ofrecerle a la chica a cambio de su disfraz.
+    <img>nikola/nikola_deal2
+    <txt>Pero resultó que la chica no quería su dinero.
+    <txt>En su lugar, le ofreció a Nikola la oportunidad de ganar su disfraz jugando con ella a un juego de trivia.
+    <quiz>
+</a>
+
+<a1>
+	<txt>"Felicidades", dijo Lariat.
+    <img>nikola/nikola_lariat_strip
+    <txt>Y luego se desvistió.
+    <txt>Justo ahí, en medio de la calle, sin pensárselo dos veces.
+	<img>nikola/nikola_lariat_strip2
+    <txt>Eso la dejó impresionada.
+    <img>nikola/nikola_party
+    <txt>Nikola se puso el disfraz y fue a la fiesta.
+    <txt>Todo el mundo halagó su disfraz, pero ella estaba distraída, pensando en Lariat.
+</a1>
+
+<a1a>
+    <img>nikola/nikola2
+    <txt>Desde que Lariat se le desvistió delante, Nikola no había podido dejar de pensar en ella.
+    <txt>A lo mejor estaba enamorada.
+    <txt>Todavía tenía su disfraz de bruja. Eso sería una buena excusa para volver a verla.
+    <img>nikola/nikola_date_deal
+    <txt>"¿Me devuelves mi ropa, entonces?", preguntó Lariat, apareciendo de la nada.
+    <txt>¡No era solo un disfraz! ¡Era una bruja de verdad!
+    <txt>"¡Déjame llevarte a cenar!", le pidió Nikola.
+    <txt>"Si ese es tu deseo, ya conoces las reglas", contestó Lariat.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Felicidades", dijo Lariat.
+    <txt>"Volveré por la noche", añadió, y luego desapareció.
+    <img>nikola/nikola_lariat_dinner
+    <txt>Tomaron unos platos deliciosos en un restaurante elegante.
+    <txt>Lariat le contó historias interesantes sobre sus tratos de bruja.
+    <img>nikola/nikola_portal
+    <txt>Cuando terminaron, Lariat la acompañó a casa.
+    <txt>"¿Quieres subir?", ofreció Nikola.
+    <txt>"Podemos jugar a trivia... y lo que surja."
+    <img>nikola/lariat_portal
+    <txt>"Vale."
+</a1a1>
+
+<a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego cogió su ropa y desapareció.
+    <img>nikola/nikola_sad
+    <txt>Nikola sintió como si le hubiesen roto el corazón.
+    <img>nikola/nikola_pie
+    <txt>Para superar el rechazo, se hinchó a comer pasteles.
+</a1a0>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>nikola/nikola_party_bad
+    <txt>Nikola no tuvo otra opción más que ir a la fiesta sin disfraz.
+    <txt>Bromeó diciendo que iba disfrazada de ejecutiva, pero a sus colegas no les hizo gracia y dijeron que estaba arruinando el ambiente.
+    <txt>Todos le ignoraron durante el resto de la fiesta.
+</a0>
+
+<a0a>
+    <img>nikola/nikola_drunk
+    <txt>Nikola estaba deprimida, así que bebió mucho en la fiesta de empresa.
+    <img>nikola/nikola_bed
+    <txt>A la mañana siguiente se despertó en una cama desconocida.
+    <img>nikola/nikola_bed_boss
+    <txt>Con su jefa.
+    <img>nikola/nikola_bed_sit
+    <txt>No podía ser cierto.
+    <txt>Eso no podía estar pasando.
+    <img>nikola/nikola_bed_deal
+    <txt>"Vamos a arreglar este horrible error", dijo Lariat, apareciendo de la nada.
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <txt>"Ahora despiértate."
+    <img>nikola/nikola_bed2
+    <txt>Nikola se despertó en su cama, cubierta en sudor.
+    <txt>¿Había sido todo un sueño?
+    <txt>¡Claro que sí! ¡Las brujas no existen!
+</a0a1>
+
+<a0a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>nikola/nikola_bed_sit_boss
+    <txt>En ese momento, su jefa se despertó.
+    <txt>"¿Todavía estás aquí?", le preguntó.
+    <txt>"Por cierto, sabes que esto va contra la política de la empresa, ¿no?", añadió.
+    <txt>"Espero tu dimisión para mañana."
+</a0a0>

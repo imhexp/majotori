@@ -1,0 +1,110 @@
+<a>
+    <img>nikola/nikola
+    <txt>Nikola dressed up in her formal attire and arrived at the company party.
+    <img>nikola/costume_party
+    <txt>Only for her to find out that it was not a formal party, but a costumed one.
+    <txt>Now what?
+    <txt>She had no costume and was already coming in a bit late.
+    <txt>When all hope was lost, she saw something she couldn't believe.
+    <img>nikola/nikola_sees_lariat
+    <txt>At the other side of the street there was a girl dressed as a witch.
+    <txt>Nikola ran towards her.
+    <img>nikola/nikola_deal
+    <txt>"Hey, girl! I need you to do me a big favor!", she said.
+    <txt>"Oh... This is awkward", said the girl, looking confused.
+    <txt>"I'm with someone else right now. Wait a minute and I'll make your wish come true."
+    <img>nikola/nikola_wallet
+    <txt>Nikola waited, preparing the money to offer the girl in exchange for her costume.
+    <img>nikola/nikola_deal2
+    <txt>But it turned out the girl didn't want her money.
+    <txt>Instead, she offered Nikola a chance to win her costume by playing a trivia game.
+    <quiz>
+</a>
+
+<a1>
+	<txt>"Congratulations", said Lariat.
+    <img>nikola/nikola_lariat_strip
+    <txt>And then she stripped.
+    <txt>Right there, in the middle of the street, without second thought.
+	<img>nikola/nikola_lariat_strip2
+    <txt>That left an impression on Nikola.
+    <img>nikola/nikola_party
+    <txt>She put the costume on and went into the party.
+    <txt>Everyone complimented her on her costume, but she was distracted, thinking about Lariat.
+</a1>
+
+<a1a>
+    <img>nikola/nikola2
+    <txt>Ever since Lariat had stripped before her, Nikola hadn't been able to stop thinking about her.
+    <txt>Maybe she was in love.
+    <txt>She still had her witch costume. That would make for a good excuse to see her again.
+    <img>nikola/nikola_date_deal
+    <txt>"Can I have my clothes back, then?", asked Lariat, appearing out of nowhere.
+    <txt>It was not just a costume! She was an actual witch!
+    <txt>"Let me take you out to dinner!", asked Nikola.
+    <txt>"If that's your wish, you know the rules", replied Lariat.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Congratulations", said Lariat.
+    <txt>"I'll come back at night", she added, and then disappeared.
+    <img>nikola/nikola_lariat_dinner
+    <txt>They had a delicious meal at a fancy restaurant.
+    <txt>Lariat recounted amusing stories about her witch deals.
+    <img>nikola/nikola_portal
+    <txt>When they finished, Lariat accompanied her home.
+    <txt>"Do you want to come up?", Nikola offered.
+    <txt>"We can play trivia... and maybe more."
+    <img>nikola/lariat_portal
+    <txt>"OK."
+</a1a1>
+
+<a1a0>
+    <txt>"Sorry", said Lariat, and then she grabbed her clothes and vanished.
+    <img>nikola/nikola_sad
+    <txt>Nikola felt as if her heart had been broken.
+    <img>nikola/nikola_pie
+    <txt>She stuffed herself with pies to overcome her being rejected.
+</a1a0>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>nikola/nikola_party_bad
+    <txt>Nikola had no option but to go to the party without a costume.
+    <txt>She jokingly said that she was wearing an executive costume, but her peers didn't find it funny and said she was ruining the mood.
+    <txt>They ignored her for the rest of the party.
+</a0>
+
+<a0a>
+    <img>nikola/nikola_drunk
+    <txt>Nikola was depressed, so she drank a lot at the company party.
+    <img>nikola/nikola_bed
+    <txt>The next morning she woke up in an unfamiliar bed.
+    <img>nikola/nikola_bed_boss
+    <txt>With her boss.
+    <img>nikola/nikola_bed_sit
+    <txt>This couldn't be true.
+    <txt>This couldn't be happening.
+    <img>nikola/nikola_bed_deal
+    <txt>"Let's fix this horrible mistake", said Lariat, appearing on the bed.
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Congratulations", said Lariat.
+    <txt>"Now wake up."
+    <img>nikola/nikola_bed2
+    <txt>Nikola woke up in her bed, covered in sweat.
+    <txt>Had it all been just a dream?
+    <txt>Of course! Witches don't exist!
+</a0a1>
+
+<a0a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>nikola/nikola_bed_sit_boss
+    <txt>Just then, her boss woke up.
+    <txt>"Are you still here?", she asked.
+    <txt>"By the way, you know this goes against company policy, don't you?", she added.
+    <txt>"I expect your resignation by tomorrow."
+</a0a0>

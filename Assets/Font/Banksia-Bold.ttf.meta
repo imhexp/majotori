@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: adc4ad7ad8a7cce42ac3ab96e60ffad4
+timeCreated: 1711490194
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  name:
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Banksia
+  fontNames:
+  - Banksia
+  fallbackFontReferences:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 12800000, guid: e8c7e28a3ca431c4abadcbec22275b28, type: 3}
+  - {fileID: 12800000, guid: 37d7a8304b7135e4abe2861cbabf3296, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

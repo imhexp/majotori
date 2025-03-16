@@ -1,0 +1,85 @@
+<a>
+    <img>hector_ingrid/hector
+    <txt>Hector loved video games, but he was trapped in this boring world.
+    <txt>If only he could live in a magical world, fighting monsters and finding treasure...
+    <img>hector_ingrid/hector_afraid
+    <txt>"I can make your wish come true", said Lariat, appearing out of nowhere.
+    <txt>"Ah! A witch!", screamed Hector.
+    <txt>"You wish to fight monsters but you're afraid of a witch?", asked Lariat.
+    <img>hector_ingrid/hector_deal
+    <txt>Hector calmed down and made a deal with her.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>hector_ingrid/email
+    <txt>Hector received an email from a video game company.
+    <txt>He had been selected to play the beta of a new virtual reality system!
+    <txt>It was a system so advanced it put you on a dreamlike state to immerse you 100%!
+    <img>hector_ingrid/hector_setting
+    <txt>When Hector received the package, he set the system up as quickly as he could and started playing it.
+    <img>hector_ingrid/hector_magical_world
+    <txt>The system transported him to a magical online world!
+    <txt>But the good news didn't end there.
+    <txt>The game had a bug that prevented anyone from logging out.
+    <txt>And if someone took your helmet off without properly logging you out, you would die in real life.
+    <txt>That meant his parents couldn't force him to go back to the real world!
+    <img>hector_ingrid/hector_hospital
+    <txt>His physical body was taken into a hospital to keep him alive.
+    <img>hector_ingrid/hector_magical_world2
+    <txt>For all intents and purposes, Hector was now living in a magical world full of monsters to fight and treasure to find.
+</a1>
+
+<a1a>
+    <img>hector_ingrid/ingrid
+    <txt>Ingrid had been trapped inside a virtual reality video game for months now.
+    <txt>A bug in the game prevented players from logging out.
+    <txt>But there was a rumor that if the energy crystal was broken, the world would reset itself and everyone would be forced to log out.
+    <img>hector_ingrid/tower
+    <txt>Ingrid made her way through the monsters guarding every floor of the tower in which the energy crystal was hidden.
+    <img>hector_ingrid/hector_vs_ingrid
+    <txt>But when she reached the top, another player tried to stop her!
+    <txt>The horrid design of his weapons denoted their great power.
+    <txt>"I like living in here! I won't let you ruin it!", he said.
+    <img>hector_ingrid/hector_vs_ingrid2
+    <txt>They fought an epic battle.
+    <img>hector_ingrid/hector_defeated
+    <txt>And in the end Ingrid won.
+    <img>hector_ingrid/crystal_break
+    <txt>She destroyed the crystal, wishing for it to work and end that nightmare.
+    <img>hector_ingrid/crystal_lariat
+    <txt>Instead of the world resetting, a witch appeared.
+    <txt>"Your wish sort of contradicts with another person's wish", she said.
+    <txt>"But since he's dead now, I guess we can sort this out."
+    <txt>"Answer my questions correctly if you want to go back to the real world!"
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>hector_ingrid/ingrid_hospital
+    <txt>Ingrid woke up in a hospital room.
+    <txt>She was free at last!
+    <txt>She also became a heroine for having saved everyone else!
+</a1a1>
+
+<a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>hector_ingrid/ingrid_sad
+    <txt>Nothing else happened after that.
+    <txt>The bug was never fixed.
+    <img>hector_ingrid/ingrid_dead
+    <txt>Ingrid eventually died in combat.
+</a1a0>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>hector_ingrid/hector_parents
+    <txt>That night one of his parents came back with bad news.
+    <txt>He had been fired and now they weren't able to meet their expenses.
+    <img>hector_ingrid/hector_job
+    <txt>Hector was forced to find a job.
+    <txt>When he came back home, he was so tired he didn't even want to play video games.
+    <txt>Instead, he complained about them on internet forums.
+</a0>

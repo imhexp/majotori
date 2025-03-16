@@ -1,0 +1,173 @@
+<a>
+    <img>woolie_xiang/woolie
+    <txt>Woolie era un fracasado sin futuro.
+    <txt>Dejó los estudios tras el instituto y no había hecho nada productivo desde entonces.
+    <txt>Era vago y se pasaba el día jugando a videojuegos.
+    <txt>Era cuestión de tiempo que se viese forzado a trabajar en un empleo descorazonador y mal pagado.
+    <txt>Pero, ¿y si hiciese su modo de vida rentable?
+    <txt>Estaba en la era de internet y sabía bastante de videojuegos.
+    <txt>Si consiguiese crear un canal de vídeos popular, podría ganarse la vida.
+    <img>woolie_xiang/woolie_pc
+    <txt>Decidido, Woolie se grabó jugando, editó el vídeo y lo subió a internet.
+    <img>woolie_xiang/screen_lariat
+    <txt>Estaba centrado en el contador de visitas, deseando que subiese con tanta fuerza que apareció una bruja en la pantalla.
+    <txt>Lariat le ofreció el mejor trato de su vida.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>woolie_xiang/woolie_pc_happy
+    <txt>¡Cuando Woolie volvió a mirar al contador, su vídeo tenía más de mil visitas! 
+    <txt>Poco después se hizo viral y el contador llegó a un millón.
+    <txt>Woolie se hizo famoso al instante y ganó una masa de seguidores.
+    <txt>Su futuro era cegadoramente brillante.
+</a1>
+
+<a1a>
+    <img>woolie_xiang/woolie_lper
+    <txt>Había pasado un año desde que Woolie se había convertido en un jugador y comentador famoso, y estaba empezando a quedarse estancado.
+    <img>woolie_xiang/woolie_pc_sad
+    <txt>Cada día tenía menos seguidores que el anterior, y el grupo de gente que le despreciaba abiertamente iba creciendo.
+    <txt>Tenía que hacer algo ahora, antes de que perdiese toda su popularidad.
+    <txt>Deseó haberle pedido su email a aquella bruja.
+    <img>woolie_xiang/screen_lariat
+    <txt>"¿Deseas mi email?", preguntó Lariat, apareciendo en la pantalla del ordenador.
+    <txt>"¡Deseo salvar mi carrera!", le contestó.
+    <txt>"Ya conoces el trato", dijo Lariat, y el trivia empezó.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>woolie_xiang/woolie_pc_happy
+    <txt>Poco después, Woolie recibió un email.
+    <txt>Era de una famosa productora.
+    <txt>Estaban preparando un concurso de preguntas de videojuegos y querían que Woolie fuese el presentador.
+    <txt>¡Eso renovaría su imagen y le daría un empujón impresionante a su carrera!
+</a1a1>
+
+<a1a1a>
+    <img>woolie_xiang/quiz_show
+    <txt>Xiang estaba apunto de ganar un montón de dinero en un concurso de preguntas.
+    <txt>Solo necesitaba contestar a la última pregunta correctamente.
+    <txt>"¿Es esa tu respuesta final?", preguntó el presentador.
+    <txt>"¡Veremos si es correcta después de esta pausa para la publicidad!"
+    <txt>Xiang aprovechó la oportunidad para ir al lavabo.
+    <img>woolie_xiang/xiang_toilet
+    <txt>Estaba a punto de vomitar por la presión.
+    <img>woolie_xiang/xiang_deal
+    <txt>Deseó tan fuerte que su respuesta fuese correcta que una bruja apareció detrás de ella.
+    <txt>Lariat le ofreció un trato, pero Xiang estaba confundida.
+    <txt>"¿Me estás pidiendo que responda correctamente a tus preguntas para que mi respuesta a aquella pregunta sea correcta?", le preguntó.
+    <txt>"Suena complicado si lo dices así", le contestó Lariat.
+    <txt>Al final, Xiang aceptó el trato y el trivia empezó.
+    <quiz>
+</a1a1a>
+
+<a1a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>woolie_xiang/quiz_show
+    <txt>Xiang volvió al plató y se reanudó el programa.
+    <txt>Tras una larga pausa, se anunció el resultado.
+    <img>woolie_xiang/quiz_show_win
+    <txt>¡Su respuesta era correcta!
+    <txt>¡Ahora Xiang era rica!
+</a1a1a1>
+
+<a1a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>woolie_xiang/quiz_show
+    <txt>Xiang volvió al plató y se reanudó el programa.
+    <txt>Tras una larga pausa, se anunció el resultado.
+    <img>woolie_xiang/quiz_show_lose
+    <txt>Su respuesta resultó ser incorrecta.
+    <txt>Se volvió a casa con las manos vacías.
+</a1a1a0>
+
+<a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>woolie_xiang/woolie_overdo
+    <txt>Desesperado, Woolie empezó a exagerar sus reacciones y a meter chistes forzados en sus vídeos.
+    <txt>Incluso se tiñó el pelo de verde para darse un nuevo look.
+    <img>woolie_xiang/woolie_pc_sad_green
+    <txt>Pero eso solo le hizo perder fans a un ritmo mayor.
+    <txt>Al poco tiempo ya no le importaba a nadie y cayó en el olvido.
+    <txt>Su vida arruinada.
+</a1a0>
+
+<a1a0a>
+    <img>woolie_xiang/quiz_show_alt
+    <txt>Xiang estaba apunto de ganar un montón de dinero en un concurso de preguntas.
+    <txt>Solo necesitaba contestar a la última pregunta correctamente.
+    <txt>"¿Es esa tu respuesta final?", preguntó el presentador.
+    <txt>"¡Veremos si es correcta después de esta pausa para la publicidad!"
+    <txt>Xiang aprovechó la oportunidad para ir al lavabo.
+    <img>woolie_xiang/xiang_toilet
+    <txt>Estaba a punto de vomitar por la presión.
+    <img>woolie_xiang/xiang_deal
+    <txt>Deseó tan fuerte que su respuesta fuese correcta que una bruja apareció detrás de ella.
+    <txt>Lariat le ofreció un trato, pero Xiang estaba confundida.
+    <txt>"¿Me estás pidiendo que responda correctamente a tus preguntas para que mi respuesta a aquella pregunta sea correcta?", le preguntó.
+    <txt>"Suena complicado si lo dices así", le contestó Lariat.
+    <txt>Al final, Xiang aceptó el trato y el trivia empezó.
+    <quiz>
+</a1a0a>
+
+<a1a0a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>woolie_xiang/quiz_show_alt
+    <txt>Xiang volvió al plató y se reanudó el programa.
+    <txt>Tras una larga pausa, se anunció el resultado.
+    <img>woolie_xiang/quiz_show_win_alt
+    <txt>¡Su respuesta era correcta!
+    <txt>¡Ahora Xiang era rica!
+</a1a0a1>
+
+<a1a0a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>woolie_xiang/quiz_show_alt
+    <txt>Xiang volvió al plató y se reanudó el programa.
+    <txt>Tras una larga pausa, se anunció el resultado.
+    <img>woolie_xiang/quiz_show_lose_alt
+    <txt>Su respuesta resultó ser incorrecta.
+    <txt>Se volvió a casa con las manos vacías.
+</a1a0a0>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>woolie_xiang/woolie_pc_sad
+    <txt>Cuando Woolie volvió a mirar al contador, su vídeo tenía solo dos visitas.
+    <txt>Al día siguiente estaba en cinco, y ya no volvió a subir.
+    <img>black
+    <txt>El futuro de Woolie era completamente negro.
+</a0>
+
+<a0a>
+    <img>woolie_xiang/woolie_theatre
+    <txt>Woolie encontró un trabajo como parte del equipo de limpieza en un cine local.
+    <txt>Ya hacía seis meses desde que trabajaba allí.
+    <txt>Ese día iba a haber una reunión.
+    <txt>Los rumores decían que iban a hacer reasignaciones y ascensos.
+    <img>woolie_xiang/woolie_theatre_deal
+    <txt>Deseaba tan fuerte que le ascendiesen que Lariat volvió a aparecer.
+    <txt>Hicieron el trato y empezó el juego.
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>woolie_xiang/woolie_meeting
+    <txt>La reunión empezó y se anunció su ascenso.
+    <img>woolie_xiang/woolie_popcorn
+    <txt>Ahora Woolie trabajaría de cajero en el puesto de palomitas.
+    <txt>¡Genial!
+</a0a1>
+
+<a0a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>woolie_xiang/woolie_meeting
+    <txt>La reunión empezó y se anunció su reasignación.
+    <img>woolie_xiang/woolie_bathroom
+    <txt>Ahora Woolie estaría a cargo de limpiar los retretes.
+</a0a0>

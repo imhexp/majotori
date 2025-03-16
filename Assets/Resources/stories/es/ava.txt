@@ -1,0 +1,457 @@
+<a>
+    <img>ava/baby_ava
+    <txt>Nació una niña, su nombre Ava.
+    <txt>Ava creció con su madre; nunca conoció a su padre.
+    <img>ava/magical_princesses
+    <txt>Su madre siempre le contaba historias sobre princesas que vivían en reinos mágicos.
+    <txt>Un día, Ava decidió que quería ser una princesa.
+    <txt>Cerró los ojos y lo deseó muy fuerte.
+    <img>ava/little_witch_appears
+    <txt>Cuando los volvió a abrir, vio a una brujita delante de ella.
+    <txt>"Soy Lariat la Bruja, y he venido a ofrecerte un trato", le dijo.
+    <txt>"Juega a un juego de trivia conmigo y haré que se cumpla tu deseo."
+    <txt>"Pero cada respuesta incorrecta aumentará las posibilidades de que ocurra algo malo en su lugar."
+    <txt>Con algo de duda en su corazón, Ava aceptó el trato y el trivia empezó.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>ava/king_and_press
+    <txt>Al día siguiente, el rey fue a casa de Ava, rodeado por la prensa.
+    <txt>El rey afirmó ser el padre secreto de Ava, y le pidió a su madre que fuese a vivir con él.
+    <txt>Puesto que su padre era un rey, ¡resultó que Ava era una princesa!
+</a1>
+
+<a1a>
+    <img>ava/teen_princess
+    <txt>La princesita Ava vivía rodeada de lujo en el palacio real.
+    <txt>Un día, Ava se dio cuenta de que ella admiraba a las princesas de las historias, pero nadie la admiraba a ella.
+    <txt>Ava cerró los ojos y deseó volverse bella, sabia y grácil para así ser una princesa admirada.
+    <img>ava/teen_princess_deal
+    <txt>Cuando los volvió a abrir, allí estaba Lariat.
+    <txt>Ava aceptó el trato una vez más.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>ava/teen_princess
+    <txt>En los años siguientes, la adolescencia golpeó a Ava con fuerza.
+    <img>ava/fairest_princess
+    <txt>¡Ava se convirtió en la más bella de las princesas!
+    <txt>También desarrolló un gusto fuerte por los estudios y la política.
+    <txt>La gente decía que era increíblemente sabia y madura para su edad.
+    <img>ava/princess_magazines
+    <txt>Pronto fue admirada alrededor del mundo, apareciendo frecuentemente en televisión, periódicos y revistas.
+</a1a1>
+
+<a1a1a>
+    <img>ava/princess_interview
+    <txt>Un día, la princesa Ava fue entrevistada por un reportero joven y simpático.
+    <txt>Mantuvieron una conversación muy interesante en la que desarrollaron sentimientos mutuos.
+    <img>ava/angry_parents
+    <txt>Empezaron a salir juntos, pero cuando sus padres se enteraron no les hizo gracia.
+    <txt>"Un reportero de clase baja no es adecuado para una princesa", dijo su padre.
+    <txt>Ava cerró los ojos y deseó que sus padres aceptasen su relación.
+    <img>ava/fair_princess_deal
+    <txt>Y allí estaba Lariat.
+    <quiz>
+</a1a1a>
+
+<a1a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>ava/angry_parents
+    <txt>Ava corrió hacia sus padres. Ahora tenían que aceptar su relación.
+    <txt>"Un reportero de clase baja no es adecuado para una princesa", repitió su padre.
+    <img>ava/reporter_knight
+    <txt>"¡Por eso voy a nombrarle caballero!", añadió.
+    <txt>Poco después, el caballero reportero le pidió a Ava su mano en matrimonio.
+    <img>ava/princess_wedding
+    <txt>Ella dijo sí y sus padres lo aceptaron.
+    <txt>Fue una boda preciosa. La gente estuvo hablando de ella durante meses.
+</a1a1a1>
+
+<a1a1a1a>
+    <img>ava/fairest_princess2
+    <txt>La princesa Ava era muy feliz, pero había algo que podía hacerla aún más feliz.
+    <txt>¡Un bebé!
+    <img>ava/mildlife_princess_deal
+    <txt>"¿Quieres un poco de ayuda con eso?", dijo Lariat, apareciendo de la nada.
+    <txt>Ava aceptó el trato una vez más.
+    <quiz>
+</a1a1a1a>
+
+<a1a1a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>ava/romantic_dinner
+    <txt>Esa noche su marido la sorprendió con una cena romántica.
+    <img>ava/baby_prince
+    <txt>¡Nueve meses después, Ava tuvo un bebé! ¡Era un chico!
+</a1a1a1a1>
+
+<a1a1a1a1a>
+    <img>ava/princess_sad
+    <txt>Cuanto más crecía su hijo, más dudaba Ava de sí misma como madre.
+    <txt>¿Lo estaba educando bien? ¿No se volvería mimado si le daba tanta atención?
+    <txt>¿Dónde está Lariat?
+    <img>ava/here_is_lariat
+    <txt>Oh, ahí está.
+    <quiz>
+</a1a1a1a1a>
+
+<a1a1a1a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>ava/baby_prince
+    <txt>De repente, Ava sintió una oleada de confianza sobre sus habilidades maternales.
+    <img>ava/piano_prince
+    <txt>Su hijo creció sano y era educado, listo y muy habilidoso. Le encantaba tocar el piano.
+</a1a1a1a1a1>
+
+<a1a1a1a1a1a>
+    <img>ava/old_princess
+    <txt>Ava vivió una buena vida y acabó convirtiéndose en una anciana.
+    <txt>Entonces decidió pedir un último deseo: nietos.
+    <img>ava/old_princess_deal
+    <txt>"A lo mejor podría jugar con ellos", dijo la pequeña Lariat.
+    <txt>"Como soy una bruja, puedo cambiar mi apariencia mágicamente", explicó.
+    <txt>El trato se aceptó sin ni siquiera ser ofrecido.
+    <quiz>
+</a1a1a1a1a1a>
+
+<a1a1a1a1a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>ava/prince_and_girlfriend
+    <txt>Poco después, su hijo se le propuso a su novia y se casaron.
+    <txt>Nueve meses después, el último deseo de Ava se hizo realidad.
+    <img>ava/baby_twin_princesses
+    <txt>¡Una parejita de gemelas!
+    <img>ava/deathbed_princess
+    <txt>Ava vivió sus últimos años feliz como una abuelita querida por todos.
+    <txt>Murió apaciblemente de vejez.
+    <txt>En sus últimos momentos tuvo una visión de Lariat.
+    <img>ava/last_vision
+    <txt>"Tal vez volvamos a jugar en otra vida", susurró Lariat, y luego desapareció.
+</a1a1a1a1a1a1>
+
+<a1a1a1a1a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>ava/prince_and_girlfriend
+    <txt>Poco después, su hijo se le propuso a su novia y se casaron.
+    <img>ava/baby_granddaughter
+    <txt>Nueve meses después, el último deseo de Ava se hizo realidad.
+    <txt>¡Era una niñita!
+    <img>ava/prince_hospital
+    <txt>Pero la mujer de su hijo murió en el parto.
+    <txt>Destrozado por su pérdida, su hijo cayó en una profunda depresión.
+    <txt>Se fue del palacio y se negó a ver a su hija.
+    <txt>Ava y su marido tuvieron que criar a su nieta ellos mismos.
+	<txt>Fueron tiempos duros y problemáticos.
+</a1a1a1a1a1a0>
+    
+<a1a1a1a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>ava/baby_prince
+    <txt>Ava leyó un montón de libros de paternidad e hizo todo lo que pudo para ser una buena madre.
+    <img>ava/shy_prince
+    <txt>Su hijo creció sano, pero era muy tímido.
+</a1a1a1a1a0>
+
+<a1a1a1a1a0a>
+    <img>ava/old_princess
+    <txt>Ava vivió una buena vida y acabó convirtiéndose en una anciana.
+    <txt>Pero su hijo era tan introvertido y dependiente de ella que estaba preocupada.
+    <txt>¿Qué sería de él cuando ella ya no estuviese?
+    <txt>Ava decidió pedir un último deseo: Que su hijo conociese a alguien especial.
+    <img>ava/old_princess_deal_mature
+    <txt>"Hagámoslo", dijo Lariat, y empezó el trivia.
+    <quiz>
+</a1a1a1a1a0a>
+
+<a1a1a1a1a0a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>ava/shy_prince_butler
+    <txt>Poco después, el servicio de palacio contrató a un mayordomo de combate para proteger y asistir al príncipe.
+    <txt>Ava pensó que se llevarían bien, pero el príncipe estaba asustado de él.
+    <img>ava/shy_prince_ninjas
+    <txt>Una noche, el príncipe se despertó en medio de una escena de acción.
+    <txt>¡Estaba siendo atacado por ninjas asesinos, pero el mayordomo de combate estaba luchando con ellos!
+    <img>ava/shy_prince_ninjas_love
+    <txt>De repente ya no estaba asustado de él.
+    <txt>De hecho, un nuevo y cálido sentimiento brotó en su corazón.
+    <txt>¿Era amor?
+    <img>ava/old_princess_ninjas1
+    <txt>"Seguro que serán felices juntos", dijo Lariat.
+	<txt>"Es una pena que nosotros no tuviésemos a un mayordomo de combate protegiéndonos", respondió Ava.
+    <img>ava/old_princess_ninjas2
+    <txt>"Sí..."
+	<txt>"De todas formas, ya estabas bastante vieja", dijo Lariat.
+	<txt>A veces no era exactamente la bruja más sensible.
+</a1a1a1a1a0a1>
+
+<a1a1a1a1a0a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>ava/shy_prince_pc
+    <txt>Ava intentó que su hijo conociese a más gente, pero eso provocó el efecto contrario.
+    <txt>Se volvió aún más introvertido y se pasaba el día encerrado en su habitación jugando al ordenador.
+    <txt>Un día, Ava fue a hablar con él.
+    <txt>Le dijo que verle siempre solo le ponía triste.
+    <img>ava/shy_prince_waifu
+    <txt>"¡Oh, no estoy solo! ¡Estoy con mi waifu!", contestó.
+    <txt>"No te preocupes por mi. El mundo 2D me gusta más que el mundo 3D", le explicó.
+    <txt>Ava no acababa de entenderlo.
+    <img>ava/old_princess_pc
+    <txt>Ava dejó la mayoría de asuntos públicos en manos de su marido y le dedicó sus últimos años a intentar entender mejor a su hijo.
+</a1a1a1a1a0a0>
+
+<a1a1a1a1a0b>
+    <img>ava/old_princess
+    <txt>Ava vivió una buena vida y acabó convirtiéndose en una anciana.
+    <txt>Pero su hijo era tan introvertido y dependiente de ella que estaba preocupada.
+    <txt>¿Qué sería de él cuando ella ya no estuviese?
+    <txt>Ava decidió pedir un último deseo: Que su hijo conociese a alguien especial.
+    <img>ava/old_princess_deal_mature
+    <txt>"Hagámoslo", dijo Lariat, y el trivia empezó.
+    <quiz>
+</a1a1a1a1a0b>
+
+<a1a1a1a1a0b1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>ava/shy_prince_butler
+    <txt>Poco después, el servicio de palacio contrató a un mayordomo de combate para proteger y asistir al príncipe.
+    <txt>Ava pensó que se llevarían bien, pero el príncipe estaba asustado de él.
+    <img>ava/shy_prince_ninjas
+    <txt>Una noche, el príncipe se despertó en medio de una escena de acción.
+    <txt>¡Estaba siendo atacado por ninjas asesinos, pero el mayordomo de combate estaba luchando con ellos!
+    <img>ava/shy_prince_ninjas_love
+    <txt>De repente ya no estaba asustado de él.
+    <txt>De hecho, un nuevo y cálido sentimiento brotó en su corazón.
+    <txt>¿Era amor?
+    <img>ava/old_princess_ninjas1
+    <txt>"Seguro que serán felices juntos", dijo Lariat.
+	<txt>"Es una pena que nosotros no tuviésemos a un mayordomo de combate protegiéndonos", respondió Ava.
+    <img>ava/old_princess_ninjas2
+    <txt>"Sí..."
+	<txt>"De todas formas, ya estabas bastante vieja", dijo Lariat.
+	<txt>A veces no era exactamente la bruja más sensible.
+</a1a1a1a1a0b1>
+
+<a1a1a1a1a0b0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>ava/shy_prince_announcement
+    <txt>Al día siguiente, el príncipe anunció que había invitado a alguien a cenar.
+    <txt>Era una mujer a la que había conocido en internet.
+    <txt>"¡Está muy interesada en mi porque soy el príncipe!", dijo, como si eso fuese algo bueno.
+    <img>ava/shy_prince_dinner
+    <txt>Durante la cena sus temores se confirmaron.
+    <txt>Era obvio que a esa mujer solo le interesaban el dinero y los títulos.
+    <txt>Pero engañó completamente al inocente de su hijo.
+</a1a1a1a1a0b0>
+
+<a1a1a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>ava/failed_pregnancy
+    <txt>Ava y su marido intentaron tener un bebé durante meses, pero no lo consiguieron.
+    <txt>Fueron a pedir consejo médico y el hospital les hizo algunos tests.
+    <txt>Resultó que los cuerpos de ambos eran incapaces de tener bebés.
+    <txt>Ava nunca tendría un hijo propio.
+</a1a1a1a0>
+
+<a1a1a1a0a>
+    <img>ava/failed_pregnancy
+    <txt>Como Ava y su marido no podían tener un bebé, decidieron adoptar a un niño.
+    <img>ava/orphan
+    <txt>Eligieron a un niño que estaba teniendo problemas para llevarse bien con sus compañeros en el orfanato.
+    <txt>Ava pensó que se comportaría y sería feliz con ellos.
+    <txt>Se equivocaba.
+    <img>ava/spoiled_kid
+    <txt>Consentido por los lujos del palacio, el niño creció arrogante, desobediente y violento.
+    <txt>Estaba obsesionado con la idea de que un día sería rey.
+    <img>ava/princess_sad
+    <txt>Al no tener otra opción, Ava deseó que Lariat apareciera.
+    <img>ava/princess_sad_deal
+    <txt>"Se supone que tienes que jugar conmigo antes de que cumpla tu deseo", dijo Lariat.
+    <txt>"¿Estás intentando matarme con un deseo paradójico o algo así?"
+    <txt>Ava se disculpó y explicó que su verdadero deseo era que su hijo fuese más humilde.
+    <txt>"Yo le daré una lección de humildad si ganas", dijo Lariat, y empezó el juego.
+    <quiz>
+</a1a1a1a0a>
+
+<a1a1a1a0a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>ava/beggar
+    <txt>En un día lluvioso, una vieja mendiga apareció en la puerta del palacio y le ofreció una rosa al príncipe a cambio de cobijo.
+    <txt>Repugnado por su apariencia y ofendido por su oferta, el príncipe la rechazó y llamó a seguridad.
+    <img>ava/lariat_reveal
+    <txt>¡Pero la anciana se convirtió en Lariat la Bruja!
+    <txt>Lariat lanzó un hechizo y convirtió al príncipe en una bestia horrenda.
+    <img>ava/beast
+    <txt>Avergonzado de su forma monstruosa, el príncipe se ocultó en el palacio.
+    <img>ava/lariat_explains
+    <txt>"No te preocupes; el hechizo se romperá cuando encuentre el amor verdadero", explicó Lariat.
+    <txt>Eso no era lo que Ava esperaba, pero confió en ella.
+    <img>ava/spell_broken
+    <txt>En los años siguientes, el príncipe se volvió humilde, aprendió a amar y rompió el hechizo.
+    <txt>Ava se sintió aliviada al fin. El príncipe sería un buen rey.
+</a1a1a1a0a1>
+
+<a1a1a1a0a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>ava/spoiled_kid
+    <txt>La conducta del príncipe no mejoró nada; de hecho, se volvió aún peor.
+    <txt>Sus ansias de poder se volvieron tan fuertes que no pudo seguir esperando a ser rey.
+    <img>ava/madboy_kills_parents
+    <txt>Enloqueció y decidió matar a sus padres para acelerar la sucesión.
+    <img>ava/kings_killed
+    <txt>Es difícil decir si la muerte de Ava fue más dolorosa física o emocionalmente.
+</a1a1a1a0a0>
+
+<a1a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>ava/reporter_challenge
+    <txt>Tratando de ser heroico para impresionar a sus padres, el reportero les desafió a un duelo.
+    <img>ava/marriage_duel
+    <txt>¡Pero ellos lo aceptaron de verdad!
+    <img>ava/marriage_duel_conclusion
+    <txt>El reportero sufrió una herida fatal durante el combate.
+    <txt>Murió horas más tarde en el hospital.
+    <txt>Tras ese incidente, Ava no fue capaz de involucrarse románticamente con nadie nunca más.
+</a1a1a0>
+
+<a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>ava/teen_princess
+    <txt>En los años siguientes, la adolescencia golpeó a Ava de forma potente.
+    <img>ava/ugliest_princess
+    <txt>Su gracia desapareció y se volvió fea y vaga.
+    <txt>Sacó notas malísimas en el instituto.
+    <txt>En vez de admirarla, la gente la despreciaba.
+    <txt>Fue tan malo que arruinó la imagen de la familia real.
+</a1a0>
+
+<a1a0a>
+    <img>ava/ugliest_princess2
+    <txt>La imagen de la familia real había estado en declive desde que la princesa Ava se volvió fea e ignorante.
+    <img>ava/politician
+    <txt>El movimiento republicano que perseguía la abolición de la monarquía ganó mucha fuerza.
+    <txt>Tanta fuerza que acabó obligando al gobierno a celebrar un referéndum sobre el asunto.
+    <txt>¡El título de Ava como princesa estaba en juego!
+    <img>ava/ugliest_princess_deal
+    <txt>"Sería una lástima que tu primer deseo se arruinase", dijo Lariat, apareciendo del techo.
+    <txt>"¿Jugamos otra vez?"
+    <quiz>
+</a1a0a>
+
+<a1a0a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>ava/referendum_news
+    <txt>Los resultados del referéndum se anunciaron.
+    <txt>Los partidarios de la monarquía ganaron por un pequeño margen.
+    <img>ava/ugliest_princess2
+    <txt>¡El título de Ava como princesa estaba a salvo!
+    <txt>Tras esa derrota, el movimiento abolicionista perdió toda su fuerza.
+    <txt>La monarquía no volvió a ser amenazada durante el resto de la vida de Ava.
+</a1a0a1>
+
+<a1a0a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>ava/referendum_news2
+    <txt>Los resultados del referéndum fueron anunciados.
+    <txt>La opción abolicionista ganó por una mayoría aplastante.
+    <txt>Se eligió un Primer Ministro y la familia de Ava perdió su estatus real.
+    <img>ava/ugliest_princess_sad
+    <txt>La vida de Ava como princesa terminó ahí.
+</a1a0a0>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>ava/school
+    <txt>Unos días después, la policía fue a recoger a Ava del colegio en vez de su madre.
+    <txt>Era demasiado pequeña para entender los detalles, pero aparentemente su madre se había muerto en un accidente de coche.
+    <img>ava/aunt
+    <txt>A partir de entonces tendría que vivir con su tía.
+    <txt>"Deja de lloriquear", le ordenó su tía.
+    <txt>"La vida es dura y ya va siendo hora de que lo aprendas."
+    <txt>"A partir de ahora me ayudarás con las tareas de la casa todos los días."
+</a0>
+
+<a0a>
+    <img>ava/ava_cleaning
+    <txt>Ava estaba acostumbrada a ser una criada.
+    <txt>No era una vida fácil, pero había aprendido a disfrutar de las tareas del hogar.
+    <img>ava/aunt_invitations
+    <txt>Su tía tenía conocidos en las altas esferas.
+    <txt>Un día recibió invitaciones a un baile real para ella y un acompañante.
+    <txt>Eso le recordó a Ava cómo solía soñar con ser una princesa.
+    <txt>Ava le preguntó a su tía si podría llevarla a ella como su acompañante.
+    <txt>"No puedo llevarte a un baile real", contestó su tía.
+    <txt>"Ni siquiera tienes un vestido."
+    <img>ava/opportunity_wasted
+    <txt>Semejante oportunidad malgastada.
+    <img>ava/opportunity_wasted_deal
+    <txt>"Si tan solo tuvieses un vestido...", dijo Lariat, apareciendo de la nada.
+    <txt>"¿Quieres jugar una partida por él?"
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>ava/wardrobe
+    <txt>Cuando Ava abrió su armario, encontró un precioso vestido dentro.
+    <img>ava/aunt_impressed
+    <txt>Se lo puso y se lo enseñó a su tía, dejándola impresionada.
+    <img>ava/royal_ball
+    <txt>Y así, Ava consiguió asistir al baile real.
+</a0a1>
+
+<a0a1a>
+    <img>ava/royal_ball
+    <txt>Ava estaba disfrutando del baile real cuando se fijó en una cara familiar.
+    <img>ava/royal_ball_princess
+    <txt>¡Era la princesa! Ava la había visto en la portada de algunas revistas.
+    <txt>La princesa estaba recorriendo la sala saludando a los invitados.
+    <txt>¿Y si viese a Ava y decidiese saludarla?
+    <txt>¡Eso sería un sueño hecho realidad!
+    <img>ava/royal_ball_deal
+    <txt>"¿Un sueño hecho realidad, dices?", preguntó Lariat, aunque Ava no había dicho nada.
+	<img>ava/quiz_dance
+    <txt>"Baila conmigo."
+    <quiz>
+</a0a1a>
+
+<a0a1a1>
+    <txt>"Felicidades", dijo Lariat, justo cuando Ava se chocó con alguien.
+    <img>ava/bump_princess
+    <txt>¡Era la princesa!
+    <txt>"¡Au! ¡Ten cuidado!", le dijo.
+    <txt>"No se quién te enseñó a bailar, pero hizo un trabajo pésimo."
+    <txt>"Deja que te enseñe cómo se hace."
+    <img>ava/dancing_princess
+    <txt>Cogiendo a Ava por la cintura, la princesa empezó a bailar.
+    <txt>Ava no se lo podía creer.
+    <img>ava/dancing_princess_smile
+    <txt>"Me gustas", dijo la princesa, y Ava no pudo aguantarlo.
+    <img>black
+    <txt>Se desmayó.
+</a0a1a1>
+
+<a0a1a0>
+    <txt>"Lo siento", dijo Lariat, justo cuando Ava se chocó con alguien.
+    <img>ava/bump_princess_drink
+    <txt>¡Era la princesa! ¡Y Ava le había hecho derramar su bebida!
+    <txt>"¡Mi vestido está arruinado!", se quejó la princesa.
+    <txt>Un camarero le pidió educadamente a Ava que abandonase el baile.
+    <txt>Ava se sintió tan mal que no fue capaz de asistir a otro evento social nunca más.
+</a0a1a0>
+
+<a0a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>ava/opportunity_wasted
+    <txt>Sin un vestido, Ava no pudo ir al baile real.
+    <img>ava/aunt_friend
+    <txt>Su tía invitó a un amigo suyo en su lugar.
+    <txt>Por lo visto se divirtieron mucho juntos.
+    <img>ava/aunt_friend_marry
+    <txt>Después del baile, anunciaron que iban a casarse.
+    <txt>Para Ava eso significaba más tareas diarias que hacer a partir de entonces.
+</a0a0>

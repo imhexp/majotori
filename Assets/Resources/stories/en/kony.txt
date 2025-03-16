@@ -1,0 +1,101 @@
+<a>
+    <img>kony/kony_garden
+    <txt>The backdoor of Kony's house led into a forest.
+    <txt>Kony loved looking for animals and taking pictures of them.
+    <img>kony/injured_bird
+    <txt>One day, she found an injured bird.
+    <img>kony/healed_bird
+    <txt>She took it home and tried to nurse it back to health.
+    <txt>"I hope you get better", Kony whispered to the bird.
+    <img>kony/kony_deal
+    <txt>"I hope we make a deal", Lariat whispered to Kony.
+    <txt>And they did.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>kony/healed_bird2
+    <txt>The bird rested all night, and by next day it looked a lot better.
+    <img>kony/bird_released
+    <txt>Kony released it and it flew away.
+    <img>kony/bird_away
+    <txt>Ah!
+    <txt>She forgot to take pictures of it!
+</a1>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>kony/healed_bird
+    <txt>The bird rested all night.
+    <txt>When Kony woke up the next day, it was already dead.
+    <img>kony/kony_burial
+    <txt>She buried it in the forest.
+</a0>
+
+<b>
+    <img>kony/kony_garden
+    <txt>The backdoor of Kony's house led into a forest.
+    <txt>Kony loved looking for animals and taking pictures of them.
+    <img>kony/injured_deer
+    <txt>One day, she found an injured deer.
+    <img>kony/kony_deer
+    <txt>She took it home and tried to nurse it back to health.
+    <img>kony/healed_deer
+    <txt>"I hope you get better", Kony whispered to the deer.
+    <img>kony/kony_deal
+    <txt>"I hope we make a deal", Lariat whispered to Kony.
+    <txt>And they did.
+    <quiz>
+</b>
+
+<b1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>kony/healed_deer2
+    <txt>The deer rested all night, and by next day it looked a lot better.
+    <img>kony/deer_released
+    <txt>Kony released it and it walked away.
+    <txt>She took a lot of pictures!
+</b1>
+
+<b0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>kony/healed_deer
+    <txt>The deer rested all night.
+    <txt>When Kony woke up the next day, it was already dead.
+    <img>kony/kony_deer_burial
+    <txt>She buried it in the forest.
+</b0>
+
+<c>
+    <img>kony/kony_garden
+    <txt>The backdoor of Kony's house led into a forest.
+    <txt>Kony loved looking for animals and taking pictures of them.
+    <img>kony/injured_rabbit
+    <txt>One day, she found an injured rabbit.
+    <img>kony/healed_rabbit
+    <txt>She took it home and tried to nurse it back to health.
+    <txt>"I hope you get better", Kony whispered to the rabbit.
+    <img>kony/kony_deal
+    <txt>"I hope we make a deal", Lariat whispered to Kony.
+    <txt>And they did.
+    <quiz>
+</c>
+
+<c1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>kony/healed_rabbit2
+    <txt>The rabbit rested all night, and by next day it looked a lot better.
+    <img>kony/rabbit_released
+    <txt>Kony released it and it hopped away.
+    <txt>She took a lot of pictures!
+</c1>
+
+<c0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>kony/healed_rabbit
+    <txt>The rabbit rested all night.
+    <txt>When Kony woke up the next day, it was already dead.
+    <img>kony/kony_burial
+    <txt>She buried it in the forest.
+</c0>

@@ -1,0 +1,61 @@
+<a>
+    <img>queralt/queralt
+    <txt>La campaña electoral había empezado y Queralt era uno de los candidatos favoritos.
+    <txt>Se emocionaba solo de pensar en todas las cosas que podría mejorar si llegase a presidente.
+    <img>queralt/queralt_deal
+    <txt>Deseaba tan fuerte que la gente lo eligiese que apareció Lariat.
+    <txt>"Juega conmigo y haré tu deseo realidad", le dijo.
+    <txt>Pero Queralt se negó. ¡Era un firme creyente de la democracia!
+    <txt>"¡Pero si eres el mejor candidato, te mereces ganar!", insistió Lariat.
+    <txt>"Solo quiero ganar si la gente quiere que gane", explicó Queralt.
+    <txt>"Eso es estúpido, pero vale", dijo Lariat.
+    <txt>"Ya que estoy aquí, ¿tienes algún otro deseo?"
+    <txt>"No se... ¿Podrías fregar los platos?", preguntó Queralt.
+    <txt>"Ese es el deseo más estúpido que he escuchado en mi vida", contestó Lariat.
+    <txt>Pero no iba a rechazar una partida de trivia gratis.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego se remangó.
+    <img>queralt/lariat_dishes
+    <txt>Se aseguró de que todo quedase limpio y brillante.
+</a1>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>queralt/queralt_alone
+    <txt>Ni siquiera se molestó en hacer que pasase algo malo.
+</a0>
+
+<b>
+    <img>queralt/queralt
+    <txt>La campaña electoral había empezado y Queralt era uno de los candidatos favoritos.
+    <txt>Se emocionaba solo de pensar en todas las cosas que podría mejorar si llegase a presidente.
+    <img>queralt/queralt_deal
+    <txt>Deseaba tan fuerte que la gente lo eligiese que apareció Lariat.
+    <txt>"Juega conmigo y haré tu deseo realidad", le dijo.
+    <txt>Pero Queralt se negó. ¡Era un firme creyente de la democracia!
+    <txt>"¡Pero si eres el mejor candidato, te mereces ganar!", insistió Lariat.
+    <txt>"Solo quiero ganar si la gente quiere que gane", explicó Queralt.
+    <txt>"Eso es estúpido, pero vale", dijo Lariat.
+    <txt>"Ya que estoy aquí, ¿tienes algún otro deseo?"
+    <txt>"Bueno... ¿Has oído hablar de aquel escándalo con las jirafas?", dijo Queralt.
+    <txt>"¿El Jirafagate?", preguntó Lariat.
+    <txt>"Yo me encargaré de eso."
+    <txt>El trato fue cerrado.
+    <quiz>
+</b>
+
+<b1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>queralt/queralt_alone
+    <txt>Y con ella el escándalo de las jirafas.
+    <txt>¡La campaña política de Queralt fue mucho más suave a partir de entonces!
+</b1>
+
+<b0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>queralt/queralt_alone
+    <txt>El escándalo de las jirafas no desapareció y siguió persiguiendo a Queralt durante el resto de su campaña.
+</b0>

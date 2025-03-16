@@ -1,0 +1,98 @@
+<a>
+    <img>fatima/fatima_playing
+    <txt>Fatima was now on her way to becoming a rock star.
+    <txt>After years of hard work and persistence, she had finally managed to find herself a growing fan base.
+    <txt>Just when everything seemed to go well for once, a tragedy announced its arrival.
+    <img>fatima/fatima_mirror
+    <txt>Her hair was becoming thinner and weaker, and it was starting to fall off.
+    <txt>She knew very well that her image was the biggest part of her appeal; she would go nowhere with just her music.
+    <txt>She needed her mane to succeed. She wished that her hair was stronger.
+    <img>fatima/fatima_mirror_deal
+    <txt>Then, a witch with a beautiful mane appeared on the mirror.
+    <txt>The witch offered Fatima a deal and she accepted it.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>fatima/fatima_mane
+    <txt>By the next morning, Fatima could already feel it.
+    <txt>Her hair was thick and strong, and it filled her with energy.
+    <img>fatima/fatima_playing_mane
+    <txt>Her next concerts were an absolute success. People adored her!
+    <txt>Now nothing could get in her way to become a rock star!
+</a1>
+
+<a1a>
+    <img>fatima/fatima_success
+    <txt>Fatima had reached the top, becoming rich and famous in the way, and then retired before wearing herself out.
+    <img>fatima/fatima_excess
+    <txt>But with success came a life of excess.
+    <txt>A life that ruined her.
+    <txt>She tried to get over it and fix her life, but she ended up going back.
+    <txt>Her husband divorced her and left taking their daughter.
+    <img>fatima/fatima_jaded
+    <txt>Fatima had to change and rebuild her life.
+    <txt>She needed help.
+    <img>fatima/fatima_jaded_deal
+    <txt>And Lariat offered it to her.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>fatima/fatima_park
+    <txt>Fatima's taste for parties and excess suddenly disappeared
+    <txt>She left it all behind and rebuilt her life.
+    <img>fatima/fatima_family
+    <txt>A couple of months later, she managed to get back with her husband and her daughter.
+    <txt>They lived happily together.
+</a1a1>
+
+<a1a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>fatima/fatima_jaded2
+    <txt>If the witch wasn't going to help her, she would do it on her own.
+    <txt>She would go to a last wild party and then bid farewell to them forever.
+    <img>fatima/fatima_excess
+    <txt>But the party was a bit too wild.
+    <txt>Fatima died from overdose.
+</a1a0>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>fatima/fatima_bad_mane
+    <txt>Fatima kept losing her hair, and her energy and confidence with it.
+    <img>fatima/fatima_playing_failure
+    <txt>Her next concert was a depressing failure.
+    <txt>She stopped singing after that.
+</a0>
+
+<a0a>
+    <img>fatima/fatima_family_bald
+    <txt>Fatima had married and adopted a little girl.
+    <txt>They lived happily together for some years, but then the bad news hit.
+    <img>fatima/fatima_ill
+    <txt>She had a deadly disease.
+    <txt>It was uncertain how many years she had left.
+    <txt>But it was pretty clear that she wouldn't get to see her daughter go to college.
+    <img>fatima/fatima_ill_deal
+    <txt>She wished so hard to be there when the time came that Lariat appeared.
+    <txt>Lariat offered the deal and Fatima accepted it.
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>fatima/fatima_smartphone
+    <txt>A few days later, Fatima got an email from her daughter's school.
+    <txt>It turned out her daughter was a genius!
+    <txt>They offered to enroll her in a special program that would let her start attending college in two years.
+    <txt>It was not exactly the way Fatima had imagined it, but it was better than nothing.
+</a0a1>
+
+<a0a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>fatima/fatima_ill
+    <txt>Fatima just got to see her daughter attend high school.
+</a0a0>

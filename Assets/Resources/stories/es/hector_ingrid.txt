@@ -1,0 +1,85 @@
+<a>
+    <img>hector_ingrid/hector
+    <txt>A Hector le encantaban los videojuegos, pero estaba atrapado en este mundo aburrido.
+    <txt>Si tan solo pudiera vivir en un mundo mágico, luchando contra monstruos y encontrando tesoros...
+    <img>hector_ingrid/hector_afraid
+    <txt>"Yo puedo hacer tu deseo realidad", dijo Lariat, apareciendo de la nada.
+    <txt>"¡Ah! ¡Una bruja!", gritó Hector.
+    <txt>"¿Deseas luchar contra monstruos pero te da miedo una bruja?", preguntó Lariat.
+    <img>hector_ingrid/hector_deal
+    <txt>Hector se calmó e hizo un trato con ella.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>hector_ingrid/email
+    <txt>Hector recibió un email de una compañía de videojuegos.
+    <txt>¡Había sido seleccionado para jugar a la beta de un nuevo sistema de realidad virtual!
+    <txt>¡Era un sistema tan avanzado que te ponía en un estado similar al sueño para sumergirte al 100%!
+    <img>hector_ingrid/hector_setting
+    <txt>Cuando Hector recibió el paquete, lo montó tan rápido como pudo y empezó a jugar.
+    <img>hector_ingrid/hector_magical_world
+    <txt>¡El sistema lo transportó a un mundo mágico online!
+    <txt>Pero las buenas noticias no se acabaron ahí.
+    <txt>El juego tenía un bug que impedía desconectarse.
+    <txt>Y si alguien te quitaba el casco sin haberte desconectado primero, morías en la vida real.
+    <txt>¡Eso significaba que sus padres no podían obligarle a volver al mundo real!
+    <img>hector_ingrid/hector_hospital
+    <txt>Su cuerpo físico fue llevado a un hospital para mantenerlo con vida.
+    <img>hector_ingrid/hector_magical_world2
+    <txt>A todos los efectos, Hector ahora vivía en un mundo mágico lleno de monstruos con los que luchar y tesoros que encontrar.
+</a1>
+
+<a1a>
+    <img>hector_ingrid/ingrid
+    <txt>Ingrid había estado atrapada en la realidad virtual de un videojuego durante meses.
+    <txt>Un bug en el juego impedía desconectarse.
+    <txt>Pero corría el rumor de que si el cristal de energía se rompía, el mundo se reiniciaría y forzaría la desconexión de todos los jugadores.
+    <img>hector_ingrid/tower
+    <txt>Ingrid se hizo paso a través de los monstruos que custodiaban cada piso de la torre donde se escondía el cristal de energía.
+    <img>hector_ingrid/hector_vs_ingrid
+    <txt>¡Pero cuando llegó al último piso, otro jugador intentó detenerla!
+    <txt>El horrendo diseño de sus armas indicaba su gran poder.
+    <txt>"¡A mi me gusta vivir aquí! ¡No dejaré que lo arruines!", dijo él.
+    <img>hector_ingrid/hector_vs_ingrid2
+    <txt>Libraron un combate épico.
+    <img>hector_ingrid/hector_defeated
+    <txt>Y al final Ingrid venció.
+    <img>hector_ingrid/crystal_break
+    <txt>Ingrid destruyó el cristal, deseando que funcionase y terminase esa pesadilla.
+    <img>hector_ingrid/crystal_lariat
+    <txt>En vez de reiniciarse el mundo, apareció una bruja.
+    <txt>"En cierto sentido, tu deseo se contradice con el de otra persona", dijo ella.
+    <txt>"Pero como ahora está muerto, supongo que podemos llegar a un acuerdo."
+    <txt>"¡Responde correctamente mis preguntas si quieres volver al mundo real!"
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>hector_ingrid/ingrid_hospital
+    <txt>Ingrid se despertó en la habitación de un hospital.
+    <txt>¡Al fin era libre!
+    <txt>¡Además se convirtió en una heroína por haber salvado a todos los demás!
+</a1a1>
+
+<a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>hector_ingrid/ingrid_sad
+    <txt>No ocurrió nada más después de eso.
+    <txt>Nunca arreglaron el bug.
+    <img>hector_ingrid/ingrid_dead
+    <txt>Ingrid acabó muriendo en combate.
+</a1a0>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>hector_ingrid/hector_parents
+    <txt>Esa noche uno de sus padres volvió con malas noticias.
+    <txt>Le habían despedido del trabajo y ahora no podían afrontar sus gastos.
+    <img>hector_ingrid/hector_job
+    <txt>Hector se vio obligado a buscar un trabajo.
+    <txt>Cuando volvía a casa estaba tan cansado que ni siquiera le apetecía jugar a videojuegos.
+    <txt>En su lugar se dedicó a quejarse de ellos en foros de internet.
+</a0>

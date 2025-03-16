@@ -1,0 +1,1307 @@
+<q>¿Quién pilota el Evangelion Unit-01 en el anime "Neon Genesis Evangelion"?
+<a1>Shinji
+<a2>Asuka
+<a3>Rei
+<a4>Mari
+
+<q>¿De qué color es el Evangelion Unit-02 en el anime "Neon Genesis Evangelion"?
+<a1>Rojo
+<a2>Morado
+<a3>Blanco
+<a4>Negro
+
+<q>¿Cuál de estas películas de anime no fue dirigida por Hayao Miyazaki?
+<a1>La tumba de las luciérnagas (Hotaru no Haka)
+<a2>Mi vecino Totoro (Tonari no Totoro)
+<a3>La princesa Mononoke (Mononoke Hime)
+<a4>El viaje de Chihiro (Sen to Chihiro no Kamikakushi)
+
+<q>¿A quién quiere vengar el protagonista del anime "Afro Samurai"?
+<a1>A su padre
+<a2>A su perro
+<a3>A su afro
+<a4>A su mujer
+
+<q>¿Quién es el protagonista en la película de anime "Akira"?
+<a1>Kaneda
+<a2>Akira
+<a3>Joker
+<a4>Harukiya
+
+<q>¿En cuál de los siguientes animes aparecen seres mágicos de otro mundo?
+<a1>Amagi Brilliant Park
+<a2>Toradora!
+<a3>School Days
+<a4>Hajime no Ippo
+
+<q>¿En cuál de estos animes todos los personajes están muertos desde el principio?
+<a1>Angel Beats!
+<a2>Air
+<a3>Death Note
+<a4>Dead Leaves
+
+<q>¿En cuál de estos animes hay un personaje apodado "Osaka"?
+<a1>Azumanga Daioh
+<a2>Baccano!
+<a3>Eureka Seven
+<a4>Fruits Basket
+
+<q>¿En cuál de estos animes no hay ningún tipo de alquimia?
+<a1>Hyouka
+<a2>Busou Renkin
+<a3>Baccano!
+<a4>Fullmetal Alchemist (Hagane no Renkinjutsushi)
+
+<q>¿En qué tipo de criatura evita convertirse el protagonista del anime "Bakemonogatari"?
+<a1>Vampiro
+<a2>Hombre lobo
+<a3>Mono
+<a4>Fantasma
+
+<q>¿En cuál de estos animes el protagonista es un calígrafo?
+<a1>Barakamon
+<a2>Death Note
+<a3>Baka to Test to Shoukanjuu
+<a4>Bleach
+
+<q>¿En cuál de estos animes juegan a baloncesto robots gigantes?
+<a1>Basquash!
+<a2>Kuroko no Basket
+<a3>Slam Dunk
+<a4>Ro-Kyu-Bu!
+
+<q>¿Qué son los protagonistas del anime "Black Lagoon"?
+<a1>Piratas mercenarios
+<a2>Guardianes mágicos
+<a3>Jugadores de béisbol
+<a4>Estudiantes de instituto
+
+<q>¿Qué es un bankai?
+<a1>Un movimiento especial en el anime "Bleach"
+<a2>Un pokémon
+<a3>Un tipo de nave espacial en "Star Wars"
+<a4>Un robot gigante en la película "Pacific Rim"
+
+<q>¿Cómo se llaman las cartas mágicas que usa Sakura en el anime "Sakura, cazadora de cartas" ("Cardcaptor Sakura")?
+<a1>Cartas Clow
+<a2>Cartas Karuta
+<a3>Cartas Pokémon Trading
+<a4>Cartas Duel Monsters
+
+<q>¿Cuál es la primera carta que usa Sakura en el anime "Sakura, cazadora de cartas" ("Cardcaptor Sakura")?
+<a1>Viento
+<a2>Vuelo
+<a3>Flecha
+<a4>Escudo
+
+<q>¿En cuál de estos animes usa el protagonista una especie de lanza para luchar?
+<a1>Busou Renkin
+<a2>Gintama
+<a3>Naruto
+<a4>Black Clover
+
+<q>¿El argumento de cuál de estos animes gira en torno a un androide?
+<a1>Chobits
+<a2>Code Geass: Hangyaku no Lelouch
+<a3>Cowboy Bebop
+<a4>Fushigi Yuugi
+
+<q>¿En cuál de estos animes hay un personaje llamado Sunohara?
+<a1>Clannad
+<a2>Air
+<a3>Kanon
+<a4>Amagi Brilliant Park
+
+<q>¿Cómo renombran a Japón en el anime "Code Geass: Hangyaku no Lelouch"?
+<a1>Área 11
+<a2>Britannia
+<a3>Konoha
+<a4>Skypiea
+
+<q>¿En cuál de estos animes no hay robots gigantes?
+<a1>Monster
+<a2>Code Geass: Hangyaku no Lelouch
+<a3>Eureka Seven
+<a4>Tengen Toppa Gurren-Lagann
+
+<q>¿Con qué parte de su cuerpo usa su poder mágico el protagonista del anime "Code Geass: Hangyaku no Lelouch"?
+<a1>Ojo
+<a2>Mano
+<a3>Pelo
+<a4>Pecho
+
+<q>¿Cómo se ganan la vida los protagonistas del anime "Cowboy Bebop"?
+<a1>Son cazarrecompensas
+<a2>Compiten en carreras
+<a3>Son guerreros mercenarios
+<a4>Son guardias de seguridad
+
+<q>¿Qué apodo se gana el protagonista del anime "Death Note" como asesino en serie?
+<a1>Kira
+<a2>L
+<a3>El asesino del cuaderno
+<a4>Shinigami
+
+<q>¿Qué nivel de súper saiyan hace crecer mucho el pelo en el anime "Dragon Ball Z"?
+<a1>3
+<a2>2
+<a3>1
+<a4>4
+
+<q>¿Usando qué tipo de fusión se crea Gotenks en el anime "Dragon Ball Z"?
+<a1>Danza de la fusión
+<a2>Fusión namekiana
+<a3>Fusión Pothala
+<a4>Absorción
+
+<q>¿Usando qué tipo de fusión se crea Vegetto en el anime "Dragon Ball Z"?
+<a1>Fusión Potara
+<a2>Fusión namekiana
+<a3>Danza de la fusión
+<a4>Absorción
+
+<q>¿En cuál de estos animes aparece un motorista sin cabeza?
+<a1>Durarara!!
+<a2>Free!
+<a3>Detective Conan (Metantei Conan)
+<a4>Dragon Ball Z
+
+<q>¿Cuál de estos animes empieza con el personaje principal siendo rescatado por un hombre desnudo?
+<a1>Eden of the East (Higashi no Eden)
+<a2>Hunter x Hunter
+<a3>Detective Conan (Metantei Conan)
+<a4>K-On!
+
+<q>¿En cuál de estos animes el personaje principal desarrolla una segunda personalidad?
+<a1>Elfen Lied
+<a2>K-On!
+<a3>Lucky Star
+<a4>Macross Frontier
+
+<q>¿En cuál de estos animes ocurre un evento llamado el "Segundo Impacto"?
+<a1>Neon Genesis Evangelion
+<a2>Eureka Seven
+<a3>Tengen Toppa Gurren-Lagann
+<a4>After War Gundam X (Kidou Shinseiki Gundam X)
+
+<q>¿En cuál de estos animes hay un torneo llamado "la Guerra del Santo Grial"?
+<a1>Fate/stay night
+<a2>Code Geass: Hangyaku no Lelouch
+<a3>Elfen Lied
+<a4>Fullmetal Alchemist (Hagane no Renkinjutsushi)
+
+<q>¿Qué forma tiene el edificio de la Medical Mechanica en el anime "FLCL"?
+<a1>Plancha
+<a2>Caja
+<a3>Bombilla
+<a4>Guante
+
+<q>¿De qué deporte trata el anime "Free!"?
+<a1>Natación
+<a2>Paracaidismo
+<a3>Voleibol
+<a4>Boxeo
+
+<q>¿Qué buscan los protagonistas del anime "Fullmetal Alchemist" ("Hagane no Renkinjutsushi")?
+<a1>La piedra filosofal
+<a2>La vara alquímica
+<a3>El One Piece
+<a4>El título de Hokage
+
+<q>¿Dónde está el alma de Alphonse en el anime "Fullmetal Alchemist" ("Hagane no Renkinjutsushi")?
+<a1>En una armadura
+<a2>En una bola de cristal
+<a3>En una espada
+<a4>En un espejo
+
+<q>¿En cuál de estos animes hay un personaje llamado Tamahome?
+<a1>Fushigi Yuugi
+<a2>Hayate, mayordomo de combate (Hayate no Gotoku!)
+<a3>Little Witch Academia
+<a4>Mars of Destruction (Hametsu no Mars)
+
+<q>¿Quién es la protagonista en el anime "Ghost in the Shell: Stand Alone Complex"?
+<a1>Motoko Kusanagi
+<a2>Haruhi Suzumiya
+<a3>Rei Ayanami
+<a4>Balalaika
+
+<q>¿En cuál de estos animes el protagonista se llama Eikichi?
+<a1>Great Teacher Onizuka
+<a2>Haikyuu!!
+<a3>Macross Frontier
+<a4>Ristorante Paradiso
+
+<q>¿Por qué está Kaiji en apuros en el anime "Kaiji: Ultimate Survivor"?
+<a1>Debe dinero
+<a2>Está perdido en una isla
+<a3>La policía le persigue
+<a4>Está enamorado de una mujer casada
+
+<q>¿De qué deporte trata el anime "Haikyuu!!"?
+<a1>Voleibol
+<a2>Fútbol
+<a3>Baloncesto
+<a4>Tenis
+
+<q>¿De qué deporte trata el anime "Hajime no Ippo"?
+<a1>Boxeo
+<a2>Voleibol
+<a3>Ciclismo
+<a4>Baloncesto
+
+<q>¿Cuál de estas se convierte en la técnica principal de Ippo en el anime "Hajime no Ippo"?
+<a1>Dempsey Roll
+<a2>Bolo Punch
+<a3>Haymaker
+<a4>Pull Counter
+
+<q>¿Quién contrata a Hayate como mayordomo en el anime "Hayate, mayordomo de combate" ("Hayate no Gotoku!")?
+<a1>Nagi
+<a2>Hinagiku
+<a3>Ayumu
+<a4>Athena
+
+<q>¿Quién es convertida en vampiro al principio del anime "Hellsing"?
+<a1>A una oficial de policía
+<a2>A una cazadora de vampiros
+<a3>A una granjera
+<a4>A una monja
+
+<q>¿En cuál de estos animes hay un personaje llamado Reina?
+<a1>Hibike! Euphonium
+<a2>The Promised Neverland (Yakusoku no Neverland)
+<a3>Naruto
+<a4>Death Note
+
+<q>¿Por qué quiere Gon convertirse en cazador en el anime "Hunter x Hunter"?
+<a1>Para encontrar a su padre
+<a2>Para volverse rico
+<a3>Para atraer chicas
+<a4>Para vengar a su madre
+
+<q>¿Cómo acaba Kagome en la era Sengoku en el anime "InuYasha"?
+<a1>Cayéndose a un pozo
+<a2>Usando una máquina del tiempo
+<a3>Siendo golpeada por un rayo
+<a4>Haciendo un trato con una bruja
+
+<q>¿Quién es el antagonista principal en el anime "InuYasha"?
+<a1>Naraku
+<a2>Sesshoumaru
+<a3>InuYasha
+<a4>Kikyo
+
+<q>¿En qué club están las protagonistas del anime "K-On!"?
+<a1>Club de música ligera
+<a2>Club de manga
+<a3>Club de caligrafía
+<a4>Club de haiku
+
+<q>¿Qué instrumento toca Ritsu en el anime "K-On!"?
+<a1>Batería
+<a2>Guitarra
+<a3>Bajo
+<a4>Piano eléctrico
+
+<q>¿Cuál de las chicas del anime "K-On!" es rubia?
+<a1>Tsumugi
+<a2>Yui
+<a3>Mio
+<a4>Ritsu
+
+<q>¿Dónde encuentra su padre a Kaguya en la película de anime "El cuento de la princesa Kaguya" ("Kaguya-hime no Monogatari")?
+<a1>Dentro de una planta de bambú
+<a2>Dentro de un sueño
+<a3>En el nido de un pájaro
+<a4>Dentro de un huevo de tortuga
+
+<q>¿Cómo se llama el protagonista del anime "Kaiba"?
+<a1>Kaiba
+<a2>Neiro
+<a3>Popo
+<a4>Vanilla
+
+<q>¿Cuál de estos animes trata sobre conquistar chicas?
+<a1>The World God Only Knows (Kami Nomi zo Shiru Sekai)
+<a2>Lucky Star
+<a3>Mitsudomoe
+<a4>Nodame Cantabile
+
+<q>¿En cuál de estos animes es la protagonista una diosa?
+<a1>Kamichu!
+<a2>Love Hina
+<a3>Lucky Star
+<a4>Nodame Cantabile
+
+<q>¿Cuál de estas expresiones murmulla habitualmente Ayu en el anime "Kanon"?
+<a1>Uguu
+<a2>Gao
+<a3>Arara
+<a4>Nishishi
+
+<q>¿Qué estudio de anime hizo una segunda adaptación de la novela visual "Kanon" en 2006?
+<a1>Kyoto Animation
+<a2>Toei Animation
+<a3>Gainax
+<a4>Shaft
+
+<q>¿Cuál de estos animes no está basado en una novela visual?
+<a1>Angel Beats!
+<a2>Clannad
+<a3>Kanon
+<a4>Air
+
+<q>¿Cuál de estos animes no está basado en una novela ligera?
+<a1>Bakuman.
+<a2>Baccano!
+<a3>Full Metal Panic!
+<a4>The Melancholy of Haruhi Suzumiya (Suzumiya Haruhi no Yuuutsu)
+
+<q>¿Qué finge ser la protagonista del anime "Kare Kano" ("Kareshi Kanojo no Jijou”)?
+<a1>Una estudiante perfecta
+<a2>Un chico
+<a3>Una persona rica
+<a4>Una experta en videojuegos
+
+<q>¿Cuál de estas películas de anime tiene una protagonista femenina?
+<a1>Nausicaä del Valle del Viento (Kaze no Tani no Naushika)
+<a2>El viento se levanta (Kaze Tachinu)
+<a3>Redline
+<a4>Vampire Hunter D
+
+<q>¿Cuál de estas películas de anime tiene un protagonista masculino?
+<a1>Sword of the Stranger (Stranger: Mukou Hadan)
+<a2>El viaje de Chihiro (Sen to Chihiro no Kamikakushi)
+<a3>Mi vecino Totoro
+<a4>Paprika
+
+<q>¿Qué diseña el protagonista de la película de anime "El viento se levanta" ("Kaze Tachinu") ?
+<a1>Aviones
+<a2>Logos
+<a3>Bombas
+<a4>Videojuegos
+
+<q>¿En cuál de estos animes el protagonista tiene ojos mágicos?
+<a1>Kekkai Sensen
+<a2>Dragon Ball Z
+<a3>Tengen Toppa Gurren-Lagann
+<a4>Little Witch Academia
+
+<q>¿De quién está enamorado el protagonista del anime "Kimagure Orange Road"?
+<a1>Madoka
+<a2>Hikaru
+<a3>Kurumi
+<a4>Kyosuke
+
+<q>¿Qué parte del cuerpo del protagonista invade un parásito en el anime "Parasyte -the maxim-" ("Kiseijuu: Sei no Kakuritsu")?
+<a1>Su mano derecha
+<a2>Su cerebro
+<a3>Su corazón
+<a4>Su pelo
+
+<q>¿En cuál de estas películas de anime es el protagonista un piloto de la Primera Guerra Mundial?
+<a1>Porco Rosso ("Kurenai no Buta")
+<a2>Mi vecino Totoro (Tonari no Totoro)
+<a3>Summer Wars
+<a4>El recuerdo de Marnie (Omoide no Marnie)
+
+<q>¿Cuál es la habilidad especial de Kuroko en el anime "Kuroko no Basket"?
+<a1>Pasar desapercibido
+<a2>Saltar muy alto
+<a3>No fallar nunca un lanzamiento
+<a4>Hacer que los rivales se tropiecen
+
+<q>¿En cuál de estas películas de anime hay un dragón que crece al absorber magia?
+<a1>Little Witch Academia
+<a2>Mi vecino Totoro (Tonari no Totoro)
+<a3>La princesa Mononoke (Mononoke Hime)
+<a4>Akira
+
+<q>¿En cuál de estos animes hay una alta elfa llamada Deedlit?
+<a1>Record of Lodoss War: Crónicas del caballero heroico (Lodoss-tou Senki: Eiyuu Kishi Den)
+<a2>The Seven Deadly Sins (Nanatsu no Taizai)
+<a3>Berserk
+<a4>Bleach
+
+<q>¿En cuál de estos animes hay un personaje llamado Naru Narusegawa?
+<a1>Love Hina
+<a2>Naruto
+<a3>Serial Experiments Lain
+<a4>Utena, la chica revolucionaria (Shoujo Kakumei Utena)
+
+<q>¿Por qué forman un grupo de idols las protagonistas del anime "Love Live! School Idol Project"?
+<a1>Para evitar el cierre de su escuela
+<a2>Para poder comprarse un coche
+<a3>Para recolectar dinero para la caridad
+<a4>Para llamar la atención de los compañeros que les gustan
+
+<q>¿El personaje protagonista de cuál de estos animes es otaku?
+<a1>Lucky Star
+<a2>Black Clover
+<a3>Naruto
+<a4>K-On!
+
+<q>¿Cuál de estos personajes de anime es un ladrón?
+<a1>Arsène Lupin III, de "Lupin III"
+<a2>Black Jack, de "Astro Boy"
+<a3>Guts, de "Berserk"
+<a4>Vash, de "Trigun"
+
+<q>¿De quién está enamorado Nobita en el anime "Doraemon, el gato cósmico"?
+<a1>Shizuka
+<a2>Sakura
+<a3>Nana
+<a4>Rin
+
+<q>¿De qué color es el pelo de Ranka en el anime "Macross Frontier"?
+<a1>Verde
+<a2>Rosa
+<a3>Azul
+<a4>Marrón
+
+<q>¿En cuál de estos animes no hay mechas?
+<a1>Puella Magi Madoka Magica (Mahou Shoujo Madoka Magica)
+<a2>Macross Frontier
+<a3>Tengen Toppa Gurren-Lagann
+<a4>Code Geass: Hangyaku no Lelouch
+
+<q>¿Qué es Mahoro en el anime "Mahoromatic"?
+<a1>Un androide
+<a2>Un humano
+<a3>Una chica gato
+<a4>Un hada
+
+<q>¿Cuál es la profesión del protagonista en el anime "Negima! Magister Negi Magi" ("Mahou Sensei Negima!")?
+<a1>Profesor de inglés
+<a2>Basurero
+<a3>Camarero
+<a4>Enfermero
+
+<q>¿En cuál de estos animes hay un personaje llamado Fate Testarossa?
+<a1>Magical Girl Lyrical Nanoha (Mahou Shoujo Lyrical Nanoha)
+<a2>My Hero Academia (Boku no Hero Academia)
+<a3>The Prince of Tennis (Tennis no Ouji-sama)
+<a4>Black Clover
+
+<q>¿Qué ofrece Kyubey a la protagonista en el anime "Puella Magi Madoka Magica" ("Mahou Shoujo Madoka Magica")?
+<a1>Concederle un deseo
+<a2>Convertirla en una bruja
+<a3>Salvarle la vida
+<a4>Darle un beso
+
+<q>¿Qué no quiere Homura que haga Madoka en el anime "Puella Magi Madoka Magica" ("Mahou Shoujo Madoka Magica")?
+<a1>Convertirse en una chica mágica
+<a2>Enamorarse de ella
+<a3>Luchar usando espadas
+<a4>Llevar vestidos reveladores
+
+<q>¿Qué estudio produjo la película animada "Nicky, la aprendiz de bruja" ("Majo no Takkyuubin")?
+<a1>Studio Ghibli
+<a2>A-1 Pictures
+<a3>Bones
+<a4>Kyoto Animation
+
+<q>¿Qué le da miedo a la protagonista del anime "Maria Holic"?
+<a1>Los chicos
+<a2>Los gatos
+<a3>La ropa
+<a4>Los lazos
+
+<q>¿Qué tiene que hacer para ganar el juego el protagonista en el anime "Mirai Nikki"?
+<a1>Matar al resto de jugadores
+<a2>Conseguir un millón de yenes
+<a3>Escribir 90 páginas en su diario
+<a4>Graduarse en el instituto
+
+<q>¿Qué animal poseído por un demonio ataca una aldea al principio de la película de anime "La princesa Mononoke" ("Mononoke Hime")?
+<a1>Jabalí
+<a2>Ballena
+<a3>Hurón
+<a4>Perro
+
+<q>¿De qué trabaja el protagonista del anime "Monster"?
+<a1>Doctor
+<a2>Mercenario
+<a3>Policía
+<a4>Primer ministro
+
+<q>¿Quién dirigió el anime "Paranoia Agent"?
+<a1>Satoshi Kon
+<a2>Hideaki Anno
+<a3>Hayao Miyazaki
+<a4>Osamu Tezuka
+
+<q>¿De qué color es el pelo del protagonista en el anime "Mushishi"?
+<a1>Blanco
+<a2>Negro
+<a3>Verde
+<a4>Rosa
+
+<q>¿En cuál de estos animes tienen las dos protagonistas el mismo nombre?
+<a1>Nana
+<a2>Kare Kano (Kareshi Kanojo no Jijou)
+<a3>Serial Experiments Lain
+<a4>Utena, la chica revolucionaria (Shoujo Kakumei Utena)
+
+<q>¿Cuántas colas tiene el zorro en el interior del protagonista en el anime "Naruto"?
+<a1>9
+<a2>7
+<a3>5
+<a4>3
+
+<q>¿Quién es el rival principal de Naruto en el anime "Naruto"?
+<a1>Sasuke
+<a2>Sakura
+<a3>Jiraiya
+<a4>Tsunade
+
+<q>¿Qué es un Hokage?
+<a1>El líder de una aldea en el anime "Naruto"
+<a2>Un ataque especial en el anime "Bleach"
+<a3>Un tesoro en el anime "One Piece"
+<a4>Un tipo de monstruo en el anime "Dragon Ball Z"
+
+<q>¿Cómo se llama el ataque especial del protagonista en el anime "Naruto"?
+<a1>Rasengan
+<a2>Chidori
+<a3>Raikiri
+<a4>Sharingan
+
+<q>¿Cómo se llaman los ojos especiales de Sasuke en el anime "Naruto"?
+<a1>Sharingan
+<a2>Chidori
+<a3>Rasengan
+<a4>Bankai
+
+<q>¿En cuál de estos animes los protagonistas son ninjas?
+<a1>Naruto
+<a2>One Piece
+<a3>Bleach
+<a4>Toriko
+
+<q>¿En cuál de estos animes los protagonistas son piratas?
+<a1>One Piece
+<a2>Naruto
+<a3>Bleach
+<a4>Toriko
+
+<q>¿Cuántas bolas de dragón hay en el anime "Dragon Ball"?
+<a1>7
+<a2>5
+<a3>3
+<a4>1
+
+<q>¿En cuál de estos animes hay una organización llamada NERV?
+<a1>Neon Genesis Evangelion
+<a2>Naruto
+<a3>One Piece
+<a4>Tengen Toppa Gurren-Lagann
+
+<q>¿Cómo se llaman los enemigos en el anime "Neon Genesis Evangelion"?
+<a1>Ángeles
+<a2>Brujas
+<a3>Evas
+<a4>Byakugans
+
+<q>¿Quién dirigió el anime "Neon Genesis Evangelion"?
+<a1>Hideaki Anno
+<a2>Satoshi Kon
+<a3>Hayao Miyazaki
+<a4>Osamu Tezuka
+
+<q>¿Cómo se llama el protagonista del anime "The Prince of Tennis" ("Tennis no Ouji-sama")?
+<a1>Ryoma Echizen
+<a2>Sasuke Uchiha
+<a3>Natsu Dragneel
+<a4>Edward Elric
+
+<q>¿Qué instrumento estudia Nodame en el anime "Nodame Cantabile"?
+<a1>Piano
+<a2>Oboe
+<a3>Bombardino
+<a4>Saxofón
+
+<q>¿En cuál de estos animes el protagonista es un comerciante?
+<a1>Spice and Wolf (Ookami to Koushinryou)
+<a2>JoJo's Bizarre Adventure (JoJo no Kimyou na Bouken)
+<a3>Boogiepop Phantom (Boogiepop wa Warawanai)
+<a4>Shirobako
+
+<q>¿Cuál de estos animes está protagonizado por las hermanas Anarchy?
+<a1>Panty & Stocking with Garterbelt
+<a2>Samurai Champloo
+<a3>Cowboy Bebop
+<a4>Serial Experiments Lain
+
+<q>¿En cuál de estas películas de anime hay un dispositivo para ver los sueños de la gente?
+<a1>Paprika
+<a2>Wolf Children (Ookami Kodomo no Ame to Yuki)
+<a3>Akira
+<a4>Ghost in the Shell
+
+<q>¿Qué animal es la protagonista del anime "Princess Tutu"?
+<a1>Pato
+<a2>Tigre
+<a3>Rana
+<a4>Perro
+
+<q>¿Qué le ocurre a Ranma cuando toca agua fría en el anime "Ranma ½"?
+<a1>Se convierte en chica
+<a2>Se encoge
+<a3>Se hace grande
+<a4>Se convierte en panda
+
+<q>¿Cuál de estos no es un personaje en el anime "Ranma ½"?
+<a1>Luffy Monkey D.
+<a2>Ryoga Hibiki
+<a3>Akane Tendo
+<a4>Shampoo
+
+<q>¿Cuál de estos no es uno de los protagonistas del anime "Samurai Champloo"?
+<a1>Chichi
+<a2>Mugen
+<a3>Jin
+<a4>Fuu
+
+<q>¿Los protagonistas de cuál de estos animes no tocan instrumentos musicales?
+<a1>The Idolmaster
+<a2>Your Lie in April (Shigatsu wa Kimi no Uso)
+<a3>Nodame Cantabile
+<a4>K-On!
+
+<q>¿Cuántos muros gigantes protegen a la humanidad en el anime "Ataque a los titanes" ("Shingeki no Kyojin")?
+<a1>3
+<a2>5
+<a3>1
+<a4>7
+
+<q>¿Dónde está el punto débil de los titanes en el anime "Ataque a los titanes" ("Shingeki no Kyojin")?
+<a1>En el cuello
+<a2>En el pecho
+<a3>En la cara
+<a4>En los pies
+
+<q>¿Cuál de estos no es uno de los protagonistas en el anime "Ataque a los titanes" ("Shingeki no Kyojin")?
+<a1>Suzaku Kururugi
+<a2>Eren Yeager
+<a3>Mikasa Ackerman
+<a4>Armin Arlert
+
+<q>¿De qué color es el pelo de Utena en el anime "Utena, la chica revolucionaria" ("Shoujo Kakumei Utena")?
+<a1>Rosa
+<a2>Verde
+<a3>Negro
+<a4>Blanco
+
+<q>¿De qué color es el pelo de Shinji en el anime "Neon Genesis Evangelion"?
+<a1>Marrón
+<a2>Rosa
+<a3>Verde
+<a4>Amarillo
+
+<q>¿Qué tipo de duelos ocurren en el anime "Utena, la chica revolucionaria" ("Shoujo Kakumei Utena")?
+<a1>Duelos de espadas
+<a2>Duelos de ajedrez
+<a3>Duelos de trivia de historia
+<a4>Duelos de carreras de coches
+
+<q>¿Qué título tiene Anthy Himemiya en el anime "Utena, la chica revolucionaria" ("Shoujo Kakumei Utena")?
+<a1>Novia de la rosa
+<a2>Chica revolucionaria
+<a3>Puño de la Estrella del Norte
+<a4>Puella Magi
+
+<q>¿Quién es el rival de Sakuragi en el anime "Slam Dunk"?
+<a1>Rukawa
+<a2>Sasuke
+<a3>Asta
+<a4>Sunohara
+
+<q>¿Cuál de estos animes se desarrolla en un pueblo inspirado por la ciudad española de Cuenca?
+<a1>Sora no Woto
+<a2>Sword Art Online
+<a3>Black Clover
+<a4>Nodame Cantabile
+
+<q>¿En qué se transforman algunos personajes en el anime "Soul Eater"?
+<a1>Armas
+<a2>Comida
+<a3>Flores
+<a4>Ordenadores
+
+<q>¿En cuál de estos animes hay un personaje llamado Maka Albarn?
+<a1>Soul Eater
+<a2>Fullmetal Alchemist: Brotherhood ("Hagane no Renkinjutsushi: Fullmetal Alchemist")
+<a3>Hunter x Hunter
+<a4>Gintama
+
+<q>¿Cuál de estos elementos se encuentra en el anime "Steins;Gate"?
+<a1>Viajes temporales
+<a2>Luchas a espada
+<a3>Piratas espaciales
+<a4>Superpoderes
+
+<q>¿Cuál de estos animes se emitió originalmente con los capítulos desordenados?
+<a1>The Melancholy of Haruhi Suzumiya (Suzumiya Haruhi no Yuuutsu)
+<a2>Sword Art Online
+<a3>Fate/Zero
+<a4>One Piece
+
+<q>¿En qué tipo de personas está interesada Haruhi en el anime "The Melancholy of Haruhi Suzumiya" ("Suzumiya Haruhi no Yuuutsu")?
+<a1>Sobrenaturales
+<a2>Inteligentes
+<a3>Sexis
+<a4>Fuertes
+
+<q>¿De quién se enamora Kirito en el anime "Sword Art Online"?
+<a1>Asuna
+<a2>Yui
+<a3>Konata
+<a4>Sakura
+
+<q>¿Cómo se llama el poder de los protagonistas en el anime "Tengen Toppa Gurren-Lagann"?
+<a1>Poder espiral
+<a2>Ki
+<a3>Chakra
+<a4>Reiatsu
+
+<q>¿Cómo se llama el poder que tienen los personajes en el anime "Naruto"?
+<a1>Chakra
+<a2>Poder espiral
+<a3>Ki
+<a4>Reiatsu
+
+<q>¿Cuál de estos no es un personaje del anime "Tengen Toppa Gurren-Lagann"?
+<a1>Midoriya
+<a2>Kamina
+<a3>Simon
+<a4>Yoko
+
+<q>¿Dónde viven los protagonistas al principio en el anime "Tengen Toppa Gurren-Lagann"?
+<a1>Bajo tierra
+<a2>En una isla
+<a3>En las nubes
+<a4>Bajo el agua
+
+<q>¿Cómo se llama el castillo de la película de anime "El castillo en el cielo" ("Tenkuu no Shiro Laputa")?
+<a1>Laputa
+<a2>Casterly Rock
+<a3>Pendragon
+<a4>Munto
+
+<q>¿Cuál de estos no es un personaje en el anime "The Idolmaster"?
+<a1>Nico Yazawa
+<a2>Haruka Amami
+<a3>Ami Futami
+<a4>Miki Hoshii
+
+<q>¿Cómo se llaman las gemelas del anime "The Idolmaster"?
+<a1>Ami y Mami
+<a2>Kagami y Tsukasa
+<a3>Ako y Riko
+<a4>Shion y Mion
+
+<q>¿En cuál de estas películas de anime hay un gato con forma de autobús?
+<a1>Mi vecino Totoro (Tonari no Totoro)
+<a2>El viaje de Chihiro (Sen to Chihiro no Kamikakushi)
+<a3>Wolf Children (Ookami Kodomo no Ame to Yuki)
+<a4>El castillo ambulante ("Howl no Ugoku Shiro")
+
+<q>¿En cuál de estos animes hay un personaje llamado Taiga?
+<a1>Toradora!
+<a2>Dragon Ball
+<a3>Eureka Seven
+<a4>Claymore
+
+<q>¿Cómo se le conoce a Vash en el anime "Trigun"?
+<a1>Vash la Estampida
+<a2>Million Knives Vash
+<a3>Vash el Erizo
+<a4>One Punch Vash
+
+<q>¿Quién es el hermano de Vash en el anime "Trigun"?
+<a1>Knives
+<a2>Wolfwood
+<a3>Legato
+<a4>Rem
+
+<q>¿Quién es el protagonista en el anime "Yu Yu Hakusho"?
+<a1>Yusuke Urameshi
+<a2>Sasuke Uchiha
+<a3>Ichigo Kurosaki
+<a4>Roronoa Zoro
+
+<q>¿Quién es el protagonista en el anime "Bleach"?
+<a1>Ichigo Kurosaki
+<a2>Yusuke Urameshi
+<a3>Sasuke Uchiha
+<a4>Roronoa Zoro
+
+<q>¿De qué material es el cuerpo de Luffy en el anime "One Piece"?
+<a1>Goma
+<a2>Oro
+<a3>Agua
+<a4>Jabón
+
+<q>¿Cómo llaman a la tripulación de Luffy en el anime "One Piece"?
+<a1>Los Sombrero de paja
+<a2>Los One Piece
+<a3>Los reyes pirata
+<a4>Los Red Line
+
+<q>¿Cuál es el objetivo de Luffy en el anime "One Piece"?
+<a1>Convertirse en el rey de los piratas
+<a2>Vengar a su padre
+<a3>Casarse con la mujer más bella del mundo
+<a4>Comerse la fruta más deliciosa del mundo
+
+<q>¿Cuál de estos no es un personaje del anime "One Piece"?
+<a1>Killer Bee
+<a2>Franky
+<a3>Brook
+<a4>Chopper
+
+<q>¿En cuál de estos animes los protagonistas son mangakas?
+<a1>Bakuman.
+<a2>Kaiba
+<a3>Akira
+<a4>Cencoroll
+
+<q>¿Cuál de estos personajes de anime tiene un afro rubio?
+<a1>Bobobo
+<a2>Vegeta
+<a3>Sanji
+<a4>Death the Kid
+
+<q>¿Cómo se llama la madre del protagonista en el anime "Shin Chan" ("Crayon Shin-chan")?
+<a1>Misae
+<a2>Sakura
+<a3>Himawari
+<a4>Shizuka
+
+<q>¿Qué vegetal odia especialmente el protagonista del anime "Shin Chan" ("Crayon Shin-chan")?
+<a1>Pimiento
+<a2>Tomate
+<a3>Lechuga
+<a4>Soja
+
+<q>¿En cuál de estos animes el protagonista es un adulto con el cuerpo de un niño?
+<a1>Detective Conan (Metantei Conan)
+<a2>Durarara!!
+<a3>Nichijou
+<a4>Cromartie High School
+
+<q>¿Cómo se llama la niña robot del anime "Dr. Slump"?
+<a1>Arale Norimaki
+<a2>Akane Kimidori
+<a3>Midori Yamabuki
+<a4>Mame Soramame
+
+<q>¿En cuál de estos animes hay un villano llamado Dr. Mashirito?
+<a1>Dr. Slump
+<a2>Mirai Nikki
+<a3>Astro Boy
+<a4>Pokémon
+
+<q>¿Sobre qué deporte trata el anime "Eyeshield 21"?
+<a1>Fútbol americano
+<a2>Baloncesto
+<a3>Béisbol
+<a4>Hockey
+
+<q>¿Qué se llama Fairy Tail en el anime "Fairy Tail"?
+<a1>Un gremio de magos
+<a2>Un dragón
+<a3>Una montaña
+<a4>Una caña de pescar
+
+<q>¿Cómo se llama la protagonista en el anime "Hidamari Sketch"?
+<a1>Yuno
+<a2>Konata
+<a3>Hina
+<a4>Sakura
+
+<q>¿En cuál de estos animes poseen las protagonistas el espíritu de barcos de guerra japoneses?
+<a1>Kantai Collection
+<a2>Fairy Tail
+<a3>Gintama
+<a4>Hunter x Hunter
+
+<q>¿Cuál es la misión del Pelotón Keroro en el anime "Sargento Keroro" ("Keroro Gunsou")?
+<a1>Conquistar la Tierra
+<a2>Conseguir un millón de yenes
+<a3>Hacer un millón de fotos de chicas guapas
+<a4>Liberar a sus camaradas
+
+<q>¿De qué tiene forma la espada de la protagonista en el anime "Kill la Kill"?
+<a1>De tijera
+<a2>De cruz
+<a3>De sombrilla
+<a4>De aguja
+
+<q>¿De qué color es el vestido de la protagonista del anime "Doremi" ("Ojamajo Doremi")?
+<a1>Rosa
+<a2>Amarillo
+<a3>Azul
+<a4>Negro
+
+<q>¿Qué objeto usa para transformarse la protagonista en el anime "Sailor Moon"?
+<a1>Un broche
+<a2>Un par de zapatos
+<a3>Un guante
+<a4>Un par de pendientes
+
+<q>¿Cuántos hermanos protagonizan el anime "Osomatsu-san"?
+<a1>6
+<a2>4
+<a3>3
+<a4>2
+
+<q>¿Con qué está obsesionado Death the Kid en el anime "Soul Eater"?
+<a1>Con la simetría
+<a2>Con el dinero
+<a3>Con los números impares
+<a4>Con las curvas
+
+<q>¿Quién es el príncipe de los saiyan en el anime "Dragon Ball Z"?
+<a1>Vegeta
+<a2>Goku
+<a3>Gohan
+<a4>Yamcha
+
+<q>¿De qué color es el pelo del protagonista en el anime "Naruto"?
+<a1>Amarillo
+<a2>Negro
+<a3>Blanco
+<a4>Rosa
+
+<q>¿De qué color es el pelo del protagonista en el anime "Bleach"?
+<a1>Naranja
+<a2>Azul
+<a3>Rosa
+<a4>Verde
+
+<q>¿De qué color es el pelo del protagonista en el anime "Fairy Tail"?
+<a1>Rosa
+<a2>Amarillo
+<a3>Negro
+<a4>Blanco
+
+<q>¿De qué color es el pelo del protagonista en el anime "Death Note"?
+<a1>Marrón
+<a2>Amarillo
+<a3>Rojo
+<a4>Morado
+
+<q>¿De qué color es el pelo del protagonista en el anime "Sword Art Online"?
+<a1>Negro
+<a2>Blanco
+<a3>Verde
+<a4>Rosa
+
+<q>¿De qué color es el pelo del protagonista en el anime "Ataque a los titanes" ("Shingeki no Kyojin")?
+<a1>Marrón
+<a2>Rojo
+<a3>Amarillo
+<a4>Verde
+
+<q>¿De qué color es el pelo del protagonista en el anime "One Piece"?
+<a1>Negro
+<a2>Marrón
+<a3>Naranja
+<a4>Rosa
+
+<q>¿En cuál de estos animes es el protagonista calvo?
+<a1>One Punch Man
+<a2>Samurai Champloo
+<a3>Cowboy Bebop
+<a4>JoJo's Bizarre Adventure (JoJo no Kimyou na Bouken)
+
+<q>¿Cómo se llama el primer hijo de Goku en el anime "Dragon Ball Z"?
+<a1>Son Gohan
+<a2>Yamcha
+<a3>Vegeta
+<a4>Trunks
+
+<q>¿Qué pasa cuando juntas todas las bolas de dragón en el anime "Dragon Ball"?
+<a1>Un dragón te concede un deseo
+<a2>Puedes transformarte en súper saiyan
+<a3>Aprendes el ataque especial "Kamehameha"
+<a4>Puedes transformarte en un dragón
+
+<q>¿De qué color son las bolas de dragón en el anime "Dragon Ball Z"?
+<a1>Naranja
+<a2>Verde
+<a3>Negro
+<a4>Azul
+
+<q>¿Cuál es el apellido de JoJo en el anime "JoJo's Bizarre Adventure" ("JoJo no Kimyou na Bouken")?
+<a1>Joestar
+<a2>Brando
+<a3>Zeppeli
+<a4>Speedwagon
+
+<q>¿En cuál de estos animes aparece un personaje llamado Clara?
+<a1>Heidi
+<a2>Sakura, cazadora de cartas (Cardcaptor Sakura)
+<a3>Sailor Moon
+<a4>Ranma ½
+
+<q>¿En cuál de estos animes hay un gato robótico?
+<a1>Doraemon, el gato cósmico
+<a2>Ranma ½
+<a3>Sakura, cazadora de cartas (Cardcaptor Sakura)
+<a4>JoJo's Bizarre Adventure (JoJo no Kimyou na Bouken)
+
+<q>¿Cuál es el primer pokémon que consigue Ash en el anime "Pokémon"?
+<a1>Pikachu
+<a2>Charmander
+<a3>Squirtle
+<a4>Bulbasaur
+
+<q>¿Qué les pasa a los miembros de la familia Souma cuando son abrazados por alguien del sexo opuesto en el anime "Fruits Basket"?
+<a1>Se convierten en un animal
+<a2>Se convierten en una espada
+<a3>Obtienen poderes psíquicos temporalmente
+<a4>Vuelven 5 minutos atrás en el tiempo
+
+<q>¿Qué instrumento está tocando Kaori la primera vez que aparece en el anime "Your Lie in April" ("Shigatsu wa Kimi no Uso")?
+<a1>Melódica
+<a2>Violín
+<a3>Ukelele
+<a4>Acordeón
+
+<q>¿Qué es Genos en el anime "One Punch Man"?
+<a1>Un cyborg
+<a2>Un humano
+<a3>Un ángel
+<a4>Un orangután
+
+<q>¿Qué personaje es un alien en el anime "The Melancholy of Haruhi Suzumiya" ("Suzumiya Haruhi no Yuuutsu")?
+<a1>Yuki
+<a2>Mikuru
+<a3>Haruhi
+<a4>Kyon
+
+<q>¿Qué poder tiene el protagonista en el anime "Desaparecido" ("Boku dake ga Inai Machi")?
+<a1>Viaje temporal
+<a2>Telepatía
+<a3>Invisibilidad
+<a4>Telequinesia
+
+<q>¿En qué lugar ficticio se desarrolla el anime "Aria The Animation"?
+<a1>Neo Venecia
+<a2>Gensokyo
+<a3>Área 11
+<a4>Milenio de Plata
+
+<q>¿Cómo se llama el Stand de Jotaro en el anime "JoJo's Bizarre Adventure: Stardust Crusaders" ("JoJo no Kimyou na Bouken Part 3: Stardust Crusaders")?
+<a1>Star Platinum
+<a2>The World
+<a3>Silver Chariot
+<a4>The Fool
+
+<q>¿Qué les ocurre a los protagonistas al principio en el anime "No Game No Life"?
+<a1>Son transportados a otro mundo
+<a2>Se cancela el desarrollo de su videojuego
+<a3>Pierden todo su dinero en una apuesta
+<a4>Cortan su relación romántica
+
+<q>¿De qué color es el pelo del protagonista en el anime "My Hero Academia" ("Boku no Hero Academia")?
+<a1>Verde
+<a2>Rosa
+<a3>Naranja
+<a4>Marrón
+
+<q>¿En cuál de estos animes trabajan los protagonistas en una empresa de videojuegos?
+<a1>New Game!
+<a2>No Game No Life
+<a3>Cross Game
+<a4>Shirobako
+
+<q>¿De qué color es el pelo del camarero en el anime "Death Parade"?
+<a1>Blanco
+<a2>Rojo
+<a3>Morado
+<a4>Verde
+
+<q>¿El protagonista de cuál de estos animes tiene una espada más grande?
+<a1>Berserk
+<a2>Gintama
+<a3>Sword Art Online
+<a4>Ataque a los titanes (Shingeki no Kyojin)
+
+<q>¿Cuál de estos animes trata de carreras callejeras?
+<a1>Initial D First Stage
+<a2>Great Teacher Onizuka
+<a3>Ghost in the Shell
+<a4>The Big O
+
+<q>¿En qué vehículo viaja el protagonista en el anime "Kino no Tabi"?
+<a1>Motocicleta
+<a2>Nave espacial
+<a3>Tren
+<a4>Coche
+
+<q>¿Cuál es el nombre saiyan de Son Goku en el anime "Dragon Ball Z"?
+<a1>Kakarot
+<a2>Yamcha
+<a3>Raditz
+<a4>Oolong
+
+<q>¿Por qué empieza Misty a viajar con Ash en el anime "Pokémon"?
+<a1>Porque Ash le rompe la bici
+<a2>Porque Ash se ofrece a ser su maestro
+<a3>Porque quiere robarle a Ash su pikachu
+<a4>Porque se enamora de él
+
+<q>¿Qué le pasa a Goku cuando mira a la luna llena en el anime "Dragon Ball"?
+<a1>Se transforma en un simio gigante
+<a2>Su pelo se vuelve amarillo
+<a3>Pierde su fuerza
+<a4>Se transforma en una mujer
+
+<q>¿De qué deporte trata el anime "Yowamushi Pedal"?
+<a1>Ciclismo
+<a2>Automovilismo
+<a3>Rugby
+<a4>Golf
+
+<q>¿En cuál de estos animes los personajes están hechos usando gráficos 3D generados por ordenador?
+<a1>Kemono Friends
+<a2>Kobayashi-san Chi no Maid Dragon
+<a3>Death Note
+<a4>Flip Flappers
+
+<q>¿De qué deporte trata el anime "Yuri!!! on Ice"?
+<a1>Patinaje artístico
+<a2>Hockey sobre hielo
+<a3>Curling
+<a4>Golf
+
+<q>¿Cómo se llama la hija de Naruto en el anime "Boruto: Naruto Next Generations"?
+<a1>Himawari
+<a2>Boruta
+<a3>Sakura
+<a4>Kushina
+
+<q>¿Quién es el padre de Trunks en el anime "Dragon Ball Z"?
+<a1>Vegeta
+<a2>Son Goku
+<a3>Yamcha
+<a4>Krillin
+
+<q>¿Cómo se llama el Dios de la Destrucción en el anime "Dragon Ball Super"?
+<a1>Beerus
+<a2>Whis
+<a3>Monaka
+<a4>Hit
+
+<q>¿En cuál de estos animes hay un personaje llamado Zero Two?
+<a1>Darling in the FranXX
+<a2>Cowboy Bebop
+<a3>Neon Genesis Evangelion
+<a4>Utena, la chica revolucionaria (Shoujo Kakumei Utena)
+
+<q>¿Qué coche conduce el protagonista del anime "Initial D First Stage"?
+<a1>Toyota Sprinter Trueno
+<a2>Mazda RX-7 Turbo II
+<a3>Nissan Skyline GT-R
+<a4>Mitsubishi Lancer Evo IV
+
+<q>¿Cuál de estos no es uno de los Espíritus Heroicos invocados en el anime "Fate/Zero"?
+<a1>Heracles
+<a2>Gilgamesh
+<a3>Alejandro Magno
+<a4>Arturo Pendragon
+
+<q>¿Dónde viven los protagonistas al principio del anime "The Promised Neverland" ("Yakusoku no Neverland”)?
+<a1>En un orfanato
+<a2>En un hospital
+<a3>En un barco
+<a4>En un tren
+
+<q>¿Dónde encuentra el protagonista el Death Note en el anime "Death Note"?
+<a1>En la escuela
+<a2>En el cementerio
+<a3>En una casa abandonada
+<a4>En la biblioteca
+
+<q>¿Cuál es la comida favorita de Ryuk en el anime "Death Note"?
+<a1>Manzanas
+<a2>Pizza
+<a3>Ramen
+<a4>Zanahorias
+
+<q>¿En cuál de estos animes acusan al protagonista de haber cometido una agresión sexual?
+<a1>The Rising of The Shield Hero (Tate no Yuusha no Nariagari)
+<a2>Dr. Stone
+<a3>Vinland Saga
+<a4>Fire Force (Enen no Shouboutai)
+
+<q>¿En cuál de estos animes la protagonista no se llama Sakura?
+<a1>Sakura Trick
+<a2>Cardcaptor Sakura
+<a3>Sakura Wars (Sakura Taisen)
+<a4>Chibi Maruko-chan
+
+<q>¿Qué tipo de magia usa Megumin en el anime "KonoSuba: God's Blessing on This Wonderful World!" ("Kono Subarashii Sekai ni Shukufuku wo!")?
+<a1>Explosiones
+<a2>Teletransportación
+<a3>Transmutación
+<a4>Telequinesia
+
+<q>¿A qué planeta es transportada la protagonista en el anime "La Visión de Escaflowne" ("Tenkuu no Escaflowne")?
+<a1>Gaea
+<a2>Astra
+<a3>Namek
+<a4>Mars
+
+<q>¿Quién entrena a Son Gohan de pequeño en el anime "Dragon Ball Z"?
+<a1>Piccolo
+<a2>Yamcha
+<a3>Krillin
+<a4>Bulma
+
+<q>¿Qué efecto tiene el veneno experimental en el protagonista del anime "Detective Conan" ("Metantei Conan")?
+<a1>Se convierte en un niño
+<a2>Se muere
+<a3>Se queda calvo
+<a4>Consigue superpoderes
+
+<q>¿Dónde hay una máquina del tiempo en el anime "Doraemon, el gato cósmico" ("Doraemon")?
+<a1>En un cajón
+<a2>En la bañera
+<a3>En el garage
+<a4>En el sótano
+
+<q>¿A qué hace referencia "los Siete Pecados Capitales" en el anime "The Seven Deadly Sins" ("Nanatsu no Taizai")?
+<a1>A un grupo de personas
+<a2>A una colección de armas
+<a3>A una series de hechizos mágicos
+<a4>A un grupo de música
+
+<q>¿Cuál es el nombre de héroe del protagonista en el anime "My Hero Academia" ("Boku no Hero Academia")?
+<a1>Deku
+<a2>Shouto
+<a3>One For All
+<a4>Spiral
+
+<q>¿Quién tiene el poder de alterar la gravedad en el anime "My Hero Academia" ("Boku no Hero Academia")?
+<a1>Ochaco Uraraka
+<a2>Katsuki Bakugo
+<a3>Momo Yaoyorozu
+<a4>Tsuyu Asui
+
+<q>¿En cuál de estos animes porta el protagonista a su hermana en una caja?
+<a1>Demon Slayer: Kimetsu no Yaiba
+<a2>The Promised Neverland (Yakusoku no Neverland)
+<a3>Boruto: Naruto Next Generations
+<a4>Made in Abyss
+
+<q>¿Qué quiere el protagonista en el anime “Mob Psycho 100”?
+<a1>Tener una vida normal
+<a2>Convertirse en el psíquico más poderoso
+<a3>Vengar a su padre
+<a4>Atrapar a todos los criminales

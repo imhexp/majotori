@@ -1,0 +1,27 @@
+<a>
+    <img>tsubasa/tsubasa_rooftop_close
+    <txt>If she could get one wish to come true right then, Tsubasa would wish for a pair of wings.
+    <img>tsubasa/tsubasa_rooftop_general
+    <txt>A pair of white wings on her back so she could fly away like a bird.
+    <img>tsubasa/tsubasa_rooftop_jump
+    <txt>Without any more sadness.
+    <img>tsubasa/tsubasa_lariat
+    <txt>"Whoa, wait a moment!", said Lariat, grabbing Tsubasa's hand.
+    <txt>"Let's make a deal."
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>tsubasa/tsubasa_wings
+    <txt>Tsubasa spread her wings and flew away.
+    <img>tsubasa/tsubasa_fly
+    <txt>Towards a free and vast sky.
+    <txt>Without any more sadness.
+</a1>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>tsubasa/tsubasa_rooftop
+    <txt>...
+</a0>

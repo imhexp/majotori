@@ -1,0 +1,114 @@
+<a>
+    <img>mariano/mariano
+    <txt>Mariano era un chico grande y fuerte.
+    <txt>Pero no demasiado listo.
+    <img>mariano/library
+    <txt>Estaba esta chica que le gustaba, pero ella siempre estaba leyendo libros en la biblioteca.
+    <txt>Mariano no sabía cómo acercársele.
+    <txt>Deseaba que se metiese en una situación peligrosa para que así él pudiese salvarla y enseñarle su fuerza.
+    <txt>Eso la impresionaría y le daría una excusa para hablar con ella.
+    <img>mariano/mariano_follow_houses
+    <txt>Tal vez incluso ofrecerle acompañarla a su casa para protegerla, en vez de seguirla en secreto.
+    <img>mariano/mariano_lariat_offer
+    <txt>"Yo puedo ponerla en una situación peligrosa", dijo una bruja, apareciendo de la nada.
+    <img>mariano/mariano_nikola
+    <txt>"¡Oye, chica! ¡Necesito que me hagas un favor enorme!"
+    <img>mariano/mariano_nikola2
+    <txt>"Oh... Esto es raro", dijo Lariat.
+    <txt>"Ahora mismo estoy con otra persona. Espera un minuto y cumpliré tu deseo."
+    <img>mariano/mariano_lariat_deal
+    <txt>"¿Dónde estábamos?"
+    <txt>"Oh, sí. Algo peligroso. Hagamos un trato."
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo Lariat, y luego se fue a hablar con aquella otra chica.
+    <img>mariano/mariano_follow
+    <txt>Mariano continuó siguiendo a la chica a su casa.
+    <txt>De pronto, la chica empezó a cruzar la calle sin darse cuenta de que un montón de ciclistas iban hacia ella.
+    <txt>¡Era su oportunidad!
+    <img>mariano/mariano_cyclists
+    <txt>Mariano saltó a la calle y usó su cuerpo para protegerla.
+    <txt>Fue terriblemente doloroso, pero lo soportó.
+    <img>mariano/mariano_protector
+    <txt>"¿Estás bien?", le preguntó entonces.
+    <img>mariano/impressed_girl
+    <txt>La chica estaba tan impresionada que se quedó sin palabras.
+</a1>
+
+<a1a>
+    <img>mariano/mariano_sofa
+    <txt>Mariano conectó con su novia en más sentidos de lo que había imaginado.
+    <txt>Pero el anime no era uno de ellos.
+    <img>mariano/cute_girls
+    <txt>A su novia le encantaba ver anime sobre chicas monas viviendo vidas carentes de interés y él no podía entenderlo.
+    <txt>¡Esas series eran tan aburridas! ¡No había argumento! ¡Nunca pasaba nada relevante!
+    <txt>No podía entender su encanto.
+    <img>mariano/mariano_lariat_tea
+    <txt>"Déjala. No merece la pena", sugirió Lariat.
+    <txt>Pero él no podía hacer eso, así que en su lugar hicieron un trato.
+    <quiz>
+</a1a>
+
+<a1a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>mariano/mariano_sofa
+    <txt>Esa tarde, Mariano fue a casa de su novia a ver anime.
+    <txt>Estaba un poco deprimido, pero ver a esas chicas tan monas le levantó el ánimo.
+    <txt>No podía pensar en cosas deprimentes. ¡Eran tan monas!
+    <txt>¡Oh! ¡Ahora sí entendía por qué a su novia le gustaba!
+</a1a1>
+
+<a1a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>mariano/cute_girls
+    <txt>Mariano intentó entender ese tipo de anime, pero no pudo.
+    <txt>¡Era tan aburrido y estúpido!
+    <txt>¡Pero a ella le encantaba!
+    <img>mariano/mariano_sofa
+    <txt>Intentó aceptarlo, pero su relación acabó desgastándose.
+</a1a0>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego se fue a hablar con aquella otra chica.
+    <img>mariano/mariano_follow_truck
+    <txt>Mariano continuó siguiéndola a su casa.
+    <txt>De pronto, la chica empezó a cruzar sin darse cuenta de que un camión iba hacia ella.
+    <txt>¡Esa era su oportunidad! ¡Podía saltar y salvarla!
+    <txt>Pero ese camión era enorme y aterrador.
+    <img>mariano/girl_truck
+    <txt>Lo dudó por un segundo y entonces ya fue demasiado tarde.
+    <img>mariano/mariano_lariat_comfort
+    <txt>"No te preocupes; sobrevivirá."
+    <txt>"Aunque no estoy segura de si volverá a caminar."
+</a0>
+
+<a0a>
+    <img>mariano/mariano_teacher
+    <txt>Mariano se había convertido en un profesor de educación física.
+    <txt>El instituto en el que trabajaba tenía un equipo de béisbol.
+    <txt>Mariano decidió concentrarse en él ese año e intentar ganar el campeonato nacional.
+    <txt>La idea le emocionaba, pero no era algo que pudiera conseguir él solo.
+    <txt>Necesitaría alumnos con talento.
+    <img>mariano/mariano_teacher_deal
+    <txt>"Déjame eso a mi", dijo Lariat, apareciendo de la nada.
+    <txt>Hicieron un trato.
+    <quiz>
+</a0a>
+
+<a0a1>
+    <txt>"Felicidades", dijo Lariat, y luego desapareció.
+    <img>mariano/mariano_carl
+    <txt>Mariano hizo un test de aptitud para los nuevos jugadores.
+    <txt>Uno de ellos era especialmente prometedor.
+    <txt>¡Tenían posibilidades de ganar el campeonato!
+</a0a1>
+
+<a0a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>mariano/bad_players
+    <txt>Mariano hizo un test de aptitud para los nuevos jugadores.
+    <txt>Eran horribles todos.
+    <txt>No tenían posibilidades de ganar el campeonato con semejante equipo.
+</a0a0>

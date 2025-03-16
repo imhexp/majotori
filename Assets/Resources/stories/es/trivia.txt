@@ -1,0 +1,13 @@
+<a>
+    <img>trivia/trivia
+    <txt>¡Que le den a las historias! ¡Vamos a gastar las preguntas jugando solo a trivia!
+    <quiz>
+</a>
+
+<a1>
+    <txt>Si ves esto, ha ocurrido un error.
+</a1>
+
+<a0>
+    <txt>Si ves esto, ha ocurrido un error.
+</a0>

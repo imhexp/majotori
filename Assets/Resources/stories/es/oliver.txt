@@ -1,0 +1,35 @@
+<a>
+    <img>oliver/oliver_howling
+    <txt>El cielo estaba despejado y la Luna llena.
+    <txt>Oliver estaba fascinado por su belleza.
+    <txt>Aulló y aulló, pero la Luna no aulló de vuelta.
+    <txt>Así que siguió aullando, hasta que una sombra apareció sobre la Luna.
+    <img>oliver/oliver_lariat
+    <txt>"¿Qué estás haciendo?", preguntó la sombra.
+    <txt>"Eres un perro, no un lobo; no se supone que le tengas que aullar a la Luna."
+    <txt>"El sonido ni siquiera viaja a través del espacio. La Luna no puede oírte."
+    <img>oliver/oliver_deal
+    <txt>"Pero yo puedo arreglar eso."
+    <txt>De algún modo, Oliver entendió más o menos lo que la sombra estaba intentando decir, aunque él era un perro.
+    <txt>Hicieron una especie de trato y la sombra empezó a hacer preguntas.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Felicidades", dijo la sombra, y luego desapareció.
+    <img>oliver/oliver_howling
+    <txt>Oliver aulló tan fuerte como pudo.
+    <img>oliver/space
+    <txt>Esta vez, su aullido viajó a través del espacio, llegó hasta la Luna y rebotó de vuelta.
+    <img>oliver/oliver_moon
+    <txt>Pareció como si la Luna le estuviese contestando.
+    <txt>Oliver se sintió querido.
+</a1>
+
+<a0>
+    <txt>"Lo siento", dijo Lariat, y luego desapareció.
+    <img>oliver/oliver_howling
+    <txt>Oliver siguió aullando y aullando, pero la Luna no aulló de vuelta.
+    <img>oliver/oliver_sad
+    <txt>Oliver aulló tanto que se dañó la garganta y ya no pudo aullar más.
+</a0>

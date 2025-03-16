@@ -1,0 +1,61 @@
+<a>
+    <img>queralt/queralt
+    <txt>The electoral campaign had begun and Queralt was a favorite candidate.
+    <txt>Just thinking about all the things he could improve if he were to become president made him excited.
+    <img>queralt/queralt_deal
+    <txt>He wished so hard for the people to elect him that Lariat appeared.
+    <txt>"Play with me and I'll make your wish come true", she said.
+    <txt>But Queralt refused. He was a firm believer of democracy!
+    <txt>"But if you are the best candidate, you deserve to win!", insisted Lariat.
+    <txt>"I only want to win if the people want me to win", explained Queralt.
+    <txt>"That's stupid, but OK", said Lariat.
+    <txt>"Since I'm already here, do you have any other wish?"
+    <txt>"I don't know... You could do the dishes?", asked Queralt.
+    <txt>"That's the stupidest wish I have ever heard", replied Lariat.
+	<txt>But she was not going to refuse a free trivia game.
+    <quiz>
+</a>
+
+<a1>
+    <txt>"Congratulations", said Lariat, and then she rolled up her sleeves.
+    <img>queralt/lariat_dishes
+    <txt>She made sure everything was left clean and shiny.
+</a1>
+
+<a0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>queralt/queralt_alone
+    <txt>She didn't even bother making something bad happen.
+</a0>
+
+<b>
+    <img>queralt/queralt
+    <txt>The electoral campaign had begun and Queralt was a favorite candidate.
+    <txt>Just thinking about all the things he could improve if he were to become president made him excited.
+    <img>queralt/queralt_deal
+    <txt>He wished so hard for the people to elect him that Lariat appeared.
+    <txt>"Play with me and I'll make your wish come true", said Lariat.
+    <txt>But Queralt refused. He was a firm believer of democracy!
+    <txt>"But if you are the best candidate, you deserve to win!", insisted Lariat.
+    <txt>"I only want to win if the people want me to win", explained Queralt.
+    <txt>"That's dumb, but OK", said Lariat.
+    <txt>"Since I'm already here, do you have any other wish?"
+    <txt>"Well... Have you heard about the scandal with the giraffes?", asked Queralt.
+    <txt>"The Giraffegate?", replied Lariat.
+    <txt>"I'll take care of it."
+    <txt>The deal was closed.
+    <quiz>
+</b>
+
+<b1>
+    <txt>"Congratulations", said Lariat, and then she vanished.
+    <img>queralt/queralt_alone
+    <txt>And with her, the giraffe scandal.
+    <txt>Queralt's political campaign went a lot smoother after that!
+</b1>
+
+<b0>
+    <txt>"Sorry", said Lariat, and then she vanished.
+    <img>queralt/queralt_alone
+    <txt>The giraffe scandal didn't go away and continued to haunt Queralt for the rest of his campaign.
+</b0>

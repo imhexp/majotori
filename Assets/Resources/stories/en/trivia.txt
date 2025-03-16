@@ -1,0 +1,13 @@
+<a>
+    <img>trivia/trivia
+    <txt>Screw the stories! Let's waste the questions playing just trivia!
+    <quiz>
+</a>
+
+<a1>
+    <txt>If you see this, an error happened.
+</a1>
+
+<a0>
+    <txt>If you see this, an error happened.
+</a0>
